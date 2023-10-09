@@ -2,7 +2,12 @@
 layout: default
 ---
 
-## Met deze tools kun jij ook een luie (efficiënte, doelgerichte en innovatieve) journalist worden
+## Met deze tools kun jij een luie (lees: efficiënte, doelgerichte en innovatieve) journalist worden
+
+<hr>
+**tools**: [zoekmachines]('#zoekmachines') - Sociale Media -  *Facebook*, *Instagram*, *X (voorheen Twitter)*, *Telegram*, *YouTube*, *TikTok*, *Reddit*, - 
+<hr>
+
 
 ### Waarom wil jij een luie journalist zijn?
 
@@ -19,17 +24,20 @@ Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap
 
 Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 
-### Zoekmachines
+### <a name="zoekmachines"></a>Zoekmachines
 Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
 
-### [HaveIBeenPownd]('https://haveibeenpwned.com/')
+##### [HaveIBeenPownd]('https://haveibeenpwned.com/')
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
 
 ### Email & Telefoon
+Stukje introtekst
 
 ### Usernames
+Stukje introtekst
 
-### Sociale media
+### Sociale Media
+Stukje introtekst
 
 #### Facebook
 
@@ -48,18 +56,25 @@ Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken st
 #### Discord
 
 ### Data
+Stukje introtekst
 
 ### Websites & Domeinen
+Stukje introtekst
 
 ### Verificatie
+Stukje introtekst
 
 ### AI
+Stukje introtekst
 
 ### Beeld & Audio
+Stukje introtekst
 
 ### Crypto
+Stukje introtekst
 
 ### Overig
+Stukje introtekst
 
 
 
