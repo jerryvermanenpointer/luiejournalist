@@ -26,17 +26,20 @@ Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderst
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 ### <a id="emailphone"></a><i class="fa fa-envelope" aria-hidden="true"></i> Email & Telefoon
 Stukje introtekst
 
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 ### <a id="usernames"></a><i class="fa fa-user" aria-hidden="true"></i> Usernames
 Stukje introtekst
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 
 ### <a id="social"></a><i class="fa fa-share" aria-hidden="true"></i> Sociale Media
@@ -68,41 +71,49 @@ Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken st
 
 
 [terug naar overzicht ⬆](#)
+<hr>
 
-### <a id="websites"></a> Websites & Domeinen
+### <a id="websites"></a><i class="fa fa-globe" aria-hidden="true"></i> Websites & Domeinen
 Stukje introtekst
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 ### <a id="beeld"></a><i class="fa fa-video-camera" aria-hidden="true"></i> Beeld & Audio
 Stukje introtekst
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 ### <a id="verificatie"></a><i class="fa fa-check" aria-hidden="true"></i> Verificatie
 Stukje introtekst
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 ### <a id="data"></a><i class="fa fa-table" aria-hidden="true"></i> Data
 Stukje introtekst
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 ### <a id="ai"></a><i class="fa fa-lightbulb-o" aria-hidden="true"></i> AI
 Stukje introtekst
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 ### <a id="crypto"></a><i class="fa fa-btc" aria-hidden="true"></i> Crypto
 Stukje introtekst
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 ### <a id="overig"></a><i class="fa fa-archive" aria-hidden="true"></i> Overig
 Stukje introtekst
 
 [terug naar overzicht ⬆](#)
+<hr>
 
 
 
