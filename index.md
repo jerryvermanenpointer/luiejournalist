@@ -13,7 +13,7 @@ Ik wil journalisten en burgeronderzoekers helpen om meer, beter en efficiënter 
 
 Tools zijn niets waard zonder te begrijpen hoe ze werken. Enkel shortcut voor handmatig werk. Als je meer wil weten wanneer, waarom en hoe 
 
-==Don’t be evil==. Elke tool kun je inzetten voor goede, maar ook voor kwade bedoelingen.
+<mark>Don’t be evil</mark>. Elke tool kun je inzetten voor goede, maar ook voor kwade bedoelingen.
 
 Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap in categorieën.
 
@@ -23,9 +23,14 @@ Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
 
 <i class="fa-li fa fa-check-square"></i>
+
+Hier tekst tussendoor als test
+
 <i class="fa-solid fa-magnifying-glass"></i>
 
-##### [HaveIBeenPownd]('https://haveibeenpwned.com/')
+<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i>
+
+##### [HaveIBeenPownd](https://haveibeenpwned.com/)
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
 
 ### <a id="emailphone"></a>Email & Telefoon
