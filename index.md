@@ -19,7 +19,7 @@ Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap
 
 Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 
-### <a id="zoekmachines"></a>Zoekmachines
+### <a id="zoekmachines"></a>:mag_right: Zoekmachines
 Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
 
 ##### [HaveIBeenPownd](https://haveibeenpwned.com/)
@@ -37,7 +37,7 @@ Op deze site kun je checken of een emailadres in een databreach heeft gestaan. V
 
 <i class="fa-sharp fa-regular fa-magnifying-glass"></i>
 
-terug naar overzicht <i class="fa-solid fa-arrow-up"></i>
+terug naar overzicht <i class="fa-solid fa-arrow-up"></i> :arrow_up:
 
 ### <a id="emailphone"></a>Email & Telefoon
 Stukje introtekst
