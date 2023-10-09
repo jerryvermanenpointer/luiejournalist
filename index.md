@@ -10,30 +10,29 @@ layout: default
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil meer, beter en efficiënter onderzoek doen. Eigenlijk moeten we onszelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
 
-*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders het zware werk laten doen? Deze site helpt je daarbij. Hieronder vind je tientallen websites, scripts en apps die technisch ingewikkeld en zwaar werk voor je kunnen opknappen.
+*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders het zware werk laten doen? Deze site helpt je daarbij. Hieronder vind je tientallen websites, scripts en apps die technisch ingewikkeld en zwaar werk voor je kunnen opknappen.*
 
 *Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt. En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
 
-Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Kijk dan even onderaan deze pagina voor contactmogelijkheden ⬇️](#einde)
+Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Kijk dan even onderaan deze pagina hoe je met mij in contact kunt komen ⬇️](#einde)
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
-Zoek met HasAtIt op verschillende sociale media naar posts met specifieke hashtags.
+Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals Google, Bing en Yandex. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
 
-##### <a href="https://www.hashatit.com/" target="_blank">HashAtIt</a>
-<a href="https://www.hashatit.com/" target="_blank">![](/images/hashatit.png)</a>
-
-Zoek met HasAtIt op verschillende sociale media naar posts met specifieke hashtags.
-
-##### [HaveIBeenPownd](https://haveibeenpwned.com/)
+##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a>
+<a href="https://haveibeenpwned.com/" target="_blank">![](/images/pownd.png)</a>
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
 
-##### [ZeroTrust](https://search.0t.rocks/)
+##### <a href="https://search.0t.rocks/" target="_blank">ZeroTrust</a>
+<a href="https://search.0t.rocks" target="_blank">![](/images/zerotrust.png)</a>
 Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. De site kan offline worden gehaald, maar [hier staat de code](https://github.com/MiyakoYakota/search.0t.rocks) om je eigen versie te hosten.
 
-##### [Shodan](https://www.shodan.io/)
+##### <a href="https://www.shodan.io/" target="_blank">Shodan</a>
+<a href="https://www.shodan.io/" target="_blank">![](/images/shodan.png)</a>
 Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. [Check ook deze pagina](https://github.com/lothos612/shodan) om slimme zoekopdrachten (dorks) te formuleren.
 
-##### [SocialSearcher](https://www.social-searcher.com/)
+##### <a href="https://www.social-searcher.com/" target="_blank">SocialSearcher</a>
+<a href="https://www.social-searcher.com/" target="_blank">![](/images/socialsearcher.png)</a>
 SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Facebook, Twitter en YouTube kunt zoeken.
 
 [terug naar overzicht ⬆](#)
