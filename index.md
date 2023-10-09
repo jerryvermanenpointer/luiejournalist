@@ -19,10 +19,22 @@ layout: default
 
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
-Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
+Zoek met HasAtIt op verschillende sociale media naar posts met specifieke hashtags.
+
+##### [HashAtIt](https://www.hashatit.com/)
+Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
+
+##### [ZeroTrust](https://search.0t.rocks/)
+Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. De site kan offline worden gehaald, maar [hier staat de code](https://github.com/MiyakoYakota/search.0t.rocks) om je eigen versie te hosten.
 
 ##### [HaveIBeenPownd](https://haveibeenpwned.com/)
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
+
+##### [SocialSearcher](https://www.shodan.io/)
+Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. [Check ook deze pagina](https://github.com/lothos612/shodan) om slimme zoekopdrachten (dorks) te formuleren.
+
+##### [HaveIBeenPownd](https://www.social-searcher.com/)
+SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Facebook, Twitter en YouTube kunt zoeken.
 
 [terug naar overzicht ⬆](#)
 <hr>
@@ -116,7 +128,7 @@ Stukje introtekst
 
 *Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.*
 
-<div style="text-align: right">• Deze site is gemaakt in [Jekyll](https://jekyllrb.com/), theme [Good Clean Read](https://github.com/adueck/good-clean-read)</div>
-<div style="text-align: right">• [Changelog](https://raw.githubusercontent.com/jerryvermanenpointer/luiejournalist/master/changelog.md)</div>
+• Deze site is gemaakt in [Jekyll](https://jekyllrb.com/), theme [Good Clean Read](https://github.com/adueck/good-clean-read)</div>
+• [Changelog](https://raw.githubusercontent.com/jerryvermanenpointer/luiejournalist/master/changelog.md)</div>
 
 <hr>
