@@ -2,9 +2,66 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## Met deze tools kun jij ook een luie (efficiënte, doelgerichte en innovatieve) journalist worden
 
-### Nice, clean, reading!
+### Waarom wil jij een luie journalist zijn?
+
+
+
+Ik wil journalisten en burgeronderzoekers helpen om meer, beter en efficiënter onderzoek te doen.
+
+
+Tools zijn niets waard zonder te begrijpen hoe ze werken. Enkel shortcut voor handmatig werk. Als je meer wil weten wanneer, waarom en hoe 
+
+Don’t be evil. Elke tool kun je inzetten voor goede, maar ook voor kwade bedoelingen.
+
+Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap in categorieën.
+
+Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
+
+### Zoekmachines
+Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
+
+### [HaveIBeenPownd]('https://haveibeenpwned.com/')
+Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
+
+### Email & Telefoon
+
+### Usernames
+
+### Sociale media
+
+#### Facebook
+
+#### Instagram
+
+
+#### Telegram
+Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
+
+#### YouTube
+
+#### Tiktok
+
+#### Reddit
+
+#### Discord
+
+### Data
+
+### Websites & Domeinen
+
+### Verificatie
+
+### AI
+
+### Beeld & Audio
+
+### Crypto
+
+### Overig
+
+
 
 Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
 
