@@ -5,26 +5,21 @@ layout: default
 ## Met deze tools kun jij een luie (lees: efficiënte, doelgerichte en innovatieve) journalist worden
 
 <hr>
-**tools**: [zoekmachines]('#zoekmachines') - Sociale Media -  *Facebook*, *Instagram*, *X (voorheen Twitter)*, *Telegram*, *YouTube*, *TikTok*, *Reddit*, - 
+**tools**: [Zoekmachines](#zoekmachines) • Email & Telefoon • Usernames • Sociale Media:  *Facebook*, *Instagram*, *X (voorheen Twitter)*, *Telegram*, *YouTube*, *TikTok*, *Reddit*, *Discord* • Websites & Domeinen • Beeld & Audio • Verificatie • Data • AI • Crypto • Overig
 <hr>
-
-
-### Waarom wil jij een luie journalist zijn?
-
-
 
 Ik wil journalisten en burgeronderzoekers helpen om meer, beter en efficiënter onderzoek te doen.
 
 
 Tools zijn niets waard zonder te begrijpen hoe ze werken. Enkel shortcut voor handmatig werk. Als je meer wil weten wanneer, waarom en hoe 
 
-Don’t be evil. Elke tool kun je inzetten voor goede, maar ook voor kwade bedoelingen.
+==Don’t be evil==. Elke tool kun je inzetten voor goede, maar ook voor kwade bedoelingen.
 
 Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap in categorieën.
 
 Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 
-### <a name="zoekmachines"></a>Zoekmachines
+### <a id="zoekmachines"></a>Zoekmachines
 Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
 
 ##### [HaveIBeenPownd]('https://haveibeenpwned.com/')
@@ -40,6 +35,13 @@ Stukje introtekst
 Stukje introtekst
 
 #### Facebook
+Stukje introductietekt
+
+#####
+
+#####
+
+#####
 
 #### Instagram
 
@@ -55,19 +57,19 @@ Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken st
 
 #### Discord
 
-### Data
+### Websites & Domeinen
 Stukje introtekst
 
-### Websites & Domeinen
+### Beeld & Audio
 Stukje introtekst
 
 ### Verificatie
 Stukje introtekst
 
-### AI
+### Data
 Stukje introtekst
 
-### Beeld & Audio
+### AI
 Stukje introtekst
 
 ### Crypto
