@@ -22,6 +22,9 @@ Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 ### <a id="zoekmachines"></a><i class="fa-solid fa-magnifying-glass"></i>Zoekmachines
 Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
 
+<i class="fa-li fa fa-check-square"></i>
+<i class="fa-solid fa-magnifying-glass"></i>
+
 ##### [HaveIBeenPownd]('https://haveibeenpwned.com/')
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
 
