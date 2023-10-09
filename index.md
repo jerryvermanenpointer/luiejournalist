@@ -14,28 +14,28 @@ layout: default
 
 *Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt. En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
 
-Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Kijk dan even onderaan deze pagina hoe je met mij in contact kunt komen ⬇️](#einde)
+Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Kijk dan even onderaan deze pagina hoe je met mij in contact kunt komen ⬇️⬆⬇️]](#einde)
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals Google, Bing en Yandex. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
 
 ##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a>
 <a href="https://haveibeenpwned.com/" target="_blank">![](/images/pownd.png)</a>
-Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
+Op deze site kun je checken of een emailadres in een datalek voorkomt. Handig om je eigen digitale veiligheid te checken, maar ook om te controleren of een mailadres daadwerkelijk gebruikt wordt. Voor telefoonnummers kun je checken of ze in de <a href="https://nos.nl/artikel/2375266-gegevens-van-honderden-miljoenen-facebookgebruikers-op-hackersforum-gedeeld" target="_blank:>Facebook Data Breach</a> hebben gestaan.
 
 ##### <a href="https://search.0t.rocks/" target="_blank">ZeroTrust</a>
 <a href="https://search.0t.rocks" target="_blank">![](/images/zerotrust.png)</a>
-Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. De site kan offline worden gehaald, maar [hier staat de code](https://github.com/MiyakoYakota/search.0t.rocks) om je eigen versie te hosten.
+Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. Wachtwoorden zijn niet zichtbaar. De site is meerdere keren offline gehaald, maar <a href="https://github.com/MiyakoYakota/search.0t.rocks" target="_blank">hier staat de code</a> om je eigen versie te hosten.
 
 ##### <a href="https://www.shodan.io/" target="_blank">Shodan</a>
 <a href="https://www.shodan.io/" target="_blank">![](/images/shodan.png)</a>
-Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. [Check ook deze pagina](https://github.com/lothos612/shodan) om slimme zoekopdrachten (dorks) te formuleren.
+Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. <a href="https://github.com/lothos612/shodan" target="_blank>Check ook deze pagina</a> om slimme zoekopdrachten (dorks) te formuleren.
 
 ##### <a href="https://www.social-searcher.com/" target="_blank">SocialSearcher</a>
 <a href="https://www.social-searcher.com/" target="_blank">![](/images/socialsearcher.png)</a>
 SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Facebook, Twitter en YouTube kunt zoeken.
 
-[terug naar overzicht ⬆](#)
+[terug naar overzicht ⬆⬇️]](#)
 <hr>
 
 ### <a id="emailphone"></a><i class="fa fa-envelope" aria-hidden="true"></i> Email & Telefoon
