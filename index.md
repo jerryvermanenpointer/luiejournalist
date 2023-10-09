@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze tools kun jij een luie (lees: efficiënte, doelgerichte en innovatieve) journalist worden
+## Met deze tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **tools**: [Zoekmachines](#zoekmachines) • [Email & Telefoon](#emailphone) • [Usernames](#usernames) • [Sociale Media](#social):  *[Facebook](#fb)*, *[Instagram](#insta)*, *[X (voorheen Twitter)](#twitter)*, *[Telegram](#telegram)*, *[YouTube](#youtube)*, *[TikTok](#tiktok)*, *[Reddit](#reddit)*, *[Discord](#discord)* • [Websites & Domeinen](#websites) • [Beeld & Audio](#beeld) • [Verificatie](#verificatie) • [Data](#data) • [AI](#ai) • [Crypto](#crypto) • [Overig](#overig)
@@ -19,23 +19,8 @@ Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap
 
 Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 
-
-### Font awesome is also included
-
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i> Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
-
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>you can make lists...</li>
-  <li><i class="fa-li fa fa-check-square-o"></i>with cool icons like this,</li>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
-</ul>
-
-If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
-
-<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
-
-### <a id="zoekmachines"> 🔍 Zoekmachines
-Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
+### <a id="zoekmachines"> <i class="fa fa-search" aria-hidden="true"></i>Zoekmachines
+Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken. <i class="fa-solid fa-magnifying-glass"></i>
 
 ##### [HaveIBeenPownd](https://haveibeenpwned.com/)
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
