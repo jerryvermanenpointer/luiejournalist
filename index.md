@@ -5,7 +5,7 @@ layout: default
 ## Met deze tools kun jij een luie (lees: efficiënte, doelgerichte en innovatieve) journalist worden
 
 <hr>
-**tools**: [Zoekmachines](#zoekmachines) • [Email & Telefoon](#emailphone) • [Usernames](#usernames) • [Sociale Media](#social):  *[Facebook](#fb)*, *[Instagram](#insta)*, *[X (voorheen Twitter)](#twitter)*, *Telegram*, *YouTube*, *TikTok*, *Reddit*, *Discord* • Websites & Domeinen • Beeld & Audio • Verificatie • Data • AI • Crypto • Overig
+**tools**: [Zoekmachines](#zoekmachines) • [Email & Telefoon](#emailphone) • [Usernames](#usernames) • [Sociale Media](#social):  *[Facebook](#fb)*, *[Instagram](#insta)*, *[X (voorheen Twitter)](#twitter)*, *[Telegram](#telegram)*, *[YouTube](#youtube)*, *[TikTok](#tiktok)*, *[Reddit](#reddit)*, *[Discord](#discord)* • [Websites & Domeinen](#websites) • [Beeld & Audio](#beeld) • [Verificatie](#verificatie) • [Data](#data) • [AI](#ai) • [Crypto](#crypto) • [Overig](#overig)
 <hr>
 
 Ik wil journalisten en burgeronderzoekers helpen om meer, beter en efficiënter onderzoek te doen.
@@ -19,19 +19,25 @@ Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap
 
 Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 
-### <a id="zoekmachines"></a><i class="fa-solid fa-magnifying-glass"></i>Zoekmachines
+### <a id="zoekmachines"></a>Zoekmachines
 Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
-
-<i class="fa-li fa fa-check-square"></i>
-
-Hier tekst tussendoor als test
-
-<i class="fa-solid fa-magnifying-glass"></i>
-
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i>
 
 ##### [HaveIBeenPownd](https://haveibeenpwned.com/)
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
+
+<i class="fa-solid fa-magnifying-glass"></i>
+
+<i class="fa-regular fa-magnifying-glass"></i>
+
+<i class="fa-light fa-magnifying-glass"></i>
+
+<i class="fa-thin fa-magnifying-glass"></i>
+
+<i class="fa-sharp fa-solid fa-magnifying-glass"></i>
+
+<i class="fa-sharp fa-regular fa-magnifying-glass"></i>
+
+terug naar overzicht <i class="fa-solid fa-arrow-up"></i>
 
 ### <a id="emailphone"></a>Email & Telefoon
 Stukje introtekst
@@ -55,37 +61,43 @@ Stukje introductietekt
 
 #### <a id="twitter"></a>X (voorheen Twitter)
 
-#### Telegram
+#### <a id="telegram"></a>Telegram
 Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
 
-#### YouTube
+#### <a id="youtube"></a>YouTube
 
-#### Tiktok
+#### <a id="tiktok"></a>Tiktok
 
-#### Reddit
+#### <a id="reddit"></a>Reddit
 
-#### Discord
+#### <a id="discord"></a>Discord
 
-### Websites & Domeinen
+### <a id="websites"></a>Websites & Domeinen
 Stukje introtekst
 
-### Beeld & Audio
+### <a id="beeld"></a>Beeld & Audio
 Stukje introtekst
 
-### Verificatie
+### <a id="verificatie"></a>Verificatie
 Stukje introtekst
 
-### Data
+### <a id="data"></a>Data
 Stukje introtekst
 
-### AI
+### <a id="ai"></a>AI
 Stukje introtekst
 
-### Crypto
+### <a id="crypto"></a>Crypto
 Stukje introtekst
 
-### Overig
+### <a id="overig"></a>Overig
 Stukje introtekst
+
+
+
+
+
+<hr>
 
 
 
