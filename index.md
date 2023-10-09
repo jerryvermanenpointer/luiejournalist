@@ -19,6 +19,21 @@ Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap
 
 Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 
+
+### Font awesome is also included
+
+<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i> Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i>you can make lists...</li>
+  <li><i class="fa-li fa fa-check-square-o"></i>with cool icons like this,</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
+</ul>
+
+If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
+
+<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
+
 ### <a id="zoekmachines"> 🔍 Zoekmachines
 Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
 
