@@ -21,9 +21,9 @@ layout: default
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Zoek met HasAtIt op verschillende sociale media naar posts met specifieke hashtags.
 
-##### <a href="https://www.hashatit.com/" target="_blank">HashAtIt
-![](/images/hashatit.png)
-</a>
+##### <a href="https://www.hashatit.com/" target="_blank">HashAtIt</a>
+<a href="https://www.hashatit.com/" target="_blank">![](/images/hashatit.png)</a>
+
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
 
 ##### [ZeroTrust](https://search.0t.rocks/)
