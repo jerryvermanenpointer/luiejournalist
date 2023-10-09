@@ -19,21 +19,21 @@ Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap
 
 Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 
-### <a id="zoekmachines"> <i class="fa fa-search" aria-hidden="true"></i>Zoekmachines
-Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken. <i class="fa-solid fa-magnifying-glass"></i>
+### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i>Zoekmachines
+Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
 
 ##### [HaveIBeenPownd](https://haveibeenpwned.com/)
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
 
 [terug naar overzicht ⬆](#)
 
-### <a id="emailphone"></a>Email & Telefoon
+### <a id="emailphone"></a><i class="fa fa-envelope" aria-hidden="true"></i>Email & Telefoon
 Stukje introtekst
 
-### <a id="usernames"></a>Usernames
+### <a id="usernames"></a><i class="fa fa-user" aria-hidden="true"></i>Usernames
 Stukje introtekst
 
-### <a id="social"></a>Sociale Media
+### <a id="social"></a><i class="fa fa-share" aria-hidden="true"></i>Sociale Media
 Stukje introtekst
 
 #### <a id="fb"></a>Facebook
@@ -63,22 +63,22 @@ Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken st
 ### <a id="websites"></a>Websites & Domeinen
 Stukje introtekst
 
-### <a id="beeld"></a>Beeld & Audio
+### <a id="beeld"></a><i class="fa fa-video-camera" aria-hidden="true"></i>Beeld & Audio
 Stukje introtekst
 
-### <a id="verificatie"></a>Verificatie
+### <a id="verificatie"></a><i class="fa fa-check" aria-hidden="true"></i>Verificatie
 Stukje introtekst
 
-### <a id="data"></a>Data
+### <a id="data"></a><i class="fa fa-table" aria-hidden="true"></i>Data
 Stukje introtekst
 
-### <a id="ai"></a>AI
+### <a id="ai"></a><i class="fa fa-lightbulb-o" aria-hidden="true"></i>AI
 Stukje introtekst
 
-### <a id="crypto"></a>Crypto
+### <a id="crypto"></a><i class="fa fa-btc" aria-hidden="true"></i>Crypto
 Stukje introtekst
 
-### <a id="overig"></a>Overig
+### <a id="overig"></a><i class="fa fa-archive" aria-hidden="true"></i>Overig
 Stukje introtekst
 
 
