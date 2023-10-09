@@ -10,13 +10,11 @@ layout: default
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil meer, beter en efficiënter onderzoek doen. Eigenlijk moeten we onszelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
 
-*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders het zware werk laten doen? Deze site helpt je daarbij.*
+*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders het zware werk laten doen? Deze site helpt je daarbij. Hieronder vind je tientallen websites, scripts en apps die technisch ingewikkeld en zwaar werk voor je kunnen opknappen.
 
-*Hieronder vind je tientallen websites, scripts en apps die zwaar en technisch ingewikkeld werk voor je kunnen opknappen. Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt.*
+*Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt. En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
 
-*En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
-
-*Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Kijk dan even onderaan deze pagina voor contactmogelijkheden ⬇️](#einde)*
+Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Kijk dan even onderaan deze pagina voor contactmogelijkheden ⬇️](#einde)
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Zoek met HasAtIt op verschillende sociale media naar posts met specifieke hashtags.
