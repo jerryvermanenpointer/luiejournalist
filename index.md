@@ -14,7 +14,7 @@ layout: default
 
 *Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt. En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
 
-Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Kijk dan even onderaan deze pagina hoe je met mij in contact kunt komen ⬇️⬆⬇️]](#einde)
+Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Kijk dan even onderaan deze pagina hoe je met mij in contact kunt komen ⬇](#einde)
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals Google, Bing en Yandex. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
@@ -35,11 +35,34 @@ Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. <a 
 <a href="https://www.social-searcher.com/" target="_blank">![](/images/socialsearcher.png)</a>
 SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Facebook, Twitter en YouTube kunt zoeken.
 
-[terug naar overzicht ⬆⬇️]](#)
+[terug naar overzicht ⬆](#)
 <hr>
 
 ### <a id="emailphone"></a><i class="fa fa-envelope" aria-hidden="true"></i> Email & Telefoon
 Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 
 [terug naar overzicht ⬆](#)
@@ -48,6 +71,22 @@ Stukje introtekst
 ### <a id="usernames"></a><i class="fa fa-user" aria-hidden="true"></i> Usernames
 Stukje introtekst
 
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
 [terug naar overzicht ⬆](#)
 <hr>
 
@@ -55,29 +94,122 @@ Stukje introtekst
 ### <a id="social"></a><i class="fa fa-share" aria-hidden="true"></i> Sociale Media
 Stukje introtekst
 
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
 #### <a id="fb"></a>Facebook
 Stukje introductietekt
 
-#####
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
 
-#####
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
 
-#####
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 #### <a id="insta"></a>Instagram
+Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 #### <a id="twitter"></a>X (voorheen Twitter)
+Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 #### <a id="telegram"></a>Telegram
 Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
 
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
 #### <a id="youtube"></a>YouTube
+Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 #### <a id="tiktok"></a>Tiktok
+Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 #### <a id="reddit"></a>Reddit
+Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 #### <a id="discord"></a>Discord
+Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
 
 
 [terug naar overzicht ⬆](#)
@@ -86,11 +218,35 @@ Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken st
 ### <a id="websites"></a><i class="fa fa-globe" aria-hidden="true"></i> Websites & Domeinen
 Stukje introtekst
 
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
 [terug naar overzicht ⬆](#)
 <hr>
 
 ### <a id="beeld"></a><i class="fa fa-video-camera" aria-hidden="true"></i> Beeld & Audio
 Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 [terug naar overzicht ⬆](#)
 <hr>
@@ -98,11 +254,35 @@ Stukje introtekst
 ### <a id="verificatie"></a><i class="fa fa-check" aria-hidden="true"></i> Verificatie
 Stukje introtekst
 
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
 [terug naar overzicht ⬆](#)
 <hr>
 
 ### <a id="data"></a><i class="fa fa-table" aria-hidden="true"></i> Data
 Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 [terug naar overzicht ⬆](#)
 <hr>
@@ -110,17 +290,53 @@ Stukje introtekst
 ### <a id="ai"></a><i class="fa fa-lightbulb-o" aria-hidden="true"></i> AI
 Stukje introtekst
 
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
 [terug naar overzicht ⬆](#)
 <hr>
 
 ### <a id="crypto"></a><i class="fa fa-btc" aria-hidden="true"></i> Crypto
 Stukje introtekst
 
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
 [terug naar overzicht ⬆](#)
 <hr>
 
 ### <a id="overig"></a><i class="fa fa-archive" aria-hidden="true"></i> Overig
 Stukje introtekst
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+#### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
 
 [terug naar overzicht ⬆](#)
 <hr>
