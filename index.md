@@ -21,7 +21,9 @@ layout: default
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Zoek met HasAtIt op verschillende sociale media naar posts met specifieke hashtags.
 
-##### [HashAtIt](https://www.hashatit.com/)
+##### <a href="https://www.hashatit.com/" target="_blank">HashAtIt
+![](/images/hashatit.png)
+</a>
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
 
 ##### [ZeroTrust](https://search.0t.rocks/)
@@ -128,7 +130,7 @@ Stukje introtekst
 
 *Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.*
 
-• Deze site is gemaakt in [Jekyll](https://jekyllrb.com/), theme [Good Clean Read](https://github.com/adueck/good-clean-read)</div>
-• [Changelog](https://raw.githubusercontent.com/jerryvermanenpointer/luiejournalist/master/changelog.md)</div>
+* Deze site is gemaakt in [Jekyll](https://jekyllrb.com/), theme [Good Clean Read](https://github.com/adueck/good-clean-read)
+* [Changelog](https://raw.githubusercontent.com/jerryvermanenpointer/luiejournalist/master/changelog.md)
 
 <hr>
