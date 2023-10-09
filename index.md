@@ -5,7 +5,7 @@ layout: default
 ## Met deze tools kun jij een luie (lees: efficiënte, doelgerichte en innovatieve) journalist worden
 
 <hr>
-**tools**: [Zoekmachines](#zoekmachines) • Email & Telefoon • Usernames • Sociale Media:  *Facebook*, *Instagram*, *X (voorheen Twitter)*, *Telegram*, *YouTube*, *TikTok*, *Reddit*, *Discord* • Websites & Domeinen • Beeld & Audio • Verificatie • Data • AI • Crypto • Overig
+**tools**: [Zoekmachines](#zoekmachines) • [Email & Telefoon](#emailphone) • [Usernames](#usernames) • [Sociale Media](#social):  *[Facebook](#fb)*, *[Instagram](#insta)*, *[X (voorheen Twitter)](#twitter)*, *Telegram*, *YouTube*, *TikTok*, *Reddit*, *Discord* • Websites & Domeinen • Beeld & Audio • Verificatie • Data • AI • Crypto • Overig
 <hr>
 
 Ik wil journalisten en burgeronderzoekers helpen om meer, beter en efficiënter onderzoek te doen.
@@ -19,22 +19,22 @@ Indeling in categorie waarin het logisch voelt. Zit af en toe natuurlijk overlap
 
 Kom je grote fouten tegen? Heb je nuttige toevoegingen? Mail dan.
 
-### <a id="zoekmachines"></a>Zoekmachines
+### <a id="zoekmachines"></a><i class="fa-solid fa-magnifying-glass"></i>Zoekmachines
 Uiteraard ken je alle grote zoekmachines (Google, Bing, Yandex) wel. Met onderstaande gespecialiseerde zoekmachines kun je  nog dieper in het web duiken.
 
 ##### [HaveIBeenPownd]('https://haveibeenpwned.com/')
 Op deze site kun je checken of een emailadres in een databreach heeft gestaan. Voor telefoonnummers kun je checken of ze in de Facebook Data Breach hebben gestaan.
 
-### Email & Telefoon
+### <a id="emailphone"></a>Email & Telefoon
 Stukje introtekst
 
-### Usernames
+### <a id="usernames"></a>Usernames
 Stukje introtekst
 
-### Sociale Media
+### <a id="social"></a>Sociale Media
 Stukje introtekst
 
-#### Facebook
+#### <a id="fb"></a>Facebook
 Stukje introductietekt
 
 #####
@@ -43,8 +43,9 @@ Stukje introductietekt
 
 #####
 
-#### Instagram
+#### <a id="insta"></a>Instagram
 
+#### <a id="twitter"></a>X (voorheen Twitter)
 
 #### Telegram
 Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
