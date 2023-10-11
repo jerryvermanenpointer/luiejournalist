@@ -23,10 +23,6 @@ Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals Google, Bing
 <a href="https://haveibeenpwned.com/" target="_blank">![](/images/pownd.png)</a>
 Op deze site kun je checken of een emailadres in een datalek voorkomt. Handig om je eigen digitale veiligheid te checken, maar ook om te controleren of een mailadres daadwerkelijk gebruikt wordt. Voor telefoonnummers kun je checken of ze in de <a href="https://nos.nl/artikel/2375266-gegevens-van-honderden-miljoenen-facebookgebruikers-op-hackersforum-gedeeld" target="_blank">Facebook Data Breach</a> hebben gestaan.
 
-##### <a href="https://search.0t.rocks/" target="_blank">ZeroTrust</a>
-<a href="https://search.0t.rocks" target="_blank">![](/images/zerotrust.png)</a>
-Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. Wachtwoorden zijn niet zichtbaar. De site is meerdere keren offline gehaald, maar <a href="https://github.com/MiyakoYakota/search.0t.rocks" target="_blank">hier staat de code</a> om je eigen versie te hosten.
-
 ##### <a href="https://www.shodan.io/" target="_blank">Shodan</a>
 <a href="https://www.shodan.io/" target="_blank">![](/images/shodan.png)</a>
 Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. <a href="https://github.com/lothos612/shodan" target="_blank">Check ook deze pagina</a> om slimme zoekopdrachten (dorks) te formuleren.
@@ -34,6 +30,11 @@ Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. <a 
 ##### <a href="https://www.social-searcher.com/" target="_blank">SocialSearcher</a>
 <a href="https://www.social-searcher.com/" target="_blank">![](/images/socialsearcher.png)</a>
 SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Facebook, Twitter en YouTube kunt zoeken.
+
+##### <a href="https://search.0t.rocks/" target="_blank">ZeroTrust</a>
+<a class="p-1 px-3 mr-1 mb-1 inline-block text-xs font-mono rounded bg-green-200 text-green-800 hover:bg-blue-200 hover:text-blue-800 transition duration-300 ease-in-out">Website</a>
+<a href="https://search.0t.rocks" target="_blank">![](/images/zerotrust.png)</a>
+Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. Wachtwoorden zijn niet zichtbaar. De site is meerdere keren offline gehaald, maar <a href="https://github.com/MiyakoYakota/search.0t.rocks" target="_blank">hier staat de code</a> om je eigen versie te hosten.
 
 [terug naar overzicht ⬆](#)
 <hr>
