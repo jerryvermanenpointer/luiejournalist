@@ -33,6 +33,11 @@ SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Fa
 
 ##### <a href="https://search.0t.rocks/" target="_blank">ZeroTrust</a>
 <button>Website</button>
+<button disabled>Website</button>
+<legend>Website</legend>
+<mark>Website</mark>
+<sub>Website</sub>
+<hr>Website</hr>
 <a href="https://search.0t.rocks" target="_blank">![](/images/zerotrust.png)</a>
 Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. Wachtwoorden zijn niet zichtbaar. De site is meerdere keren offline gehaald, maar <a href="https://github.com/MiyakoYakota/search.0t.rocks" target="_blank">hier staat de code</a> om je eigen versie te hosten.
 
@@ -364,7 +369,7 @@ Stukje introtekst
 [terug naar overzicht ⬆](#)
 <hr>
 <a id="einde"></a>
-*Deze website is gemaakt door Jerry Vermanen, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Klopt iets niet? Of heb je nuttige toevoegingen? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.*
+*Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Klopt iets niet? Of heb je nuttige toevoegingen? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.*
 
 *Al die tools zijn leuk en aardig, maar het wordt pas interessant zodra je ze voor een onderzoek kunt inzetten. Wil je op de hoogte blijven van de allerbeste data- en onderzoeksjournalistiek? Volg dan mijn nieuwsbrief Klikdinges.*
 
