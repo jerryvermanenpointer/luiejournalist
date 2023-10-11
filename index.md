@@ -32,7 +32,7 @@ Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. <a 
 SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Facebook, Twitter en YouTube kunt zoeken.
 
 ##### <a href="https://search.0t.rocks/" target="_blank">ZeroTrust</a>
-<button>Website</button
+<button>Website</button>
 <a href="https://search.0t.rocks" target="_blank">![](/images/zerotrust.png)</a>
 Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. Wachtwoorden zijn niet zichtbaar. De site is meerdere keren offline gehaald, maar <a href="https://github.com/MiyakoYakota/search.0t.rocks" target="_blank">hier staat de code</a> om je eigen versie te hosten.
 
