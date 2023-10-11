@@ -5,7 +5,7 @@ layout: default
 ## Met deze tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
-**tools**: [Zoekmachines](#zoekmachines) • [Email & Telefoon](#emailphone) • [Usernames](#usernames) • [Sociale Media](#social):  *[Facebook](#fb)*, *[Instagram](#insta)*, *[X (voorheen Twitter)](#twitter)*, *[Telegram](#telegram)*, *[YouTube](#youtube)*, *[TikTok](#tiktok)*, *[Reddit](#reddit)*, *[Discord](#discord)* • [Websites & Domeinen](#websites) • [Beeld & Audio](#beeld) • [Verificatie](#verificatie) • [Data](#data): *[Verzamelen](#verzamelen)*, *[Bewerken](#bewerken)*, *[Visualiseren](#visualiseren)* • [AI](#ai) • [Crypto](#crypto) • [Overig](#overig)
+**tools**: [Zoekmachines](#zoekmachines) • [Email & Telefoon](#emailphone) • [Usernames](#usernames) • [Sociale Media](#social):  *[Facebook](#fb)*, *[Instagram](#insta)*, *[Telegram](#telegram)*, *[YouTube](#youtube)*, *[TikTok](#tiktok)*, *[Reddit](#reddit)*, *[Discord](#discord)*, *[X (voorheen Twitter)](#twitter)*, *[LinkedIn](#linkedin)*, *[Mastondon](mastodon)*, *[BlueSky](#bluesky)* • [Websites & Domeinen](#websites) • [Beeld & Audio](#beeld) • [Verificatie](#verificatie) • [Data](#data): *[Verzamelen](#verzamelen)*, *[Bewerken](#bewerken)*, *[Visualiseren](#visualiseren)* • [AI](#ai) • [Crypto](#crypto) • [Overig](#overig)
 <hr>
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
@@ -19,13 +19,11 @@ Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Check
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals Google, Bing en Yandex. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
 
-##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a>
-<mark>Website</mark>
+##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a> # <mark>Website</mark>
 <a href="https://haveibeenpwned.com/" target="_blank">![](/images/pownd.png)</a>
 Op deze site kun je checken of een emailadres in een datalek voorkomt. Handig om je eigen digitale veiligheid te checken, maar ook om te controleren of een mailadres daadwerkelijk gebruikt wordt. Voor telefoonnummers kun je checken of ze in de <a href="https://nos.nl/artikel/2375266-gegevens-van-honderden-miljoenen-facebookgebruikers-op-hackersforum-gedeeld" target="_blank">Facebook Data Breach</a> hebben gestaan.
 
-##### <a href="https://www.shodan.io/" target="_blank">Shodan</a>
-<mark>Website</mark>
+<h5><a href="https://www.shodan.io/" target="_blank">Shodan</a></h5> <mark>Website</mark>
 <a href="https://www.shodan.io/" target="_blank">![](/images/shodan.png)</a>
 Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. <a href="https://github.com/lothos612/shodan" target="_blank">Check ook deze pagina</a> om slimme zoekopdrachten (dorks) te formuleren.
 
@@ -124,14 +122,6 @@ Stukje introtekst
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
 
-
-##### <a id="twitter"></a>X (voorheen Twitter)
-Stukje introtekst
-
-#### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
 #### <a id="telegram"></a>Telegram
 Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
 
@@ -206,6 +196,17 @@ Stukje introtekst
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
 
+#### <a id="twitter"></a>X (voorheen Twitter)
+Sinds ene Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch houd ik deze sectie op de site. Misschien tegen beter weten in. Maar wie nog goede suggesties heeft, is welkom om te tippen.
+
+#### <a id="linkedin"></a>linkedin
+Ooit begonnen als online CV-site, momenteel een slappe feed vol 'inspirerende' ervaringen van saaie mensen. Alsnog een goede bron van informatie, maar ik ken geen nuttige websites of tools voor LinkedIn.
+
+#### <a id="mastodon"></a>Mastodon
+Stukje tekst
+
+#### <a id="bluesky"></a>BlueSky
+Stukje tekst
 
 [terug naar overzicht ⬆](#)
 <hr>
