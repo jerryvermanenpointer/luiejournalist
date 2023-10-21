@@ -181,7 +181,7 @@ Stukje introtekst
 
 
 #### <a id="reddit"></a>Reddit
-Een van de weinige online forums waar je intelligentie en doordachte gesprekken kunt aantreffen. En natuurlijk veel kattenmemes.
+Een van de weinige online forums waar je intelligente en doordachte gesprekken kunt aantreffen. En natuurlijk veel kattenmemes.
 
 ##### <a href="https://f5bot.com/" target="_blank">F5Bot></a> | <mark>Website</mark>
 <a href="https://f5bot.com/" target="_blank">![](images/f5bot.png)</a>
