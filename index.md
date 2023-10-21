@@ -122,23 +122,23 @@ Stukje introtekst
 #### <a id="telegram"></a>Telegram
 Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
 
-##### <a href="" target="_blank">Bellingcat Phonenumber Check</a>
+##### <a href="" target="_blank">Bellingcat Phonenumber Check</a> | <mark>Script</mark>
 <a href="" target="_blank">![](images/)</a>
 Met dit script (geschreven door Bellingcat) kun je checken of een telefoonnummer is gekoppeld aan een Telegram-account.
 
-##### <a href="" target="_blank">MadelineProto</a>
+##### <a href="" target="_blank">MadelineProto</a> | <mark>Scraper</mark>
 <a href="" target="_blank">![](images/)</a>
 Script om de Telegram-API mee aan te spreken. Handig om scrapers mee te maken, maar je moet dus nog wel zelf flink wat programmeren.
 
-##### <a href="" target="_blank">Save Telegram Chat History</a>
+##### <a href="" target="_blank">Save Telegram Chat History</a> | <mark>Plugin</mark>
 <a href="" target="_blank">![](images/)</a>
 Met deze Chrome-plugin kun je de volledige geschiedenis van een kanaal of groep downloaden. Je moet echter wel de oude interface van Telegram gebruiken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
 
-##### <a href="" target="_blank">Tampermonkey + Download Users</a>
+##### <a href="" target="_blank">Tampermonkey + Download Users</a> | <mark>Plugin</mark>
 <a href="" target="_blank">![](images/)</a>
 Met dit <a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey-script</a> kun je de leden van de meeste Telegram-groepen en -kanalen downloaden. Ook zie je wie de oprichter van een groep is. Hiervoor moet je wel in de oude versie van Telegram werken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
 
-##### <a href="" target="_blank">Telegram zoekmachines</a>
+##### <a href="" target="_blank">Telegram zoekmachines</a> | <mark>Website</mark>
 <a href="" target="_blank">![](images/)</a>
 Op deze sites kun je door gearchiveerde Telegram-gesprekken zoeken en statistieken vinden voor groepen en kanalen. Handig om onderwerpen in te vinden. Je kunt door de volgende sites struinen:
 * <a href="https://www.telemetryapp.io/" target="_blank">Telemetry</a>
@@ -183,7 +183,7 @@ Stukje introtekst
 #### <a id="reddit"></a>Reddit
 Een van de weinige online forums waar je intelligente en doordachte gesprekken kunt aantreffen. En natuurlijk veel kattenmemes.
 
-##### <a href="https://f5bot.com/" target="_blank">F5Bot></a> | <mark>Website</mark>
+##### <a href="https://f5bot.com/" target="_blank">F5Bot</a> | <mark>Website</mark>
 <a href="https://f5bot.com/" target="_blank">![](images/f5bot.png)</a>
 Met F5Bot kun je custom alerts opzetten voor Reddit. Laat jezelf mailen zodra een specifiek steekwoord wordt gezegd.
 
