@@ -134,12 +134,12 @@ Script om de Telegram-API mee aan te spreken. Handig om scrapers mee te maken, m
 <a href="https://github.com/pigpagnet/save-telegram-chat-history" target="_blank">![](images/telegramchathistory.png)</a>
 Met deze Chrome-plugin kun je de volledige geschiedenis van een kanaal of groep downloaden. Je moet echter wel de oude interface van Telegram gebruiken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
 
-##### <a href="" target="_blank">Tampermonkey + Download Users</a> | <mark>Plugin</mark>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://gist.github.com/fabledowl/8c8db5858e096866c42dfa114034f0f2/raw/getUsers.user.js" target="_blank">Tampermonkey + Download Users</a> | <mark>Plugin</mark>
+<a href="https://gist.github.com/fabledowl/8c8db5858e096866c42dfa114034f0f2/raw/getUsers.user.js" target="_blank">![](images/tampermonkey.png)</a>
 Met dit <a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey-script</a> kun je de leden van de meeste Telegram-groepen en -kanalen downloaden. Ook zie je wie de oprichter van een groep is. Hiervoor moet je wel in de oude versie van Telegram werken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
 
 ##### <a href="" target="_blank">Telegram zoekmachines</a> | <mark>Website</mark>
-<a href="" target="_blank">![](images/)</a>
+<a href="" target="_blank">![](images/tgstat.png)</a>
 Op deze sites kun je door gearchiveerde Telegram-gesprekken zoeken en statistieken vinden voor groepen en kanalen. Handig om onderwerpen in te vinden. Je kunt door de volgende sites struinen:
 * <a href="https://tgstat.com/" target="_blank">Tgstat</a>
 * <a href="https://telemetr.me/" target="_blank">Telemetr.me</a>
