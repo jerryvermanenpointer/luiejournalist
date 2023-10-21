@@ -122,17 +122,33 @@ Stukje introtekst
 #### <a id="telegram"></a>Telegram
 Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
 
-##### <a href="" target="_blank"></a>
+##### <a href="" target="_blank">Bellingcat Phonenumber Check</a>
 <a href="" target="_blank">![](images/)</a>
+Met dit script (geschreven door Bellingcat) kun je checken of een telefoonnummer is gekoppeld aan een Telegram-account.
 
-
-##### <a href="" target="_blank"></a>
+##### <a href="" target="_blank">MadelineProto</a>
 <a href="" target="_blank">![](images/)</a>
+Script om de Telegram-API mee aan te spreken. Handig om scrapers mee te maken, maar je moet dus nog wel zelf flink wat programmeren.
 
-
-##### <a href="" target="_blank"></a>
+##### <a href="" target="_blank">Save Telegram Chat History</a>
 <a href="" target="_blank">![](images/)</a>
+Met deze Chrome-plugin kun je de volledige geschiedenis van een kanaal of groep downloaden. Je moet echter wel de oude interface van Telegram gebruiken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
 
+##### <a href="" target="_blank">Tampermonkey + Download Users</a>
+<a href="" target="_blank">![](images/)</a>
+Met dit <a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey-script</a> kun je de leden van de meeste Telegram-groepen en -kanalen downloaden. Ook zie je wie de oprichter van een groep is. Hiervoor moet je wel in de oude versie van Telegram werken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
+
+##### <a href="" target="_blank">Telegram zoekmachines</a>
+<a href="" target="_blank">![](images/)</a>
+Op deze sites kun je door gearchiveerde Telegram-gesprekken zoeken en statistieken vinden voor groepen en kanalen. Handig om onderwerpen in te vinden. Je kunt door de volgende sites struinen:
+* <a href="https://www.telemetryapp.io/" target="_blank">Telemetry</a>
+* <a href="https://tgstat.com/" target="_blank">Tgstat</a>
+* <a href="https://telemetr.me/" target="_blank">Telemetr.me</a>
+* <a href="https://telemetr.io/" target="_blank">Telemetr.io</a>
+* <a href="https://lyzem.com/" target="_blank">Lyzem</a>
+* <a href="https://tgramsearch.com/" target="_blank">Tgramsearch</a>
+* <a href="https://cse.google.com/cse?cx=6c3e0c0d3da8e3b4a" target="_blank">Telegago</a>
+* <a href="https://bit.ly/43n1TLH" target="_blank">OSINT me</a>
 
 #### <a id="youtube"></a>YouTube
 Stukje introtekst
@@ -167,9 +183,9 @@ Stukje introtekst
 #### <a id="reddit"></a>Reddit
 Een van de weinige online forums waar je intelligentie en doordachte gesprekken kunt aantreffen. En natuurlijk veel kattenmemes.
 
-##### <a href="https://f5bot.com/" target="_blank"F5Bot></a> | <mark>Website</mark>
+##### <a href="https://f5bot.com/" target="_blank">F5Bot></a> | <mark>Website</mark>
 <a href="https://f5bot.com/" target="_blank">![](images/f5bot.png)</a>
-Met F5Bot kun je custom alerts opzetten voor Reddit.
+Met F5Bot kun je custom alerts opzetten voor Reddit. Laat jezelf mailen zodra een specifiek steekwoord wordt gezegd.
 
 ##### <a href="http://karmadecay.com/" target="_blank">Karma Decay</a> | <mark>Website</mark>
 <a href="" target="_blank">![](images/karmadecay.png)</a>
@@ -206,9 +222,9 @@ Stukje introtekst
 <a href="" target="_blank">![](images/)</a>
 
 #### <a id="twitter"></a>X (voorheen Twitter)
-Sinds ene Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch houd ik deze sectie op de site. Misschien tegen beter weten in. Maar wie nog goede suggesties heeft, is welkom om te tippen.
+Sinds  Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch houd ik deze sectie op de site. Misschien tegen beter weten in. Wie nog goede suggesties heeft, is welkom om te tippen.
 
-#### <a id="linkedin"></a>linkedin
+#### <a id="linkedin"></a>LinkedIn
 Ooit begonnen als online CV-site, momenteel een slappe feed vol 'inspirerende' ervaringen van saaie mensen. Alsnog een goede bron van informatie, maar ik ken geen nuttige websites of tools voor LinkedIn.
 
 #### <a id="mastodon"></a>Mastodon
