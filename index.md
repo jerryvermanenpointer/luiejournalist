@@ -78,17 +78,16 @@ Stel, je komt tijdens je onderzoek het anonieme account <code>droge_poepsteek</c
 <a href="https://github.com/soxoj/maigret" target="_blank">![](images/maigret.png)</a>
 Met Maigret kun je opzoeken welke username aan welke websites is gekoppeld. Het is een zeer uitgebreide versie van Sherlock (ook hieronder te vinden), maar daardoor ook een stuk trager. Je kunt Maigret ook gebruiken in Telegram via het account <a href="https://t.me/osint_maigret_bot" target="_blank">@osint_maigret_bot</a>.
 
-##### <a href="https://github.com/sherlock-project/sherlock" target="_blank"></a> | <mark>Script</mark>
+##### <a href="https://github.com/sherlock-project/sherlock" target="_blank">Sherlock</a> | <mark>Script</mark>
 <a href="https://github.com/sherlock-project/sherlock" target="_blank">![](images/sherlock.png)</a>
 Met Sherlock kun je checken of een username op bepaalde sites is geregistreerd. Een snellere, maar ook iets minder uitgebreide versie van Maigret.
 
 ##### <a href="https://whatsmyname.app/" target="_blank">WhatsMyName</a> | <mark>Website</mark>
 <a href="https://whatsmyname.app/" target="_blank">![](images/whatsmyname.png)</a>
-Op WhatsMyName.app kun je snel op username zoeken en kijken op welke (bijna 600) sites die naam staat geregistreerd.
+Op WhatsMyName.app kun je snel op bijna 600 websites zoeken of die username staat geregistreerd. Je kunt het resultaat direct exporteren als csv-bestand.
 
 [terug naar overzicht ⬆](#)
 <hr>
-
 
 ### <a id="social"></a><i class="fa fa-share" aria-hidden="true"></i> Sociale Media
 Stukje introtekst
@@ -166,19 +165,31 @@ Stukje introtekst
 
 
 #### <a id="reddit"></a>Reddit
-Stukje introtekst
+Een van de weinige online forums waar je intelligentie en doordachte gesprekken kunt aantreffen. En natuurlijk veel kattenmemes.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://f5bot.com/" target="_blank"F5Bot></a> | <mark>Website</mark>
+<a href="https://f5bot.com/" target="_blank">![](images/f5bot.png)</a>
+Met F5Bot kun je custom alerts opzetten voor Reddit.
 
+##### <a href="http://karmadecay.com/" target="_blank">Karma Decay</a> | <mark>Website</mark>
+<a href="" target="_blank">![](images/karmadecay.png)</a>
+Reversed Image Search om gelijksoortige of identieke afbeeldingen op Reddit te vinden.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://kerrick.github.io/Mostly-Harmless" target="_blank">Mostly Harmless</a> | <mark>Plugin</mark>
+<a href="https://kerrick.github.io/Mostly-Harmless" target="_blank">![](images/mostlyharmless.png)</a>
+Mostly Harmless is een browser plugin waarmee je kunt zien of een url al op Reddit is gedeeld. Zo ja, dan kun je direct het gesprek rondom dat artikel bekijken.
 
+##### <a href="https://reddit-user-analyser.netlify.app/" target="_blank">Reddit User Analyser</a> | <mark>Website</mark>
+<a href="https://reddit-user-analyser.netlify.app/" target="_blank">![](images/reddituseranalyser.png)</a>
+Met Reddit User Analyser kun je alle statistieken van een Reddit-account bekijken.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://www.resavr.com/" target="_blank">Resavr</a> | <mark>Website</mark>
+<a href="https://www.resavr.com/" target="_blank">![](images/resavr.png)</a>
+Op Resavr kun je veel verwijderde comments op Reddit weer terugvinden.
 
+##### <a href="https://github.com/JosephLai241/URS" target="_blank">Universal Reddit Scraper</a> | <mark>Scraper</mark>
+<a href="https://github.com/JosephLai241/URS" target="_blank">![](images/urs.png)</a>
+Universal Reddit Scraper (URS) heeft een uitgebreide interface waarin je kunt aangeven wat je precies van Reddit wil binnenhalen.
 
 #### <a id="discord"></a>Discord
 Stukje introtekst
