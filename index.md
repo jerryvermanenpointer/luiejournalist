@@ -19,6 +19,9 @@ layout: default
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals Google, Bing en Yandex. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
 
+##### <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">E-justice Business Register</a> | <mark>Website</mark>
+In dit register kun je internationaal zoeken in alle Kamers van Koophandel van EU-landen. Erg handig als je niet exact weet op welke site je in het buitenland moet zoeken.
+
 ##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a> | <mark>Website</mark>
 <a href="https://haveibeenpwned.com/" target="_blank">![](/images/pownd.png)</a>
 Op deze site kun je checken of een emailadres in een datalek voorkomt. Handig om je eigen digitale veiligheid te checken, maar ook om te controleren of een mailadres daadwerkelijk gebruikt wordt. Voor telefoonnummers kun je checken of ze in de <a href="https://nos.nl/artikel/2375266-gegevens-van-honderden-miljoenen-facebookgebruikers-op-hackersforum-gedeeld" target="_blank">Facebook Data Breach</a> hebben gestaan.
@@ -39,30 +42,31 @@ Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zo
 <hr>
 
 ### <a id="emailphone"></a><i class="fa fa-envelope" aria-hidden="true"></i> Email & Telefoon
-Stukje introtekst
+Het startpunt van veel online onderzoeken: een mailadres of telefoonnummer. Maar nu wil je weten wie dat mailtje leest of die telefoon opneemt. Met deze tools kun je meer informatie vinden.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://epieos.com/" target="_blank">Epieos</a> | <mark>Website</mark>
+<a href="https://epieos.com/" target="_blank">![](images/epieos.png)</a>
+Op Epieos kun je checken waar specifieke telefoonnummers en mailadressen worden gebruikt. Vooral handig voor Google-accounts en Skype.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://github.com/megadose/holehe" target="_blank">Holehe</a> | <mark>Script</mark>
+<a href="https://github.com/megadose/holehe" target="_blank">![](images/holehe.png)</a>
+Met Holehe kun je checken of een emailadres is geregistreerd op >50 websites. Bij sommige sites krijg je ook info over het account zelf.
 
+##### <a href="https://github.com/AzizKpln/Moriarty-Project" target="_blank">Moriarty</a> | <mark>Script</mark>
+<a href="https://github.com/AzizKpln/Moriarty-Project" target="_blank">![](images/moriarty.png)</a>
+Met Moriarty kun je checken of een telefoonnummer bekend staat als dubieus. Ook wordt gezocht of er socialmedia-accounts aan dit nummer zijn gekoppeld.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://osint.industries/" target="_blank">OSINT.industries</a> | <mark>Website</mark>
+<a href="https://osint.industries/" target="_blank">![](images/osintindustries.png)</a>
+Op Osint.Industries kun je (grotendeels betaald) rondzoeken op welke websites specifieke mailadressen en telefoonnummers staan geregistreerd. Onderzoeksjournalisten kunnen <a href="https://osint.industries/journalist" target="_blank">een gratis account aanvragen</a>.
 
+##### <a href="https://github.com/sundowndev/phoneinfoga" target="_blank">PhoneInfoga</a> | <mark>Script</mark>
+<a href="https://github.com/sundowndev/phoneinfoga" target="_blank">![](images/phoneingofa.png)</a>
+Met PhoneInfoga kun je opzoeken of een telefoonnummer bestaat en wat er over dat nummer te vertellen is. Ook kun je checken aan welke accounts dat nummer is gekoppeld.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
+##### <a href="https://github.com/jakecreps/poastal" target="_blank">Poastal</a> | <mark>Script</mark>
+<a href="https://github.com/jakecreps/poastal" target="_blank">![](images/poastal.png)</a>
+Met Poastal lanceer je een zoekmachine in je browser waarmee je kunt uitzoeken of een mailadres geregistreerd staat bij specifieke sociale media. Daarnaast kun je uitzoeken of een mailadres überhaupt bestaat, mail kan ontvangen en bekendstaat als spam.
 
 [terug naar overzicht ⬆](#)
 <hr>
@@ -368,7 +372,7 @@ Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hierond
 <a id="einde"></a>
 Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Of misschien ontbreekt er wel een tool? 
 
-*Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw suggestie voor een nuttige tool. Belangrijk daarbij is:
+Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw suggestie voor een nuttige tool. Belangrijk daarbij is:
 * dat je die tool recent nog hebt gebruikt;
 * dat je daar tijd, moeite of geld mee bespaart;
 * en dat het specifiek voor journalisten nuttig is.
@@ -382,7 +386,7 @@ Al die tools zijn leuk en aardig, maar het wordt pas interessant zodra je ze voo
 En als deze website nuttig vindt, overweeg dan ook eens om <a href="https://www.vanduurenmedia.nl/EAN/9789463562638/Handboek_Internetresearch_en_datajournalistiek_7e_editie?utm-rid=40090" target="_blank">via deze link het Handboek Internetresearch & Datajournalistiek</a> te bestellen. Met deze referral krijgen wij als makers van dat handboek een iets hoger percentage per verkocht exemplaar. Dit is de beste manier om me een bedankje te sturen. En je doet jezelf er ook nog eens een groot plezier mee ❤️
 
 <hr>
-* Deze site is gemaakt in [Jekyll](https://jekyllrb.com/), theme [Good Clean Read](https://github.com/adueck/good-clean-read)
+* Deze site is gemaakt in [Jekyll](https://jekyllrb.com/) + [Good Clean Read](https://github.com/adueck/good-clean-read)
 * [Changelog](https://raw.githubusercontent.com/jerryvermanenpointer/luiejournalist/master/changelog.md)
 
 <hr>
