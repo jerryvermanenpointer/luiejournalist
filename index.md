@@ -61,7 +61,7 @@ Met Moriarty kun je checken of een telefoonnummer bekend staat als dubieus. Ook 
 Op Osint.Industries kun je (grotendeels betaald) rondzoeken op welke websites specifieke mailadressen en telefoonnummers staan geregistreerd. Onderzoeksjournalisten kunnen <a href="https://osint.industries/journalist" target="_blank">een gratis account aanvragen</a>.
 
 ##### <a href="https://github.com/sundowndev/phoneinfoga" target="_blank">PhoneInfoga</a> | <mark>Script</mark>
-<a href="https://github.com/sundowndev/phoneinfoga" target="_blank">![](images/phoneingofa.png)</a>
+<a href="https://github.com/sundowndev/phoneinfoga" target="_blank">![](images/phoneinfoga.png)</a>
 Met PhoneInfoga kun je opzoeken of een telefoonnummer bestaat en wat er over dat nummer te vertellen is. Ook kun je checken aan welke accounts dat nummer is gekoppeld.
 
 ##### <a href="https://github.com/jakecreps/poastal" target="_blank">Poastal</a> | <mark>Script</mark>
@@ -74,21 +74,17 @@ Met Poastal lanceer je een zoekmachine in je browser waarmee je kunt uitzoeken o
 ### <a id="usernames"></a><i class="fa fa-user" aria-hidden="true"></i> Usernames
 Stel, je komt tijdens je onderzoek het anonieme account <code>droge_poepsteek</code> tegen. Loopt het spoor dan dood? Met deze tools kun je alsnog aanknopingspunten vinden.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://github.com/soxoj/maigret" target="_blank">Maigret</a> | <mark>Script</mark>
+<a href="https://github.com/soxoj/maigret" target="_blank">![](images/maigret.png)</a>
+Met Maigret kun je opzoeken welke username aan welke websites is gekoppeld. Het is een zeer uitgebreide versie van Sherlock (ook hieronder te vinden), maar daardoor ook een stuk trager. Je kunt Maigret ook gebruiken in Telegram via het account <a href="https://t.me/osint_maigret_bot" target="_blank">@osint_maigret_bot</a>.
 
+##### <a href="https://github.com/sherlock-project/sherlock" target="_blank"></a> | <mark>Script</mark>
+<a href="https://github.com/sherlock-project/sherlock" target="_blank">![](images/sherlock.png)</a>
+Met Sherlock kun je checken of een username op bepaalde sites is geregistreerd. Een snellere, maar ook iets minder uitgebreide versie van Maigret.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
+##### <a href="https://whatsmyname.app/" target="_blank">WhatsMyName</a> | <mark>Website</mark>
+<a href="https://whatsmyname.app/" target="_blank">![](images/whatsmyname.png)</a>
+Op WhatsMyName.app kun je snel op username zoeken en kijken op welke (bijna 600) sites die naam staat geregistreerd.
 
 [terug naar overzicht ⬆](#)
 <hr>
