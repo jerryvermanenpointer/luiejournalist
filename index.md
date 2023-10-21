@@ -10,28 +10,28 @@ layout: default
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
 
-*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je tientallen websites, scripts en apps die technisch ingewikkeld en zwaar werk voor je kunnen opknappen.*
+*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je tientallen websites, scripts en apps die technisch ingewikkeld en tijdrovend werk voor je kunnen opknappen.*
 
 *Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt. En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
 
-Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Check onderaan deze pagina hoe je met mij in contact kunt komen ⬇](#einde)
+*Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Check onderaan deze pagina hoe je met mij in contact kunt komen ⬇](#einde)*
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals Google, Bing en Yandex. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
 
-##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a> <mark>Website</mark>
+##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a> | <mark>Website</mark>
 <a href="https://haveibeenpwned.com/" target="_blank">![](/images/pownd.png)</a>
 Op deze site kun je checken of een emailadres in een datalek voorkomt. Handig om je eigen digitale veiligheid te checken, maar ook om te controleren of een mailadres daadwerkelijk gebruikt wordt. Voor telefoonnummers kun je checken of ze in de <a href="https://nos.nl/artikel/2375266-gegevens-van-honderden-miljoenen-facebookgebruikers-op-hackersforum-gedeeld" target="_blank">Facebook Data Breach</a> hebben gestaan.
 
-##### <a href="https://www.shodan.io/" target="_blank">Shodan</a> <mark>Website</mark>
+##### <a href="https://www.shodan.io/" target="_blank">Shodan</a> | <mark>Website</mark>
 <a href="https://www.shodan.io/" target="_blank">![](/images/shodan.png)</a>
 Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. <a href="https://github.com/lothos612/shodan" target="_blank">Check ook deze pagina</a> om slimme zoekopdrachten (dorks) te formuleren.
 
-##### <a href="https://www.social-searcher.com/" target="_blank">SocialSearcher</a> <mark>Website</mark>
+##### <a href="https://www.social-searcher.com/" target="_blank">SocialSearcher</a> | <mark>Website</mark>
 <a href="https://www.social-searcher.com/" target="_blank">![](/images/socialsearcher.png)</a>
-SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Facebook, Twitter en YouTube kunt zoeken.
+SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Reddit, YouTube, Facebook en VKontakte kunt zoeken.
 
-##### <a href="https://search.0t.rocks/" target="_blank">ZeroTrust</a> <mark>Website</mark>
+##### <a href="https://search.0t.rocks/" target="_blank">ZeroTrust</a> | <mark>Website</mark>
 <a href="https://search.0t.rocks" target="_blank">![](/images/zerotrust.png)</a>
 Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. Wachtwoorden zijn niet zichtbaar. De site is meerdere keren offline gehaald, maar <a href="https://github.com/MiyakoYakota/search.0t.rocks" target="_blank">hier staat de code</a> om je eigen versie te hosten.
 
@@ -68,7 +68,7 @@ Stukje introtekst
 <hr>
 
 ### <a id="usernames"></a><i class="fa fa-user" aria-hidden="true"></i> Usernames
-Stukje introtekst
+Stel, je komt tijdens je onderzoek het anonieme account <code>droge_poepsteek</code> tegen. Loopt het spoor dan dood? Met deze tools kun je alsnog aanknopingspunten vinden.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -331,7 +331,7 @@ Stukje introtekst
 <hr>
 
 ### <a id="crypto"></a><i class="fa fa-btc" aria-hidden="true"></i> Crypto
-Stukje introtekst
+Ah, de toekomst van ons betalingsverkeer: gedecentraliseerd, gepseudonimiseerd en encrypted. En vooral gebruikt door crypto-bro’s en georganiseerde misdaad. Dan is het handig om wat tools te hebben om zulke transacties inzichtelijk te maken.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -349,7 +349,7 @@ Stukje introtekst
 <hr>
 
 ### <a id="overig"></a><i class="fa fa-archive" aria-hidden="true"></i> Overig
-Stukje introtekst
+Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hieronder verzameld.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -366,13 +366,20 @@ Stukje introtekst
 [terug naar overzicht ⬆](#)
 <hr>
 <a id="einde"></a>
-*Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Klopt iets niet? Of heb je nuttige toevoegingen? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.*
+Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Of misschien ontbreekt er wel een tool? 
 
-*Al die tools zijn leuk en aardig, maar het wordt pas interessant zodra je ze voor een onderzoek kunt inzetten. Wil je op de hoogte blijven van de allerbeste data- en onderzoeksjournalistiek? Volg dan mijn nieuwsbrief Klikdinges.*
+*Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw suggestie voor een nuttige tool. Belangrijk daarbij is:
+* dat je die tool recent nog hebt gebruikt;
+* dat je daar tijd, moeite of geld mee bespaart;
+* en dat het specifiek voor journalisten nuttig is.
+
+Dus heb je nog een toevoeging of correctie? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.
+
+Al die tools zijn leuk en aardig, maar het wordt pas interessant zodra je ze voor een onderzoek kunt inzetten. Wil je op de hoogte blijven van de allerbeste data- en onderzoeksjournalistiek? Volg dan mijn nieuwsbrief Klikdinges.
 
 <p><iframe style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;" src="https://embeds.beehiiv.com/a6302f50-29c3-4818-b1cd-da3da2951c67" width="100%" height="320" frameborder="0" scrolling="no" data-test-id="beehiiv-embed"></iframe></p>
 
-*En als deze website nuttig vindt, overweeg dan ook eens om <a href="https://www.vanduurenmedia.nl/EAN/9789463562638/Handboek_Internetresearch_en_datajournalistiek_7e_editie?utm-rid=40090" target="_blank">via deze link het Handboek Internetresearch & Datajournalistiek</a> te bestellen. Met deze referral krijgen wij als makers van dat handboek een iets hoger percentage per verkocht exemplaar. Dit is de beste manier om me een bedankje te sturen. En je doet jezelf er ook nog eens een groot plezier mee ❤️*
+En als deze website nuttig vindt, overweeg dan ook eens om <a href="https://www.vanduurenmedia.nl/EAN/9789463562638/Handboek_Internetresearch_en_datajournalistiek_7e_editie?utm-rid=40090" target="_blank">via deze link het Handboek Internetresearch & Datajournalistiek</a> te bestellen. Met deze referral krijgen wij als makers van dat handboek een iets hoger percentage per verkocht exemplaar. Dit is de beste manier om me een bedankje te sturen. En je doet jezelf er ook nog eens een groot plezier mee ❤️
 
 <hr>
 * Deze site is gemaakt in [Jekyll](https://jekyllrb.com/), theme [Good Clean Read](https://github.com/adueck/good-clean-read)
