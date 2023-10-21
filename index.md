@@ -205,7 +205,7 @@ Op Resavr kun je veel verwijderde comments op Reddit weer terugvinden.
 
 ##### <a href="https://github.com/JosephLai241/URS" target="_blank">Universal Reddit Scraper</a> | <mark>Scraper</mark>
 <a href="https://github.com/JosephLai241/URS" target="_blank">![](images/urs.png)</a>
-Universal Reddit Scraper (URS) heeft een uitgebreide interface waarin je kunt aangeven wat je precies van Reddit wil binnenhalen.
+Universal Reddit Scraper (URS) heeft een uitgebreide interface waarin je kunt aangeven wat je precies van Reddit wil binnenhalen. Je kunt subreddits, accounts en comments scrapen.
 
 #### <a id="discord"></a>Discord
 Stukje introtekst
