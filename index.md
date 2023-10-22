@@ -293,17 +293,41 @@ Online websites, de digitale snelweg, het wereldwijde web: je komt er nog eens w
 ### <a id="verificatie"></a><i class="fa fa-check" aria-hidden="true"></i> Verificatie
 Spoiler: niet alles wat je online vindt, is waar. Alle foto’s, video’s en andere informatie moet je dubbelchecken en verifiëren. Bestaat deze persoon wel echt? En is deze video wel op deze locatie gemaakt? Onderstaande tools kunnen je daarbij helpen.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://seintpl.github.io/AmIReal/" target="_blank">Am I Real</a> | <mark>Website</mark>
+<a href="https://seintpl.github.io/AmIReal/" target="_blank">![](images/amireal.png)</a>
+Met dit script kun je foto’s analyseren of ze door ThisPersonDoesNotExist.com.zijn gegenereerd.
 
+##### <a href="https://aws.amazon.com/getting-started/hands-on/detect-analyze-compare-faces-rekognition/" target="_blank">Amazon Rekognition</a> | <mark>Website</mark>
+<a href="https://aws.amazon.com/getting-started/hands-on/detect-analyze-compare-faces-rekognition/" target="_blank">![](images/amazonrekognition.png)</a>
+Hoeveel lijken twee gezichten op elkaar? Handig als je een persoon zoekt en twee foto’s met elkaar moet vergelijken.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://facecheck.id/" target="_blank">Facecheck.id</a> | <mark>Website</mark>
+<a href="https://facecheck.id/" target="_blank">![](images/facecheckid.png)</a>
+Facecheck.id zoekt met gezichtherkenning waar een persoon nog meer voorkomt.
 
+##### <a href="https://mever.iti.gr/forensics/" target="_blank">Image Verification Assistant</a> | <mark>Website</mark>
+<a href="https://mever.iti.gr/forensics/" target="_blank">![](images/imageverificationassistant.png)</a>
+Met de Image Verification Assistant kun je analyseren of beeldmateriaal is gemanipuleerd.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://weverify.eu/verification-plugin/" target="_blank">InVID WeVerify</a> | <mark>Plugin</mark>
+<a href="https://weverify.eu/verification-plugin/" target="_blank">![](images/weverify.png)</a>
+Enorm handige plugin waarmee je direct via Google, Yandex en Baidu Reversed Image Search kunt doen. Inclusief een aantal handige tools om fotomanipulatie mee te analyseren.
 
+##### <a href="https://www.metadata2go.com/" target="_blank">Metadata2Go</a> | <mark>Website</mark>
+<a href="https://www.metadata2go.com/" target="_blank">![](images/metadata2go.png)</a>
+Op Metadata2Go kun je snel de metadata van je afbeeldingen analyseren.
+
+##### <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo</a> | <mark>Website</mark>
+<a href="https://overpass-turbo.eu/" target="_blank">![](images/overpassturbo.png)</a>
+Met Overpass Turbo kun je snel een query maken van specifieke landmarks op kaarten. Handig als je OSINT moet doen en specifieke dingen ziet waar je op kunt zoeken. Werkt erg handig als je je query in ChatGPT formuleert. Vervolgens kun je op de kaart zoeken of de locatie overeenkomt met wat je op de foto ziet. Een andere mogelijkheid is het exporteren van de objecten die je via de query hebt gevonden. Kan handig zijn als je in QGIS of R een analyse wil doen.
+
+##### <a href="https://www.peakfinder.com/" target="_blank">Peakfinder</a> | <mark>Website</mark>
+<a href="https://www.peakfinder.com/" target="_blank">![](images/peakfinder.png)</a>
+Met Peakfinder kun je foto’s geolocaten als daar een heuvel of berg in staat. Zodra je een vermoeden hebt waar het kan zijn, dan kun je die foto op die locatie uploaden en de omtrek van het landschap matchen met je afbeelding.
+
+##### <a href="https://pimeyes.com/" target="_blank">PimEyes</a> | <mark>Website</mark>
+<a href="https://pimeyes.com/" target="_blank">![](images/pimeyes.png)</a>
+Met PimEyes kun je zoeken op dezelfde persoon d.m.v. biometrische gelijkenissen. Let op, is een betaalde service.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
