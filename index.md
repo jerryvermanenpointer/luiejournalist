@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Met deze <code>40</code>tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **40** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
-**tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • **[Websites & Domeinen](#websites)** • **[Beeld & Audio](#beeld)** • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
+**tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • **[Websites & Domeinen](#websites)** • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
 <hr>
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
@@ -251,24 +251,7 @@ Online websites, de digitale snelweg, het wereldwijde web: je komt er nog eens w
 
 
 [terug naar overzicht ⬆](#)
-<hr>
 
-### <a id="beeld"></a><i class="fa fa-video-camera" aria-hidden="true"></i> Beeld & Audio
-Stukje introtekst
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-[terug naar overzicht ⬆](#)
 <hr>
 
 ### <a id="verificatie"></a><i class="fa fa-check" aria-hidden="true"></i> Verificatie
@@ -341,17 +324,47 @@ Stukje introtekst
 ### <a id="ai"></a><i class="fa fa-lightbulb-o" aria-hidden="true"></i> AI
 Ik geef toe dat Terminator en The Matrix niet direct de meest positieve voorbeelden zijn van Kunstmatige Intelligentie. Maar deze films maken wel duidelijk dat AI enorm slim, efficiënt en tijdbesparend kan zijn. Daarom kunnen onderstaande tools jouw werk eenvoudiger maken.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://chat.openai.com/" target="_blank">ChatGPT</a> | <mark>Website</mark>
+<a href="https://chat.openai.com/" target="_blank">![](images/chatgpt.png)</a>
+ChatGPT is eigenlijk een chatbot die antwoorden genereert op basis van externe informatie. Je kunt hier onwijs veel nuttige dingen mee doen. Voor mij zijn de volgende zaken het nuttigst:
 
+* Queries maken voor <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo</a>
+* Suggesties voor nieuwskoppen maken
+* Teksten voor socialmedia-berichten herschrijven
+* Invalshoeken voor onderzoek genereren
+* Delen Python-code schrijven voor scrapers
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://cleanup.pictures/" target="_blank">Cleanup Pictures</a> | <mark>Website</mark>
+<a href="https://cleanup.pictures/" target="_blank">![](images/cleanuppictures.png)</a>
+Met Cleanup Pictures kun je foto’s opschonen en objecten eenvoudig verwijderen. Kan handig zijn vlak voordat je een Reversed Image Search doet.
 
+##### <a href="https://huggingface.co/" target="_blank">Hugging Face</a> | <mark>Website</mark>
+<a href="https://huggingface.co/" target="_blank">![](images/huggingface.png)</a>
+Hugging Face is dé plek waar je AI-modellen kunt vinden. In sommige gevallen wordt de trainingsdata meegeleverd.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://github.com/lobe" target="_blank">Lobe.ai</a> | <mark>Script</mark>
+<a href="https://github.com/lobe" target="_blank">![](images/lobeai.png)</a>
+Met Lobe.ai kun je kunstmatige intelligentie trainen om beeldmateriaal te herkennen en te categoriseren. Had eerst een desktop-app, maar is nu alleen nog beschikbaar als script.
 
+##### <a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">MacWhisper</a> | <mark>Software</mark>
+<a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">![](images/whisper.png)</a>
+Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audiobestanden, inclusief tijdcodes. Alle data blijft op je lokale machine staan. Helaas (nog) geen automatische sprekersherkenning.
+
+##### <a href="https://www.midjourney.com" target="_blank">Midjourney</a> | <mark>Website</mark>
+<a href="https://www.midjourney.com" target="_blank">![](images/midjourney.png)</a>
+Simpelweg de beste methode om AI-gegenereerde afbeeldingen mee te maken. Via <a href="https://discord.com/invite/midjourney" target="_blank">de Discord-server van Midjourney</a> kun je (betaald en gratis) afbeeldingen maken via tekstprompts.
+
+##### <a href="https://remini.ai/" target="_blank">Remini</a> | <mark>Website</mark>
+<a href="https://remini.ai/" target="_blank">![](images/remini.png)</a>
+Met Remini kun je foto’s van slechte kwaliteit met AI verbeteren. Let op: als je dit wil gebruiken om beeldmateriaal vervolgens te Reversed Image Searchen of verifiëren, dan is het resultaat dus iets onbetrouwbaarder.
+
+##### <a href="https://www.remove.bg/" target="_blank">RemoveBG</a> | <mark>Website</mark>
+<a href="https://www.remove.bg/" target="_blank">![](images/removebg.png)</a>
+Met RemoveBG (lees: Remove Background) kun je snel en eenvoudig de achtergrond van afbeeldingen verwijderen.
+
+##### <a href="https://www.simonsaysai.com" target="_blank">Simon Says</a> | <mark>Website</mark>
+<a href="https://www.simonsaysai.com" target="_blank">![](images/simonsays.png)</a>
+Een van de beste manieren om beeldmateriaal mee te transcriberen. Je transcript wordt ook nog eens met het beeld gesynchroniseerd. Door het editten van tekst kun je ruwe montages maken.
 
 [terug naar overzicht ⬆](#)
 <hr>
