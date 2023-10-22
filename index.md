@@ -123,16 +123,25 @@ Met WhoPostedWhat kun je uitgebreid zoeken in openbare posts op Facebook. Hiervo
 #### <a id="insta"></a>Instagram
 Zelfs mensen met een bloedhekel aan Facebook zitten vaak met veel plezier op Instagram. Alles is hier leuk, gezellig en vriendelijk. Zelfs met alle spambots, scammers en dubieuze reclamecampagnes die je hier kunt aantreffen.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://imginn.io/" target="_blank">IMGinn</a> | <mark>Website</mark>
+<a href="https://imginn.io/" target="_blank">![](images/imginn.png)</a>
+Op IMGinn kun je de profielnaam van een openbaar profiel opgeven, en direct de afbeeldingen en video’s downloaden.
 
+##### <a href="https://github.com/sc1341/InstagramOSINT" target="_blank">InstagramOSINT</a> | <mark>Scraper</mark>
+<a href="https://github.com/sc1341/InstagramOSINT" target="_blank">![](images/instagramosint.png)</a>
+Met deze tool kun je een specifiek Instagram-account volledig analyseren en scrapen.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://github.com/instaloader/instaloader" target="_blank">Instaloader</a> | <mark>Scraper</mark>
+<a href="https://github.com/instaloader/instaloader" target="_blank">![](images/instaloader.png)</a>
+Met dit script kun je een volledig Instagram-profiel (inclusief comments, hashtags, captions, etc.) downloaden.
 
+##### <a href="https://snapinsta.app/" target="_blank">SnapInsta</a> | <mark>Website</mark>
+<a href="https://snapinsta.app/" target="_blank">![](images/snapinsta.png)</a>
+Met SnapInsta kun je vrij eenvoudig video’s, reels, foto’s, stories en IGTV downloaden.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://github.com/megadose/toutatis" target="_blank">Toutatis</a> | <mark>Script</mark>
+<a href="https://github.com/megadose/toutatis" target="_blank">![](images/toutatis.png)</a>
+Met Toutatis kun je meer informatie vinden over het (gedeeltelijke) telefoonnummer en emailadres dat is gebruikt om een Instagram-account aan te maken.
 
 #### <a id="telegram"></a>Telegram
 Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen jaren duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
@@ -449,8 +458,8 @@ Dit script zegt data te kunnen scrapen van de volgende websites:
 <a href="https://github.com/smicallef/spiderfoot" target="_blank">![](images/spiderfoot.png)</a>
 Spiderfoot is een opensource casemanager voor OSINT-onderzoeken. Je kunt meerdere scripts aanzetten om automatische searches uit te voeren.
 
-##### <a href="" target="_blank">TinyWow</a>
-<a href="" target="_blank">![](images/tinywow.png)</a>
+##### <a href="https://tinywow.com/" target="_blank">TinyWow</a>
+<a href="https://tinywow.com/" target="_blank">![](images/tinywow.png)</a>
 Op TinyWow vind je meerdere kleine tools waarmee je bewerkingen kunt uitvoeren p documenten of bestanden. PDF’s samenvoegen, afbeeldingen converteren, video’s downloaden: je vindt het allemaal op deze site.
 
 ##### <a href="https://woo-generator.nl/" target="_blank">Woo-generator</a>
