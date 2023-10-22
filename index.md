@@ -2,19 +2,15 @@
 layout: default
 ---
 
-## Met deze tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze <code>40</code>tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
-**tools**: [Zoekmachines](#zoekmachines) • [Email & Telefoon](#emailphone) • [Usernames](#usernames) • [Sociale Media](#social):  *[Facebook](#fb)*, *[Instagram](#insta)*, *[Telegram](#telegram)*, *[YouTube](#youtube)*, *[TikTok](#tiktok)*, *[Reddit](#reddit)*, *[Discord](#discord)*, *[X (voorheen Twitter)](#twitter)*, *[LinkedIn](#linkedin)*, *[Mastondon](mastodon)*, *[BlueSky](#bluesky)* • [Websites & Domeinen](#websites) • [Beeld & Audio](#beeld) • [Verificatie](#verificatie) • [Data](#data): *[Verzamelen](#verzamelen)*, *[Bewerken](#bewerken)*, *[Visualiseren](#visualiseren)* • [AI](#ai) • [Crypto](#crypto) • [Overig](#overig)
-<hr>
-
-<hr>
-**tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastondon](mastodon)* • *[BlueSky](#bluesky)* • **[Websites & Domeinen](#websites)** • **[Beeld & Audio](#beeld)** • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
+**tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • **[Websites & Domeinen](#websites)** • **[Beeld & Audio](#beeld)** • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
 <hr>
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
 
-*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je <code>40</code> websites, scripts en apps die technisch ingewikkeld en tijdrovend werk voor je kunnen opknappen.*
+*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je websites, scripts en apps die technisch ingewikkeld en tijdrovend werk voor je kunnen opknappen.*
 
 *Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt. En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
 
@@ -233,7 +229,7 @@ Ooit begonnen als online CV-site, momenteel een slappe feed vol 'inspirerende' e
 #### <a id="mastodon"></a>Mastodon
 Een Mastodon-account maken is een intens twijfelachtig proces: begrijp maar eens op welke server je je moet aanmelden. En vervolgens kom je op een platform waar - voor zover ik weet - nog geen nuttige tools voor zijn ontwikkeld.
 
-#### <a id="bluesky"></a>BlueSky
+#### <a id="bluesky"></a>Bluesky
 Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd. Op dit moment zijn berichten op Bluesky alleen te zien zodra je bent ingelogd, en heb je een invite nodig om een account te maken. Voor zover ik weet, zijn er nog geen tools voor Bluesky ontwikkeld.
 
 [terug naar overzicht ⬆](#)
@@ -406,11 +402,9 @@ Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw sug
 
 Op dit moment ontbreken nog een aantal nuttige tools, zoals:
 <ul class="fa-ul">
-  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor Mastodon</li>
-  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor Bluesky</li>
-  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor LinkedIn</li>
-  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor Mastodon</li>
-  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor Mastodon</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Mastodon</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Bluesky</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor LinkedIn</li>
 </ul>
 
 Dus heb je nog een toevoeging of correctie? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.
@@ -422,7 +416,6 @@ Al die tools zijn leuk en aardig, maar het wordt pas interessant zodra je ze voo
 En als deze website nuttig vindt, overweeg dan ook eens om <a href="https://www.vanduurenmedia.nl/EAN/9789463562638/Handboek_Internetresearch_en_datajournalistiek_7e_editie?utm-rid=40090" target="_blank">via deze link het Handboek Internetresearch & Datajournalistiek</a> te bestellen. Met deze referral krijgen wij als makers van dat handboek een iets hoger percentage per verkocht exemplaar. Dit is de beste manier om me een bedankje te sturen. En je doet jezelf er ook nog eens een groot plezier mee ❤️
 
 <hr>
-* Deze site is gemaakt in [Jekyll](https://jekyllrb.com/) + [Good Clean Read](https://github.com/adueck/good-clean-read)
-* [Changelog](https://raw.githubusercontent.com/jerryvermanenpointer/luiejournalist/master/changelog.md)
-
+* Deze site is gemaakt in <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> + <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a>
+* <a href="https://raw.githubusercontent.com/jerryvermanenpointer/luiejournalist/master/changelog.md" target="_blank">Changelog</a>
 <hr>
