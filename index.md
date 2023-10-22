@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **40** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **72** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • **[Websites & Domeinen](#websites)** • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -164,6 +164,14 @@ Ooit, lang geleden, was YouTube nog een site waar korte vlogs en kattenfilmpjes 
 <a href="" target="_blank">![](images/)</a>
 
 
+##### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
+##### <a href="" target="_blank"></a>
+<a href="" target="_blank">![](images/)</a>
+
+
 #### <a id="tiktok"></a>TikTok
 Een oneindige feed vol korte video’s: TikTok is extreem verslavend en enorm interessant om te onderzoeken. Er zijn helaas nog niet veel tools die (blijven) werken voor dit platform.
 
@@ -209,16 +217,21 @@ Universal Reddit Scraper (URS) heeft een uitgebreide interface waarin je kunt aa
 #### <a id="discord"></a>Discord
 Discord begon als exclusief platform voor jongeren om te voicechatten tijdens games. Maar je kunt nu talloze communities vinden op dit platform. De voiceberichten maken het misschien wat lastig om te onderzoeken, maar op Discord kun je ook veel geschreven berichten vinden.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://disboard.org/servers" target="_blank">Disboard</a> | <mark>Website</mark>
+<a href="https://disboard.org/servers" target="_blank">![](images/disboard.png)</a>
+Via deze site kun je zoeken naar openbare Discord-servers.
 
+##### <a href="https://dht.chylex.com/" target="_blank">Discord History Checker</a> | <mark>Software</mark>
+<a href="https://dht.chylex.com/" target="_blank">![](images/discordhistorychecker.png)</a>
+Met deze software kun je de volledige gespreksgeschiedenis van servers, groepen en DM’s downloaden.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://hugo.moe/discord/discord-id-creation-date.html" target="_blank">Discord ID Creation Date Checker</a> | <mark>Website</mark>
+<a href="https://hugo.moe/discord/discord-id-creation-date.html" target="_blank">![](images/discordidchecker.png)</a>
+Met deze site kun je checken op welke datum een Discord-account is aangemaakt.
 
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://discordleaks.unicornriot.ninja/discord/server/" target="_blank">DiscordLeaks</a> | <mark>Website</mark>
+<a href="https://discordleaks.unicornriot.ninja/discord/server/" target="_blank">![](images/discordleaks.png)</a>
+Zoek in 100 duizenden gelekte extremistische Discord-gesprekken.
 
 #### <a id="twitter"></a>X (voorheen Twitter)
 Sinds  Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch houd ik deze sectie op de site. Waarschijnlijk tegen beter weten in.
