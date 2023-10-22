@@ -39,7 +39,7 @@ SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Re
 <a href="https://search.0t.rocks" target="_blank">![](/images/zerotrust.png)</a>
 Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. Wachtwoorden zijn niet zichtbaar. De site is meerdere keren offline gehaald, maar <a href="https://github.com/MiyakoYakota/search.0t.rocks" target="_blank">hier staat de code</a> om je eigen versie te hosten.
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="emailphone"></a><i class="fa fa-envelope" aria-hidden="true"></i> Email & Telefoon
@@ -69,7 +69,7 @@ Met PhoneInfoga kun je opzoeken of een telefoonnummer bestaat en welke basisgege
 <a href="https://github.com/jakecreps/poastal" target="_blank">![](images/poastal.png)</a>
 Met Poastal lanceer je een zoekmachine in je browser waarmee je kunt uitzoeken of een mailadres geregistreerd staat bij specifieke sociale media. Daarnaast kun je uitzoeken of een mailadres überhaupt bestaat, mail kan ontvangen en bekendstaat als spam.
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="usernames"></a><i class="fa fa-user" aria-hidden="true"></i> Usernames
@@ -87,7 +87,7 @@ Met Sherlock kun je checken of een username op bepaalde sites is geregistreerd. 
 <a href="https://whatsmyname.app/" target="_blank">![](images/whatsmyname.png)</a>
 Op WhatsMyName.app kun je snel op bijna 600 websites zoeken of die username staat geregistreerd. Je kunt het resultaat direct exporteren als csv-bestand.
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="social"></a><i class="fa fa-share" aria-hidden="true"></i> Sociale Media
@@ -232,7 +232,7 @@ Een Mastodon-account maken is een intens twijfelachtig proces: begrijp maar eens
 #### <a id="bluesky"></a>Bluesky
 Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd. Op dit moment zijn berichten op Bluesky alleen te zien zodra je bent ingelogd, en heb je een invite nodig om een account te maken. Voor zover ik weet, zijn er nog geen tools voor Bluesky ontwikkeld.
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="websites"></a><i class="fa fa-globe" aria-hidden="true"></i> Websites & Domeinen
@@ -250,7 +250,7 @@ Online websites, de digitale snelweg, het wereldwijde web: je komt er nog eens w
 <a href="" target="_blank">![](images/)</a>
 
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 
 <hr>
 
@@ -269,7 +269,7 @@ Spoiler: niet alles wat je online vindt, is waar. Alle foto’s, video’s en an
 <a href="" target="_blank">![](images/)</a>
 
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="data"></a><i class="fa fa-table" aria-hidden="true"></i> Data
@@ -318,11 +318,11 @@ Stukje introtekst
 <a href="" target="_blank">![](images/)</a>
 
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="ai"></a><i class="fa fa-lightbulb-o" aria-hidden="true"></i> AI
-Ik geef toe dat Terminator en The Matrix niet direct de meest positieve voorbeelden zijn van Kunstmatige Intelligentie. Maar deze films maken wel duidelijk dat AI enorm slim, efficiënt en tijdbesparend kan zijn. Daarom kunnen onderstaande tools jouw werk eenvoudiger maken.
+Ik geef toe dat Terminator en The Matrix niet direct de meest positieve voorbeelden zijn van Kunstmatige Intelligentie. Deze films maken in ieder geval duidelijk dat zelfs kwaadaardige AI enorm slim, efficiënt en tijdbesparend kan zijn. Daarom kunnen onderstaande tools jouw werk eenvoudiger maken.
 
 ##### <a href="https://chat.openai.com/" target="_blank">ChatGPT</a> | <mark>Website</mark>
 <a href="https://chat.openai.com/" target="_blank">![](images/chatgpt.png)</a>
@@ -364,9 +364,9 @@ Met RemoveBG (lees: Remove Background) kun je snel en eenvoudig de achtergrond v
 
 ##### <a href="https://www.simonsaysai.com" target="_blank">Simon Says</a> | <mark>Website</mark>
 <a href="https://www.simonsaysai.com" target="_blank">![](images/simonsays.png)</a>
-Een van de beste manieren om beeldmateriaal mee te transcriberen. Je transcript wordt ook nog eens met het beeld gesynchroniseerd. Door het editten van tekst kun je ruwe montages maken.
+Een van de beste manieren om beeldmateriaal mee te transcriberen. Je transcript wordt ook nog eens met het beeld gesynchroniseerd. Door het editten van tekst kun je ruwe montages maken. Je krijgt gratis credits om beeldmateriaal te transcriberen, maar die zijn snel op.
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="crypto"></a><i class="fa fa-btc" aria-hidden="true"></i> Crypto
@@ -384,7 +384,7 @@ Ah, de toekomst van ons betalingsverkeer: gedecentraliseerd, gepseudonimiseerd e
 <a href="" target="_blank">![](images/)</a>
 
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="overig"></a><i class="fa fa-archive" aria-hidden="true"></i> Overig
@@ -402,7 +402,7 @@ Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hierond
 <a href="" target="_blank">![](images/)</a>
 
 
-[terug naar overzicht ⬆](#)
+**[terug naar overzicht ⬆](#)**
 <hr>
 <a id="einde"></a>
 Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Of misschien ontbreekt er wel een tool? 
@@ -418,6 +418,7 @@ Op dit moment ontbreken nog een aantal nuttige tools, zoals:
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Mastodon</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Bluesky</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor LinkedIn</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Telegram (webversie)</li>
 </ul>
 
 Dus heb je nog een toevoeging of correctie? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.
