@@ -402,17 +402,33 @@ Met WalletExplorer kun je snel overzicht krijgen in allerlei crypto-transacties.
 ### <a id="overig"></a><i class="fa fa-archive" aria-hidden="true"></i> Overig
 Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hieronder verzameld.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://www.notion.so" target="_blank">Notion</a> | <mark>Software</mark>
+<a href="https://www.notion.so" target="_blank">![](images/notion.png)</a>
+Notion is mijn persoonlijke voorkeur voor een app om notities mee te maken. Het grote voordeel van Notion is dat je databases kunt maken in je notities.
 
+##### <a href="https://github.com/JustAnotherArchivist/snscrape" target="_blank">snscrape</a> | <mark>Scraper</mark>
+<a href="https://github.com/JustAnotherArchivist/snscrape" target="_blank">![](images/snscrape.png)</a>
+Dit script zegt data te kunnen scrapen van de volgende websites:
+* Facebook: user profiles, groups, and communities (aka visitor posts)
+* Instagram: user profiles, hashtags, and locations
+* Mastodon: user profiles and toots (single or thread)
+* Reddit: users, subreddits, and searches (via Pushshift)
+* Telegram: Channels
+* ~~Twitter: users, user profiles, hashtags, searches (live tweets, top tweets, and users), tweets (single or surrounding thread), list posts, communities, and trends~~
+* VKontakte: user profiles
+* Weibo (Sina Weibo): user profiles
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://github.com/smicallef/spiderfoot" target="_blank">Spiderfoot</a> | <mark>Script</mark>
+<a href="https://github.com/smicallef/spiderfoot" target="_blank">![](images/spiderfoot.png)</a>
+Spiderfoot is een opensource casemanager voor OSINT-onderzoeken. Je kunt meerdere scripts aanzetten om automatische searches uit te voeren.
 
+##### <a href="" target="_blank">TinyWow</a>
+<a href="" target="_blank">![](images/tinywow.png)</a>
+Op TinyWow vind je meerdere kleine tools waarmee je bewerkingen kunt uitvoeren p documenten of bestanden. PDF’s samenvoegen, afbeeldingen converteren, video’s downloaden: je vindt het allemaal op deze site.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
+##### <a href="https://woo-generator.nl/" target="_blank">Woo-generator</a>
+<a href="https://woo-generator.nl/" target="_blank">![](images/woogenerator.png)</a>
+Met de Woo-generator van de VVOJ (Vereniging van Onderzoeksjournalisten) kun je snel een blauwdruk (altijd even dubbelchecken) voor je Woo-verzoek genereren.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
@@ -427,7 +443,6 @@ Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw sug
 
 Op dit moment ontbreken nog een aantal nuttige tools, zoals:
 <ul class="fa-ul">
-  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Mastodon</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Bluesky</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor LinkedIn</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Telegram (webversie)</li>
