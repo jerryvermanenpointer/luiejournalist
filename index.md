@@ -372,17 +372,29 @@ Een van de beste manieren om beeldmateriaal mee te transcriberen. Je transcript 
 ### <a id="crypto"></a><i class="fa fa-btc" aria-hidden="true"></i> Crypto
 Ah, de toekomst van ons betalingsverkeer: gedecentraliseerd, gepseudonimiseerd en encrypted. En vooral gebruikt door crypto-bro’s en georganiseerde misdaad. Dan is het handig om wat tools te hebben om zulke transacties inzichtelijk te maken.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://live.blockcypher.com/" target="_blank">Blockcypher</a> | <mark>Website</mark>
+<a href="https://live.blockcypher.com/" target="_blank">![](images/blockcypher.png)</a>
+Met Blockcypher kun je snel overzicht krijgen in allerlei crypto-transacties.
 
+##### <a href="https://www.chainabuse.com/" target="_blank">ChainAbuse</a> | <mark>Website</mark>
+<a href="https://www.chainabuse.com/" target="_blank">![](images/chainabuse.png)</a>
+Op ChainAbuse kun je checken of een wallet of transactie bekend staat als dubieus.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://crystalblockchain.com/" target="_blank">Crystal Blockchain</a> | <mark>Website</mark>
+<a href="https://crystalblockchain.com/" target="_blank">![](images/crystalblockchain.png)</a>
+Met Crystal Blockchain kun je een uitgebreide analyse krijgen van cryptotransacties. Is een betaalde service, maar werkt mogelijk met gratis trials of pro bono.
 
+##### <a href="https://www.elliptic.co/" target="_blank">Elliptic</a> | <mark>Website</mark>
+<a href="https://www.elliptic.co/" target="_blank">![](images/elliptic.png)</a>
+Het bedrijf Elliptic houdt een database bij van transacties die als dubieus zijn gemarkeerd. Is een betaalde service, maar werkt mogelijk met gratis trials of pro bono.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://wallet.mycelium.com/" target="_blank">Mycelium Wallet</a> | <mark>App</mark>
+<a href="https://wallet.mycelium.com/" target="_blank">![](images/mycelium.png)</a>
+Een cryptowallet die door experts wordt aangeraden, omdat het eenvoudig en veilig in gebruik is.
 
+##### <a href="https://www.walletexplorer.com/" target="_blank">WalletExplorer</a> | <mark>Website</mark>
+<a href="https://www.walletexplorer.com/" target="_blank">![](images/walletexplorer.png)</a>
+Met WalletExplorer kun je snel overzicht krijgen in allerlei crypto-transacties. Deze site doet ook clustering van transacties: het samenvoegen van transacties die uit dezelfde wallets komen.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
