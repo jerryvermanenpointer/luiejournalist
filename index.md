@@ -8,9 +8,8 @@ layout: default
 **tools**: [Zoekmachines](#zoekmachines) • [Email & Telefoon](#emailphone) • [Usernames](#usernames) • [Sociale Media](#social):  *[Facebook](#fb)*, *[Instagram](#insta)*, *[Telegram](#telegram)*, *[YouTube](#youtube)*, *[TikTok](#tiktok)*, *[Reddit](#reddit)*, *[Discord](#discord)*, *[X (voorheen Twitter)](#twitter)*, *[LinkedIn](#linkedin)*, *[Mastondon](mastodon)*, *[BlueSky](#bluesky)* • [Websites & Domeinen](#websites) • [Beeld & Audio](#beeld) • [Verificatie](#verificatie) • [Data](#data): *[Verzamelen](#verzamelen)*, *[Bewerken](#bewerken)*, *[Visualiseren](#visualiseren)* • [AI](#ai) • [Crypto](#crypto) • [Overig](#overig)
 <hr>
 
-
 <hr>
-**tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Sociale Media](#social)**:  *[Facebook](#fb)*, *[Instagram](#insta)*, *[Telegram](#telegram)*, *[YouTube](#youtube)*, *[TikTok](#tiktok)*, *[Reddit](#reddit)*, *[Discord](#discord)*, *[X (voorheen Twitter)](#twitter)*, *[LinkedIn](#linkedin)*, *[Mastondon](mastodon)*, *[BlueSky](#bluesky)* • **[Websites & Domeinen](#websites)** • [Beeld & Audio](#beeld) • [Verificatie](#verificatie) • [Data](#data): *[Verzamelen](#verzamelen)*, *[Bewerken](#bewerken)*, *[Visualiseren](#visualiseren)* • [AI](#ai) • [Crypto](#crypto) • [Overig](#overig)
+**tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastondon](mastodon)* • *[BlueSky](#bluesky)* • **[Websites & Domeinen](#websites)** • **[Beeld & Audio](#beeld)** • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
 <hr>
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
@@ -64,11 +63,11 @@ Met Moriarty kun je checken of een telefoonnummer bekend staat als dubieus. Ook 
 
 ##### <a href="https://osint.industries/" target="_blank">OSINT.industries</a> | <mark>Website</mark>
 <a href="https://osint.industries/" target="_blank">![](images/osintindustries.png)</a>
-Op Osint.Industries kun je (grotendeels betaald) rondzoeken op welke websites specifieke mailadressen en telefoonnummers staan geregistreerd. Onderzoeksjournalisten kunnen <a href="https://osint.industries/journalist" target="_blank">een gratis account aanvragen</a>.
+Op OSINT.Industries kun je (grotendeels betaald) rondzoeken op welke websites specifieke mailadressen en telefoonnummers staan geregistreerd. Onderzoeksjournalisten kunnen <a href="https://osint.industries/journalist" target="_blank">een gratis account aanvragen</a>.
 
 ##### <a href="https://github.com/sundowndev/phoneinfoga" target="_blank">PhoneInfoga</a> | <mark>Script</mark>
 <a href="https://github.com/sundowndev/phoneinfoga" target="_blank">![](images/phoneinfoga.png)</a>
-Met PhoneInfoga kun je opzoeken of een telefoonnummer bestaat en wat er over dat nummer te vertellen is. Ook kun je checken aan welke accounts dat nummer is gekoppeld.
+Met PhoneInfoga kun je opzoeken of een telefoonnummer bestaat en welke basisgegevens daarover te vinden zijn. Ook kun je checken aan welke accounts dat nummer is gekoppeld.
 
 ##### <a href="https://github.com/jakecreps/poastal" target="_blank">Poastal</a> | <mark>Script</mark>
 <a href="https://github.com/jakecreps/poastal" target="_blank">![](images/poastal.png)</a>
@@ -126,7 +125,7 @@ Zelfs mensen met een bloedhekel aan Facebook zitten vaak met veel plezier op Ins
 <a href="" target="_blank">![](images/)</a>
 
 #### <a id="telegram"></a>Telegram
-Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen paar jaar duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
+Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen jaren duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
 
 ##### <a href="https://github.com/bellingcat/telegram-phone-number-checker" target="_blank">Bellingcat Phonenumber Check</a> | <mark>Script</mark>
 <a href="https://github.com/bellingcat/telegram-phone-number-checker" target="_blank">![](images/bellingcatphonenumberchecker.png)</a>
@@ -155,7 +154,7 @@ Op deze sites kun je door gearchiveerde Telegram-groepen en -kanalen zoeken. Han
 * <a href="https://cse.google.com/cse?cx=6c3e0c0d3da8e3b4a" target="_blank">Telegago</a>
 
 #### <a id="youtube"></a>YouTube
-Ooit, lang geleden, was YouTube nog een site waar korte vlogs werden gepubliceerd. Nu kun je er urenlange podcasts, uitgebreide documentaires en elke brainfart van je geradicaliseerde buurjongen vinden.
+Ooit, lang geleden, was YouTube nog een site waar korte vlogs en kattenfilmpjes werden gepost. Nu kun je er urenlange podcasts, uitgebreide documentaires en de brainfarts van je geradicaliseerde buurjongen vinden.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -226,7 +225,7 @@ Discord begon als exclusief platform voor jongeren om te voicechatten tijdens ga
 <a href="" target="_blank">![](images/)</a>
 
 #### <a id="twitter"></a>X (voorheen Twitter)
-Sinds  Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch houd ik deze sectie op de site. Misschien tegen beter weten in. Wie nog goede suggesties heeft, is welkom om te tippen.
+Sinds  Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch houd ik deze sectie op de site. Waarschijnlijk tegen beter weten in.
 
 #### <a id="linkedin"></a>LinkedIn
 Ooit begonnen als online CV-site, momenteel een slappe feed vol 'inspirerende' ervaringen van saaie mensen. Alsnog een goede bron van informatie, maar ik ken geen nuttige websites of tools voor LinkedIn.
@@ -404,6 +403,15 @@ Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw sug
 * dat je die tool recent nog hebt gebruikt;
 * dat je daar tijd, moeite of geld mee bespaart;
 * en dat het specifiek voor journalisten nuttig is.
+
+Op dit moment ontbreken nog een aantal nuttige tools, zoals:
+<ul class="fa-ul">
+  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor Mastodon</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor Bluesky</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor LinkedIn</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor Mastodon</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i>Een scraper voor Mastodon</li>
+</ul>
 
 Dus heb je nog een toevoeging of correctie? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.
 
