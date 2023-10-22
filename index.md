@@ -96,15 +96,29 @@ Grote kans dat elk online onderzoek op een gegeven moment uitkomt bij een sociaa
 #### <a id="fb"></a>Facebook
 Facebook doet al jarenlang zijn best om allerlei ontwikkelde tools voor onderzoekers en journalisten onbruikbaar te maken. Ondanks dat zijn er genoeg mogelijkheden om de stroom aan mis- en desinformatie op deze site te onderzoeken.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="" target="_blank">CrowdTangle</a> | <mark>Website</mark>
+<a href="" target="_blank">![](images/crowdtangle.png)</a>
+Met CrowdTangle (een dienst die door Facebook zelf wordt beheerd) kun je meerdere openbare Facebook-berichten analyseren. Wat is trending? En zit daar mogelijk misinformatie tussen?
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="" target="_blank">Facebook Friend List Scraper</a> | <mark>Scraper</mark>
+<a href="" target="_blank">![](images/fbfriendlistscraper.png)</a>
+Met de FB Friend List Scraper kun je de vrienden van openbare Facebookprofielen scrapen.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="" target="_blank">FDown</a> | <mark>Website</mark>
+<a href="" target="_blank">![](images/fdown.png)</a>
+Met FDown kun je snel openbare Facebook-video’s downloaden.
 
+##### <a href="" target="_blank">Lookup ID</a> | <mark>Website</mark>
+<a href="" target="_blank">![](images/lookupid.png)</a>
+Met Lookup.id kun je de ID-code van een Facebook-profiel vinden. Voor sommige andere zoekdiensten kan die ID-code handig zijn.
+
+##### <a href="" target="_blank">SowSearch</a> | <mark>Website</mark>
+<a href="" target="_blank">![](images/sowsearch.png)</a>
+Met SowSearch kun je grotendeels zoeken zoals je dat eerder kon met Graph Search. Vooral handig als je complexe zoekopdrachten wil formuleren.
+
+##### <a href="" target="_blank">Who Posted What</a> | <mark>Website</mark>
+<a href="" target="_blank">![](images/whopostedwhat.png)</a>
+Met WhoPostedWhat kun je uitgebreid zoeken in openbare posts op Facebook. Hiervoor heb je vaak een ID-code nodig (zie hierboven bij Lookup ID).
 
 #### <a id="insta"></a>Instagram
 Zelfs mensen met een bloedhekel aan Facebook zitten vaak met veel plezier op Instagram. Alles is hier leuk, gezellig en vriendelijk. Zelfs met alle spambots, scammers en dubieuze reclamecampagnes die je hier kunt aantreffen.
