@@ -8,9 +8,14 @@ layout: default
 **tools**: [Zoekmachines](#zoekmachines) • [Email & Telefoon](#emailphone) • [Usernames](#usernames) • [Sociale Media](#social):  *[Facebook](#fb)*, *[Instagram](#insta)*, *[Telegram](#telegram)*, *[YouTube](#youtube)*, *[TikTok](#tiktok)*, *[Reddit](#reddit)*, *[Discord](#discord)*, *[X (voorheen Twitter)](#twitter)*, *[LinkedIn](#linkedin)*, *[Mastondon](mastodon)*, *[BlueSky](#bluesky)* • [Websites & Domeinen](#websites) • [Beeld & Audio](#beeld) • [Verificatie](#verificatie) • [Data](#data): *[Verzamelen](#verzamelen)*, *[Bewerken](#bewerken)*, *[Visualiseren](#visualiseren)* • [AI](#ai) • [Crypto](#crypto) • [Overig](#overig)
 <hr>
 
+
+<hr>
+**tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Sociale Media](#social)**:  *[Facebook](#fb)*, *[Instagram](#insta)*, *[Telegram](#telegram)*, *[YouTube](#youtube)*, *[TikTok](#tiktok)*, *[Reddit](#reddit)*, *[Discord](#discord)*, *[X (voorheen Twitter)](#twitter)*, *[LinkedIn](#linkedin)*, *[Mastondon](mastodon)*, *[BlueSky](#bluesky)* • **[Websites & Domeinen](#websites)** • [Beeld & Audio](#beeld) • [Verificatie](#verificatie) • [Data](#data): *[Verzamelen](#verzamelen)*, *[Bewerken](#bewerken)*, *[Visualiseren](#visualiseren)* • [AI](#ai) • [Crypto](#crypto) • [Overig](#overig)
+<hr>
+
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
 
-*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je tientallen websites, scripts en apps die technisch ingewikkeld en tijdrovend werk voor je kunnen opknappen.*
+*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je <code>40</code> websites, scripts en apps die technisch ingewikkeld en tijdrovend werk voor je kunnen opknappen.*
 
 *Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt. En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
 
@@ -20,6 +25,7 @@ layout: default
 Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals Google, Bing en Yandex. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
 
 ##### <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">E-justice Business Register</a> | <mark>Website</mark>
+<a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">![](/images/ejustice.png)</a>
 In dit register kun je internationaal zoeken in alle Kamers van Koophandel van EU-landen. Erg handig als je niet exact weet op welke site je in het buitenland moet zoeken.
 
 ##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a> | <mark>Website</mark>
@@ -42,7 +48,7 @@ Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zo
 <hr>
 
 ### <a id="emailphone"></a><i class="fa fa-envelope" aria-hidden="true"></i> Email & Telefoon
-Het startpunt van veel online onderzoeken: een mailadres of telefoonnummer. Maar nu wil je weten wie dat mailtje leest of die telefoon opneemt. Met deze tools kun je meer informatie vinden.
+Het startpunt van veel online onderzoeken: een anoniem mailadres of telefoonnummer. Meestal wil je weten wie zich daarachter verschuilt. Deze tools kunnen je daarbij helpen.
 
 ##### <a href="https://epieos.com/" target="_blank">Epieos</a> | <mark>Website</mark>
 <a href="https://epieos.com/" target="_blank">![](images/epieos.png)</a>
@@ -90,10 +96,10 @@ Op WhatsMyName.app kun je snel op bijna 600 websites zoeken of die username staa
 <hr>
 
 ### <a id="social"></a><i class="fa fa-share" aria-hidden="true"></i> Sociale Media
-Stukje introtekst
+Grote kans dat elk online onderzoek op een gegeven moment uitkomt bij een sociaal medium. Hieronder vind je de grootste, meest bekende of opkomende platforms.
 
 #### <a id="fb"></a>Facebook
-Stukje introductietekt
+Facebook doet al jarenlang zijn best om allerlei ontwikkelde tools voor onderzoekers en journalisten onbruikbaar te maken. Ondanks dat zijn er genoeg mogelijkheden om de stroom aan mis- en desinformatie op deze site te onderzoeken.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -106,7 +112,7 @@ Stukje introductietekt
 
 
 #### <a id="insta"></a>Instagram
-Stukje introtekst
+Zelfs mensen met een bloedhekel aan Facebook zitten vaak met veel plezier op Instagram. Alles is hier leuk, gezellig en vriendelijk. Zelfs met alle spambots, scammers en dubieuze reclamecampagnes die je hier kunt aantreffen.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -149,7 +155,7 @@ Op deze sites kun je door gearchiveerde Telegram-groepen en -kanalen zoeken. Han
 * <a href="https://cse.google.com/cse?cx=6c3e0c0d3da8e3b4a" target="_blank">Telegago</a>
 
 #### <a id="youtube"></a>YouTube
-Stukje introtekst
+Ooit, lang geleden, was YouTube nog een site waar korte vlogs werden gepubliceerd. Nu kun je er urenlange podcasts, uitgebreide documentaires en elke brainfart van je geradicaliseerde buurjongen vinden.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -163,8 +169,8 @@ Stukje introtekst
 <a href="" target="_blank">![](images/)</a>
 
 
-#### <a id="tiktok"></a>Tiktok
-Stukje introtekst
+#### <a id="tiktok"></a>TikTok
+Een oneindige feed vol korte video’s: TikTok is extreem verslavend en enorm interessant om te onderzoeken. Er zijn helaas nog niet veel tools die (blijven) werken voor dit platform.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -206,7 +212,7 @@ Op Resavr kun je veel verwijderde comments op Reddit weer terugvinden.
 Universal Reddit Scraper (URS) heeft een uitgebreide interface waarin je kunt aangeven wat je precies van Reddit wil binnenhalen. Je kunt subreddits, accounts en comments scrapen.
 
 #### <a id="discord"></a>Discord
-Stukje introtekst
+Discord begon als exclusief platform voor jongeren om te voicechatten tijdens games. Maar je kunt nu talloze communities vinden op dit platform. De voiceberichten maken het misschien wat lastig om te onderzoeken, maar op Discord kun je ook veel geschreven berichten vinden.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -226,16 +232,16 @@ Sinds  Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch 
 Ooit begonnen als online CV-site, momenteel een slappe feed vol 'inspirerende' ervaringen van saaie mensen. Alsnog een goede bron van informatie, maar ik ken geen nuttige websites of tools voor LinkedIn.
 
 #### <a id="mastodon"></a>Mastodon
-Stukje tekst
+Een Mastodon-account maken is een intens twijfelachtig proces: begrijp maar eens op welke server je je moet aanmelden. En vervolgens kom je op een platform waar - voor zover ik weet - nog geen nuttige tools voor zijn ontwikkeld.
 
 #### <a id="bluesky"></a>BlueSky
-Stukje tekst
+Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd. Op dit moment zijn berichten op Bluesky alleen te zien zodra je bent ingelogd, en heb je een invite nodig om een account te maken. Voor zover ik weet, zijn er nog geen tools voor Bluesky ontwikkeld.
 
 [terug naar overzicht ⬆](#)
 <hr>
 
 ### <a id="websites"></a><i class="fa fa-globe" aria-hidden="true"></i> Websites & Domeinen
-Stukje introtekst
+Online websites, de digitale snelweg, het wereldwijde web: je komt er nog eens wat tegen. Zodra je onderzoek moet doen naar een website of domeinnaam, dan kun je onderstaande tools goed gebruiken.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -271,7 +277,7 @@ Stukje introtekst
 <hr>
 
 ### <a id="verificatie"></a><i class="fa fa-check" aria-hidden="true"></i> Verificatie
-Stukje introtekst
+Spoiler: niet alles wat je online vindt, is waar. Alle foto’s, video’s en andere informatie moet je dubbelchecken en verifiëren. Bestaat deze persoon wel echt? En is deze video wel op deze locatie gemaakt? Onderstaande tools kunnen je daarbij helpen.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -338,7 +344,7 @@ Stukje introtekst
 <hr>
 
 ### <a id="ai"></a><i class="fa fa-lightbulb-o" aria-hidden="true"></i> AI
-Stukje introtekst
+Ik geef toe dat Terminator en The Matrix niet direct de meest positieve voorbeelden zijn van Kunstmatige Intelligentie. Maar deze films maken wel duidelijk dat AI enorm slim, efficiënt en tijdbesparend kan zijn. Daarom kunnen onderstaande tools jouw werk eenvoudiger maken.
 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
@@ -394,6 +400,7 @@ Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hierond
 Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Of misschien ontbreekt er wel een tool? 
 
 Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw suggestie voor een nuttige tool. Belangrijk daarbij is:
+* dat deze tool (of een variant daarop) nog niet op deze site staat;
 * dat je die tool recent nog hebt gebruikt;
 * dat je daar tijd, moeite of geld mee bespaart;
 * en dat het specifiek voor journalisten nuttig is.
