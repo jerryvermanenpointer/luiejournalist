@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **72** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **89** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • **[Websites & Domeinen](#websites)** • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -90,6 +90,54 @@ Op WhatsMyName.app kun je snel op bijna 600 websites zoeken of die username staa
 **[terug naar overzicht ⬆](#)**
 <hr>
 
+### <a id="websites"></a><i class="fa fa-globe" aria-hidden="true"></i> Websites & Domeinen
+Online websites, de digitale snelweg, het wereldwijde web: je komt er nog eens wat tegen. Zodra je onderzoek moet doen naar een website of domeinnaam, dan kun je onderstaande tools goed gebruiken.
+
+##### <a href="https://adbeat.com/" target="_blank">Adbeat</a> | <mark>Website</mark>
+<a href="https://adbeat.com/" target="_blank">![](images/adbeat.png)</a>
+Met Adbeat kun je de affiliate links van websites analyseren. Waar leiden ze naartoe? Handig als je online advertenties gaat onderzoeken.
+
+##### <a href="https://analyzeid.com/" target="_blank">Analyze ID</a> | <mark>Website</mark>
+<a href="https://analyzeid.com/" target="_blank">![](images/analyzeid.png)</a>
+Met Analyze ID kun je onderzoeken welke websites van dezelfde eigenaar zijn op basis van email, Facebook ID’s, Adsense, Google Analytics en IP-adres.
+
+##### <a href="https://themarkup.org/blacklight" target="_blank">Blacklight</a> | <mark>Website</mark>
+<a href="https://themarkup.org/blacklight" target="_blank">![](images/blacklight.png)</a>
+Met Blacklight van <a href="https://themarkup.org/" target="_blank">The Markup</a> kun je analyseren hoe je op diverse websites wordt gevolgd door cookies, ad trackers, Google Ads, etc.
+
+##### <a href="https://builtwith.com/" target="_blank">BuildWith</a> | <mark>Website</mark>
+<a href="https://builtwith.com/" target="_blank">![](images/buildwith.png)</a>
+Met BuildWith kun je snel checken wat de onderliggende techniek van een website is.
+
+##### <a href="https://carbondate.cs.odu.edu/" target="_blank">Carbon Dating The Web</a> | <mark>Website</mark>
+<a href="https://carbondate.cs.odu.edu/" target="_blank">![](images/carbondatingtheweb.png)</a>
+Carbon Dating The Web is een website waarmee je een redelijke schatting kunt maken wanneer een website is gemaakt.
+
+##### <a href="https://dnslytics.com/" target="_blank">DNSlytics</a> | <mark>Website</mark>
+<a href="https://dnslytics.com/" target="_blank">![](images/dnslytics.png)</a>
+Met DNSlytics kun je snel een overzicht krijgen van alle kenmerken van een website: IP, servers, mailservers, redirects, etc.
+
+##### <a href="http://spyonweb.com/" target="_blank">SpyOnWeb</a> | <mark>Website</mark>
+<a href="http://spyonweb.com/" target="_blank">![](images/spyonweb.png)</a>
+Met SpyOnWeb kun je zien welke tracking codes (advertenties bijvoorbeeld) een website gebruikt, en welke sites je daarmee aan elkaar kunt linken.
+
+##### <a href="https://viewdns.info/" target="_blank">ViewDNS</a> | <mark>Website</mark>
+<a href="https://viewdns.info/" target="_blank">![](images/viewdns.png)</a>
+Op ViewDNS staan verschillende modules waarmee je websites kunt analyseren. Het meest nuttig zijn:
+* Reverse IP Lookup → Staan op dit domein / IP meerdere websites gehost?
+* Reverse WHOIS Lookup → Staan op dit mailadres nog meer websites geregistreerd?
+
+##### <a href="https://visualping.io/" target="_blank">Visualping</a> | <mark>Website</mark>
+<a href="https://visualping.io/" target="_blank">![](images/visualping.png)</a>
+Als je wil weten wanneer een website verandert, dan kun je dat op Visualping in de gaten houden. Je krijgt een alert via de mail wanneer de website is gewijzigd.
+
+##### <a href="https://website.informer.com/" target="_blank">WebsiteInformer</a> | <mark>Website</mark>
+<a href="https://website.informer.com/" target="_blank">![](images/websiteinformer.png)</a>
+Op Website Informer kun je snel zien wie de eigenaar van een website is. Lijkt ook veel resultaten uit het verleden en veel verschillende domeinnamen te geven.
+
+**[terug naar overzicht ⬆](#)**
+<hr>
+
 ### <a id="social"></a><i class="fa fa-share" aria-hidden="true"></i> Sociale Media
 Grote kans dat elk online onderzoek op een gegeven moment uitkomt bij een sociaal medium. Hieronder vind je de grootste, meest bekende of opkomende platforms.
 
@@ -120,6 +168,8 @@ Met SowSearch kun je grotendeels zoeken zoals je dat eerder kon met Graph Search
 <a href="" target="_blank">![](images/whopostedwhat.png)</a>
 Met WhoPostedWhat kun je uitgebreid zoeken in openbare posts op Facebook. Hiervoor heb je vaak een ID-code nodig (zie hierboven bij Lookup ID).
 
+**[terug naar overzicht ⬆](#)**
+
 #### <a id="insta"></a>Instagram
 Zelfs mensen met een bloedhekel aan Facebook zitten vaak met veel plezier op Instagram. Alles is hier leuk, gezellig en vriendelijk. Zelfs met alle spambots, scammers en dubieuze reclamecampagnes die je hier kunt aantreffen.
 
@@ -142,6 +192,8 @@ Met SnapInsta kun je vrij eenvoudig video’s, reels, foto’s, stories en IGTV 
 ##### <a href="https://github.com/megadose/toutatis" target="_blank">Toutatis</a> | <mark>Script</mark>
 <a href="https://github.com/megadose/toutatis" target="_blank">![](images/toutatis.png)</a>
 Met Toutatis kun je meer informatie vinden over het (gedeeltelijke) telefoonnummer en emailadres dat is gebruikt om een Instagram-account aan te maken.
+
+**[terug naar overzicht ⬆](#)**
 
 #### <a id="telegram"></a>Telegram
 Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen jaren duiken steeds meer dubieuze groepen op in Telegram. Dat maakt het voor journalisten en onderzoekers een perfecte grabbelton voor nieuwe onderwerpen.
@@ -172,6 +224,8 @@ Op deze sites kun je door gearchiveerde Telegram-groepen en -kanalen zoeken. Han
 * <a href="https://tgramsearch.com/" target="_blank">Tgramsearch</a>
 * <a href="https://cse.google.com/cse?cx=6c3e0c0d3da8e3b4a" target="_blank">Telegago</a>
 
+**[terug naar overzicht ⬆](#)**
+
 #### <a id="youtube"></a>YouTube
 Ooit, lang geleden, was YouTube nog een site waar korte vlogs en kattenfilmpjes werden gepost. Nu kun je er urenlange podcasts, uitgebreide documentaires en de brainfarts van je geradicaliseerde buurjongen vinden.
 
@@ -194,6 +248,7 @@ Ooit, lang geleden, was YouTube nog een site waar korte vlogs en kattenfilmpjes 
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
 
+**[terug naar overzicht ⬆](#)**
 
 #### <a id="tiktok"></a>TikTok
 Een oneindige feed vol korte video’s: TikTok is extreem verslavend en enorm interessant om te onderzoeken. Er zijn helaas nog niet veel tools die (blijven) werken voor dit platform.
@@ -201,14 +256,7 @@ Een oneindige feed vol korte video’s: TikTok is extreem verslavend en enorm in
 ##### <a href="" target="_blank"></a>
 <a href="" target="_blank">![](images/)</a>
 
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
+**[terug naar overzicht ⬆](#)**
 
 #### <a id="reddit"></a>Reddit
 Een van de weinige online forums waar je intelligente en doordachte gesprekken kunt aantreffen. En natuurlijk veel kattenmemes.
@@ -237,6 +285,8 @@ Op Resavr kun je veel verwijderde comments op Reddit weer terugvinden.
 <a href="https://github.com/JosephLai241/URS" target="_blank">![](images/urs.png)</a>
 Universal Reddit Scraper (URS) heeft een uitgebreide interface waarin je kunt aangeven wat je precies van Reddit wil binnenhalen. Je kunt subreddits, accounts en comments scrapen.
 
+**[terug naar overzicht ⬆](#)**
+
 #### <a id="discord"></a>Discord
 Discord begon als exclusief platform voor jongeren om te voicechatten tijdens games. Maar je kunt nu talloze communities vinden op dit platform. De voiceberichten maken het misschien wat lastig om te onderzoeken, maar op Discord kun je ook veel geschreven berichten vinden.
 
@@ -256,6 +306,8 @@ Met deze site kun je checken op welke datum een Discord-account is aangemaakt.
 <a href="https://discordleaks.unicornriot.ninja/discord/server/" target="_blank">![](images/discordleaks.png)</a>
 Zoek in 100 duizenden gelekte extremistische Discord-gesprekken.
 
+**[terug naar overzicht ⬆](#)**
+
 #### <a id="twitter"></a>X (voorheen Twitter)
 Sinds  Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch houd ik deze sectie op de site. Waarschijnlijk tegen beter weten in.
 
@@ -269,25 +321,6 @@ Een Mastodon-account maken is een intens twijfelachtig proces: begrijp maar eens
 Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd. Op dit moment zijn berichten op Bluesky alleen te zien zodra je bent ingelogd, en heb je een invite nodig om een account te maken. Voor zover ik weet, zijn er nog geen tools voor Bluesky ontwikkeld.
 
 **[terug naar overzicht ⬆](#)**
-<hr>
-
-### <a id="websites"></a><i class="fa fa-globe" aria-hidden="true"></i> Websites & Domeinen
-Online websites, de digitale snelweg, het wereldwijde web: je komt er nog eens wat tegen. Zodra je onderzoek moet doen naar een website of domeinnaam, dan kun je onderstaande tools goed gebruiken.
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-**[terug naar overzicht ⬆](#)**
-
 <hr>
 
 ### <a id="verificatie"></a><i class="fa fa-check" aria-hidden="true"></i> Verificatie
@@ -307,7 +340,7 @@ Facecheck.id zoekt met gezichtherkenning waar een persoon nog meer voorkomt.
 
 ##### <a href="https://mever.iti.gr/forensics/" target="_blank">Image Verification Assistant</a> | <mark>Website</mark>
 <a href="https://mever.iti.gr/forensics/" target="_blank">![](images/imageverificationassistant.png)</a>
-Met de Image Verification Assistant kun je analyseren of beeldmateriaal is gemanipuleerd.
+Met de Image Verification Assistant kun je analyseren of beeldmateriaal is gemanipuleerd. Ook zijn er talloze voorbeelden te vinden van gemanipuleerde afbeeldingen.
 
 ##### <a href="https://weverify.eu/verification-plugin/" target="_blank">InVID WeVerify</a> | <mark>Plugin</mark>
 <a href="https://weverify.eu/verification-plugin/" target="_blank">![](images/weverify.png)</a>
@@ -319,6 +352,8 @@ Op Metadata2Go kun je snel de metadata van je afbeeldingen analyseren.
 
 ##### <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo</a> | <mark>Website</mark>
 <a href="https://overpass-turbo.eu/" target="_blank">![](images/overpassturbo.png)</a>
+Met Overpass Turbo kun je een zoekopdracht maken om specifieke landmarks op kaarten te ontdekken. Voorbeeld: vind alle onbewaakte spoorwegovergangen in een straal van 500 meter van een windmolen. Erg handig als je OSINT doet: zodra je specifieke aanwijzingen op een afbeelding ziet staan, dan kun je het aantal locaties snel beperken. Overpass Turbo vraagt wel om een zoekopdracht in een hele specifieke taal, maar ChatGPT kan je daar goed mee helpen. Je kunt al je gevonden landmarks exporteren om verder te analyseren in andere software.
+
 Met Overpass Turbo kun je snel een query maken van specifieke landmarks op kaarten. Handig als je OSINT moet doen en specifieke dingen ziet waar je op kunt zoeken. Werkt erg handig als je je query in ChatGPT formuleert. Vervolgens kun je op de kaart zoeken of de locatie overeenkomt met wat je op de foto ziet. Een andere mogelijkheid is het exporteren van de objecten die je via de query hebt gevonden. Kan handig zijn als je in QGIS of R een analyse wil doen.
 
 ##### <a href="https://www.peakfinder.com/" target="_blank">Peakfinder</a> | <mark>Website</mark>
@@ -492,6 +527,7 @@ Met de Woo-generator van de VVOJ (Vereniging van Onderzoeksjournalisten) kun je 
 
 **[terug naar overzicht ⬆](#)**
 <hr>
+
 <a id="einde"></a>
 Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Of misschien ontbreekt er wel een tool? 
 
@@ -515,8 +551,8 @@ Al die tools zijn leuk en aardig, maar het wordt pas interessant zodra je ze voo
 <p><iframe style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;" src="https://embeds.beehiiv.com/a6302f50-29c3-4818-b1cd-da3da2951c67" width="100%" height="320" frameborder="0" scrolling="no" data-test-id="beehiiv-embed"></iframe></p>
 
 En als deze website nuttig vindt, overweeg dan ook eens om <a href="https://www.vanduurenmedia.nl/EAN/9789463562638/Handboek_Internetresearch_en_datajournalistiek_7e_editie?utm-rid=40090" target="_blank">via deze link het Handboek Internetresearch & Datajournalistiek</a> te bestellen. Met deze referral krijgen wij als makers van dat handboek een iets hoger percentage per verkocht exemplaar. Dit is de beste manier om me een bedankje te sturen. En je doet jezelf er ook nog eens een groot plezier mee ❤️
-
 <hr>
+
 * Deze site is gemaakt in <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> + <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a>
 * <a href="https://raw.githubusercontent.com/jerryvermanenpointer/luiejournalist/master/changelog.md" target="_blank">Changelog</a>
 <hr>
