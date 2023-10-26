@@ -135,6 +135,18 @@ Als je wil weten wanneer een website verandert, dan kun je dat op Visualping in 
 <a href="https://website.informer.com/" target="_blank">![](images/websiteinformer.png)</a>
 Op Website Informer kun je snel zien wie de eigenaar van een website is. Lijkt ook veel resultaten uit het verleden en veel verschillende domeinnamen te geven.
 
+##### <a href="https://well-known.dev/" target="_blank">Well-Known</a> | <mark>Website</mark>
+<a href="https://well-known.dev/" target="_blank">![](images/wellknown.png)</a>
+Op Well-Known kun je zoeken naar de ads.txt op een website: het overzicht van advertenties dat op die site wordt vertoond. Zodra je inlogt, kun je verder zoeken op de directe adverteerders en websites die dezelfde Google Ads-codes gebruiken.
+
+##### <a href="https://whois-history.whoisxmlapi.com/" target="_blank">WHOIS History</a> | <mark>Website</mark>
+<a href="https://whois-history.whoisxmlapi.com/" target="_blank">![](images/whoishistory.png)</a>
+Via deze site kun je in historische WHOIS-registraties zoeken naar de eigenaar van een domeinnaam. Heeft wel een limiet, dus spaarzaam gebruiken.
+
+##### <a href="https://www.whoxy.com/" target="_blank">Whoxy</a> | <mark>Website</mark>
+<a href="https://www.whoxy.com/" target="_blank">![](images/whoxy.png)</a>
+Op Whoxy kun je zoeken op welke naam een website staat geregistreerd. Ook kun je zoeken of op een mailadres een website staat geregistreerd.
+
 **[terug naar overzicht ⬆](#)**
 <hr>
 
@@ -229,24 +241,25 @@ Op deze sites kun je door gearchiveerde Telegram-groepen en -kanalen zoeken. Han
 #### <a id="youtube"></a>YouTube
 Ooit, lang geleden, was YouTube nog een site waar korte vlogs en kattenfilmpjes werden gepost. Nu kun je er urenlange podcasts, uitgebreide documentaires en de brainfarts van je geradicaliseerde buurjongen vinden.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="http://amnestyusa.org/sites/default/custom-scripts/citizenevidence" target="_blank">Amnesty YouTube Dataviewer</a> | <mark>Website</mark>
+<a href="http://amnestyusa.org/sites/default/custom-scripts/citizenevidence" target="_blank">![](images/amnestydataviewer.png)</a>
+Met de Amnesty YouTube Dataviewer kun je reversed Image Search uitvoeren op YouTube-video's om foto's, video's en audio te vinden. Het is niet 100% accuraat, maar kan verrassend veel resultaten opleveren.
 
+##### <a href="http://www.watchframebyframe.com/" target="_blank">Watch Frame By Frame</a> | <mark>Website</mark>
+<a href="http://www.watchframebyframe.com/" target="_blank">![](images/watchframebyframe.png)</a>
+Met Watch Frame By Frame kun je YouTube-video’s per frame bekijken. Erg handig als je een specifiek frame nodig hebt voor je onderzoek.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">YouTube Transcript / Subtitle API</a> | <mark>Scraper</mark>
+<a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">![](images/youtubetranscriptapi.png)</a>
+Met dit script kun je de transcripten (inclusief vertalingen) van YouTube-video’s scrapen.
 
+##### <a href="https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related" target="_blank">YouTube Word Searcher</a> | <mark>Plugin</mark>
+<a href="https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related" target="_blank">![](images/youtubewordsearcher.png)</a>
+Met deze Chrome plugin kun je zoeken naar specifieke woorden in een YouTube-video. Je kunt gelijk naar de tijdcode scrollen waarop dat woord wordt gezegd.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://github.com/ytdl-org/youtube-dl" target="_blank"><YouTube-dl/a> | <mark>Scraper</mark>
+<a href="https://github.com/ytdl-org/youtube-dl" target="_blank">![](images/youtubedl.png)</a>
+Met YouTube-dl kun je binnen no-time via de terminal YouTube-video’s downloaden.
 
 **[terug naar overzicht ⬆](#)**
 
