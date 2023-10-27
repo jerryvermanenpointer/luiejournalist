@@ -434,16 +434,16 @@ Het is een vrij heftige en specifieke manier van zoeken: vind je een aantal goed
 #### <a id="visualiseren"></a>Visualiseren
 Ten slotte wil je je data mooi presenteren. Dit zijn een aantal websites die ik aanraad om visualisaties mee te maken.
 
-##### <a href="" target="_blank">LocalFocus</a>
-<a href="" target="_blank">![](images/localfocus.png)</a>
+##### <a href="https://www.localfocus.nl/" target="_blank">LocalFocus</a>
+<a href="https://www.localfocus.nl/" target="_blank">![](images/localfocus.png)</a>
 Met LocalFocus kun je eenvoudige kaarten en grafieken maken. Ook enorm handig: de functionaliteit om gemeentenamen te corrigeren.
 
-##### <a href="" target="_blank">Datawrapper</a>
-<a href="" target="_blank">![](images/datawrapper.png)</a>
+##### <a href="https://www.datawrapper.de/" target="_blank">Datawrapper</a>
+<a href="https://www.datawrapper.de/" target="_blank">![](images/datawrapper.png)</a>
 Met Datawrapper kun je kaarten, grafieken en tabellen maken. In vergelijking met LocalFocus iets meer mogelijkheden, maar daardoor ook iets ingewikkelder voor leken.
 
-##### <a href="" target="_blank">Flourish</a>
-<a href="" target="_blank">![](images/flourish.png)</a>
+##### <a href="https://flourish.studio/" target="_blank">Flourish</a>
+<a href="https://flourish.studio/" target="_blank">![](images/flourish.png)</a>
 Met Flourish kun je kaarten, grafieken en zogeheten ‘data stories’ (meerdere grafieken achter elkaar met begeleidende tekst) maken. Tussen LocalFocus en Datawrapper de meest uitgebreide, maar ook meest ingewikkelde keuze voor visualisatie. 
 
 **[terug naar overzicht ⬆](#)**
