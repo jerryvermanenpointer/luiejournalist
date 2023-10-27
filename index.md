@@ -429,20 +429,18 @@ Verreweg de beste software om data mee te analyseren. Je kunt in R werken, maar 
 <a href="https://ihateregex.io/" target="_blank">![](images/ihateregex.png)</a>
 Soms zoek je hele specifieke gegevens (telefoonnummers, amiladressen, Bitcoin wallets, etc.) in grote lappen tekst. Dan zijn Regular Expressions (ook wel Regex genoemd) erg handig. Het is toepasbaar in meerdere programmeertalen, maar wel erg lastig te begrijpen. Daarom vind je <a href="https://github.com/niklongstone/regular-expression-cheat-sheet" target="_blank"> in deze cheatsheet</a> wat hulp. Op <a href="https://ihateregex.io/" target="_blank">I Hate Regex</a> kun je werkende Regex vinden die je kunt aanpassen voor jouw specifieke zoekopdracht. En op <a href="https://regex101.com/" target="_blank">Regex101</a> kun je je RegEx testen
 
-Het is een vrij heftige en specifieke manier van zoeken: vind je een aantal goede tips. Ik gebruik vooral onderstaande queries:
-
 #### <a id="visualiseren"></a>Visualiseren
 Ten slotte wil je je data mooi presenteren. Dit zijn een aantal websites die ik aanraad om visualisaties mee te maken.
 
-##### <a href="https://www.localfocus.nl/" target="_blank">LocalFocus</a>
+##### <a href="https://www.localfocus.nl/" target="_blank">LocalFocus</a> | <mark>Website</mark>
 <a href="https://www.localfocus.nl/" target="_blank">![](images/localfocus.png)</a>
 Met LocalFocus kun je eenvoudige kaarten en grafieken maken. Ook enorm handig: de functionaliteit om gemeentenamen te corrigeren.
 
-##### <a href="https://www.datawrapper.de/" target="_blank">Datawrapper</a>
+##### <a href="https://www.datawrapper.de/" target="_blank">Datawrapper</a> | <mark>Website</mark>
 <a href="https://www.datawrapper.de/" target="_blank">![](images/datawrapper.png)</a>
 Met Datawrapper kun je kaarten, grafieken en tabellen maken. In vergelijking met LocalFocus iets meer mogelijkheden, maar daardoor ook iets ingewikkelder voor leken.
 
-##### <a href="https://flourish.studio/" target="_blank">Flourish</a>
+##### <a href="https://flourish.studio/" target="_blank">Flourish</a> | <mark>Website</mark>
 <a href="https://flourish.studio/" target="_blank">![](images/flourish.png)</a>
 Met Flourish kun je kaarten, grafieken en zogeheten ‘data stories’ (meerdere grafieken achter elkaar met begeleidende tekst) maken. Tussen LocalFocus en Datawrapper de meest uitgebreide, maar ook meest ingewikkelde keuze voor visualisatie. 
 
@@ -550,11 +548,11 @@ Dit script zegt data te kunnen scrapen van de volgende websites:
 <a href="https://github.com/smicallef/spiderfoot" target="_blank">![](images/spiderfoot.png)</a>
 Spiderfoot is een opensource casemanager voor OSINT-onderzoeken. Je kunt meerdere scripts aanzetten om automatische searches uit te voeren.
 
-##### <a href="https://tinywow.com/" target="_blank">TinyWow</a>
+##### <a href="https://tinywow.com/" target="_blank">TinyWow</a> | <mark>Website</mark>
 <a href="https://tinywow.com/" target="_blank">![](images/tinywow.png)</a>
 Op TinyWow vind je meerdere kleine tools waarmee je bewerkingen kunt uitvoeren p documenten of bestanden. PDF’s samenvoegen, afbeeldingen converteren, video’s downloaden: je vindt het allemaal op deze site.
 
-##### <a href="https://woo-generator.nl/" target="_blank">Woo-generator</a>
+##### <a href="https://woo-generator.nl/" target="_blank">Woo-generator</a> | <mark>Website</mark>
 <a href="https://woo-generator.nl/" target="_blank">![](images/woogenerator.png)</a>
 Met de Woo-generator van de VVOJ (Vereniging van Onderzoeksjournalisten) kun je snel een blauwdruk (altijd even dubbelchecken) voor je Woo-verzoek genereren.
 
@@ -574,7 +572,8 @@ Op dit moment ontbreken nog een aantal nuttige tools, zoals:
 <ul class="fa-ul">
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Bluesky</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor LinkedIn</li>
-  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Telegram (webversie)</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Telegram</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Tiktok</li>
 </ul>
 
 Dus heb je nog een toevoeging of correctie? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.
