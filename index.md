@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **89** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **96** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -249,6 +249,10 @@ Met de Amnesty YouTube Dataviewer kun je reversed Image Search uitvoeren op YouT
 <a href="http://www.watchframebyframe.com/" target="_blank">![](images/watchframebyframe.png)</a>
 Met Watch Frame By Frame kun je YouTube-video’s per frame bekijken. Erg handig als je een specifiek frame nodig hebt voor je onderzoek.
 
+##### <a href="https://github.com/egbertbouman/youtube-comment-downloader" target="_blank">YouTube Comment Downloader</a> | <mark>Scraper</mark>
+<a href="https://github.com/egbertbouman/youtube-comment-downloader" target="_blank">![](images/youtubecommentdownloader.png)</a>
+Met deze scraper kun je de comments van een YouTube-video downloader, inclusief alle metadata daar omheen (datum, aantal duimpjes omhoog, profielnaam, link naar profielfoto, etc.).
+
 ##### <a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">YouTube Transcript / Subtitle API</a> | <mark>Scraper</mark>
 <a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">![](images/youtubetranscriptapi.png)</a>
 Met dit script kun je de transcripten (inclusief vertalingen) van YouTube-video’s scrapen.
@@ -381,50 +385,66 @@ Met PimEyes kun je zoeken op dezelfde persoon d.m.v. biometrische gelijkenissen.
 <hr>
 
 ### <a id="data"></a><i class="fa fa-table" aria-hidden="true"></i> Data
-Stukje introtekst
+Datajournalistiek: het allermooiste beroep ter wereld (is mijn geheel objectieve, neutrale en ongekleurde mening). Hier vind je een aantal tools die je kunt gebruiken om next level te gaan.
 
 #### <a id="verzamelen"></a>Verzamelen
-Stukje introtekst
+Geen datajournalistiek zonder data (duh), dus hieronder een aantal websites en plugins waarmee je moeilijk te verkrijgen gegevens alsnog kunt verzamelen.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://www.cometdocs.com/" target="_blank">Cometdocs</a> | <mark>Website</mark>
+<a href="https://www.cometdocs.com/" target="_blank">![](images/cometdocs.png)</a>
+Met Cometdocs kun je een eenvoudige tabel uit een PDF-document snel omzetten naar Excel of CSV.
 
+##### <a href="https://csvjson.com/" target="_blank">CSVJSON</a> | <mark>Website</mark>
+<a href="https://csvjson.com/" target="_blank">![](images/csvjson.png)</a>
+Met CSVJSON kun je CSV naar JSON omzetten, en vice versa. Ook kun je JSON beautifyen (leesbaar) maken. Je gegevens worden niet naar een andere server gestuurd.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah" target="_blank">Instant Data Scraper</a> | <mark>Scraper</mark>
+<a href="https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah" target="_blank">![](images/instantdatascraper.png)</a>
+Met deze browser plugin voor Chrome kun je eenvoudig data scrapen. De plugin kan zelf inschatten welke gegevens kunnen worden verzameld. Met de autoscoll-functie kun je vervolgens de scraper oneindig laten draaien. Erg handige noodoplossing voor sociale media waar andere scrapers niet (meer) werken, zoals X/Twitter en Bluesky.
 
+##### <a href="https://tabula.technology/" target="_blank">Tabula</a> | <mark>Software</mark>
+<a href="https://tabula.technology/" target="_blank">![](images/tabula.png)</a>
+Tabula is erg handig zodra je PDF’s met datatabellen erin krijgt. Je kunt visueel aangeven waar de tabel zit, en Tabula doet een goede poging om die gegevens netjes in een CSV te zetten.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://github.com/tesseract-ocr/tesseract" target="_blank">Tesseract</a> | <mark>Script</mark>
+<a href="https://github.com/tesseract-ocr/tesseract" target="_blank">![](images/tesseract.png)</a>
+Met Tesseract kun je tekst in afbeeldingen omzetten naar machine-leesbare tekst. Werkt ook voor PDF-bestanden. Met Tesseract zijn inmiddels meerdere toepassingen gemaakt, waaronder <a href="https://cran.r-project.org/web/packages/tesseract/vignettes/intro.html" target="_blank">een package in R</a>.
+
+##### <a href="https://github.com/digitalmethodsinitiative/zeeschuimer" target="_blank">Zeeschuimer + Zeeschuimer Decoder</a> | <mark>Scraper</mark>
+<a href="https://github.com/digitalmethodsinitiative/zeeschuimer" target="_blank">![](images/zeeschuimer.png)</a>
+Zeeschuimer is een Firefox browser plugin waarmee je tijdens het scrollen op sociale media (Tiktok, Instagram, Twitter, LinkedIn, etc.) data verzamelt. Met de <a href="https://github.com/jorisheijkant/zeeschuimer-decoder" target="_blank">Zeeschuimer Decoder</a> kun je die data omzetten naar een csv-bestand.
 
 #### <a id="bewerken"></a>Bewerken
-Stukje introtekst
+Met een spreadsheet kom je een heel eind, maar soms heb je nét dat kleine beetje extra nodig om je analyse uit te voeren.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://openrefine.org/" target="_blank">Open Refine</a> | <mark>Software</mark>
+<a href="https://openrefine.org/" target="_blank">![](images/openrefine.png)</a>
+Met Open Refine kun je je data opschonen. Een van de handigste functies in Open Refine is het clusteren van data op naam: bijvoorbeeld bedrijfsnamen die op verschillende manieren worden geschreven.
 
+##### <a href="https://posit.co/download/rstudio-desktop/" target="_blank">R + RStudio</a> | <mark>Software</mark>
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank">![](images/rstudio.png)</a>
+Verreweg de beste software om data mee te analyseren. Je kunt in R werken, maar de handigste interface is RStudio. Volg <a href="https://posit.co/download/rstudio-desktop/" target="_blank">het stappenplan op de website</a> om alles in de juiste volgorde te installeren. Codecademy biedt <a href="https://www.codecademy.com/catalog/language/r" target="_blank">een uitstekende beginnerscursus R</a> aan om de programmeertaal onder de knie te krijgen.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### Regular Expressions | <mark>Script</mark>
+<a href="https://ihateregex.io/" target="_blank">![](images/ihateregex.png)</a>
+Soms zoek je hele specifieke gegevens (telefoonnummers, amiladressen, Bitcoin wallets, etc.) in grote lappen tekst. Dan zijn Regular Expressions (ook wel Regex genoemd) erg handig. Het is toepasbaar in meerdere programmeertalen, maar wel erg lastig te begrijpen. Daarom vind je <a href="https://github.com/niklongstone/regular-expression-cheat-sheet" target="_blank"> in deze cheatsheet</a> wat hulp. Op <a href="https://ihateregex.io/" target="_blank">I Hate Regex</a> kun je werkende Regex vinden die je kunt aanpassen voor jouw specifieke zoekopdracht. En op <a href="https://regex101.com/" target="_blank">Regex101</a> kun je je RegEx testen
 
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+Het is een vrij heftige en specifieke manier van zoeken: vind je een aantal goede tips. Ik gebruik vooral onderstaande queries:
 
 #### <a id="visualiseren"></a>Visualiseren
-Stukje introtekst
+Ten slotte wil je je data mooi presenteren. Dit zijn een aantal websites die ik aanraad om visualisaties mee te maken.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="" target="_blank">LocalFocus</a>
+<a href="" target="_blank">![](images/localfocus.png)</a>
+Met LocalFocus kun je eenvoudige kaarten en grafieken maken. Ook enorm handig: de functionaliteit om gemeentenamen te corrigeren.
 
+##### <a href="" target="_blank">Datawrapper</a>
+<a href="" target="_blank">![](images/datawrapper.png)</a>
+Met Datawrapper kun je kaarten, grafieken en tabellen maken. In vergelijking met LocalFocus iets meer mogelijkheden, maar daardoor ook iets ingewikkelder voor leken.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
-
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
-
+##### <a href="" target="_blank">Flourish</a>
+<a href="" target="_blank">![](images/flourish.png)</a>
+Met Flourish kun je kaarten, grafieken en zogeheten ‘data stories’ (meerdere grafieken achter elkaar met begeleidende tekst) maken. Tussen LocalFocus en Datawrapper de meest uitgebreide, maar ook meest ingewikkelde keuze voor visualisatie. 
 
 **[terug naar overzicht ⬆](#)**
 <hr>
