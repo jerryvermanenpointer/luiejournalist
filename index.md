@@ -261,7 +261,7 @@ Met dit script kun je de transcripten (inclusief vertalingen) van YouTube-video�
 <a href="https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related" target="_blank">![](images/youtubewordsearcher.png)</a>
 Met deze Chrome plugin kun je zoeken naar specifieke woorden in een YouTube-video. Je kunt gelijk naar de tijdcode scrollen waarop dat woord wordt gezegd.
 
-##### <a href="https://github.com/ytdl-org/youtube-dl" target="_blank"><YouTube-dl/a> | <mark>Scraper</mark>
+##### <a href="https://github.com/ytdl-org/youtube-dl" target="_blank">YouTube-dl</a> | <mark>Scraper</mark>
 <a href="https://github.com/ytdl-org/youtube-dl" target="_blank">![](images/youtubedl.png)</a>
 Met YouTube-dl kun je binnen no-time via de terminal YouTube-video’s downloaden.
 
@@ -270,8 +270,13 @@ Met YouTube-dl kun je binnen no-time via de terminal YouTube-video’s downloade
 #### <a id="tiktok"></a>TikTok
 Een oneindige feed vol korte video’s: TikTok is extreem verslavend en enorm interessant om te onderzoeken. Er zijn helaas nog niet veel tools die (blijven) werken voor dit platform.
 
-##### <a href="" target="_blank"></a>
-<a href="" target="_blank">![](images/)</a>
+##### <a href="https://ads.tiktok.com/business/creativecenter" target="_blank">TikTok Creative Center</a> | <mark>Website</mark>
+<a href="https://ads.tiktok.com/business/creativecenter" target="_blank">![](images/tiktokcreativecenter.png)</a>
+Eigenlijk is het TikTok Creative Center voor adverteerders bedoeld om te zien wat trending is. Maar journalisten kunnen hier ook gebruik van maken om te zien welke onderwerpen er op het platform spelen.
+
+##### <a href="https://tiktokdownloader.com/" target="_blank">TikTok Downloader</a> | <mark>Website</mark>
+<a href="https://tiktokdownloader.com/" target="_blank">![](images/tiktokdownloader.png)</a>
+Met de TikTok Downloader kun je snel en zonder watermerk TikTok-video’s downloaden. Ze hebben zelfs <a href="https://chromewebstore.google.com/detail/tiktok-downloader/ghhcamahihkbgfioeimocdmmiiejjnfe" target="_blank">een handige Chrome plugin</a> als je nog eenvoudiger video’s wil binnenhalen.
 
 **[terug naar overzicht ⬆](#)**
 
@@ -354,6 +359,10 @@ Hoeveel lijken twee gezichten op elkaar? Handig als je een persoon zoekt en twee
 ##### <a href="https://facecheck.id/" target="_blank">Facecheck.id</a> | <mark>Website</mark>
 <a href="https://facecheck.id/" target="_blank">![](images/facecheckid.png)</a>
 Facecheck.id zoekt met gezichtherkenning waar een persoon nog meer voorkomt.
+
+##### <a href="https://toolbox.google.com/factcheck/explorer" target="_blank">Google Factcheck Explorer</a> | <mark>Website</mark>
+<a href="https://toolbox.google.com/factcheck/explorer" target="_blank">![](images/factcheckexplorer.png)</a>
+Dagelijks zijn duizenden factcheckers bezig om afbeeldingen en artikelen te controleren. Dus zodra je iets moet verifiëren, dan kun je het beste eerst even in de Google Factcheck Explorer rondzoeken. Grote kans dat iemand je al is voorgeweest. <a href="https://blog.google/products/search/google-search-new-fact-checking-features/" target="_blank">Op deze pagina van Google</a> vind je overigens nog meer manieren waarop je kunt checken of een foto is gemanipuleerd.
 
 ##### <a href="https://mever.iti.gr/forensics/" target="_blank">Image Verification Assistant</a> | <mark>Website</mark>
 <a href="https://mever.iti.gr/forensics/" target="_blank">![](images/imageverificationassistant.png)</a>
@@ -464,6 +473,10 @@ ChatGPT is eigenlijk een chatbot die antwoorden genereert op basis van externe i
 <a href="https://cleanup.pictures/" target="_blank">![](images/cleanuppictures.png)</a>
 Met Cleanup Pictures kun je foto’s opschonen en objecten eenvoudig verwijderen. Kan handig zijn vlak voordat je een Reversed Image Search doet.
 
+##### <a href="https://www.deepl.com/translator" target="_blank">DeepL</a> | <mark>Website</mark>
+<a href="https://www.deepl.com/translator" target="_blank">![](images/deepl.png)</a>
+DeepL is de beste manier om snel en eenvoudig tekst te vertalen. Twijfel je over de kwaliteit van je vertaling? Dan kun je naast <a href="https://www.deepl.com/translator" target="_blank">DeepL Translator</a> de <a href="https://www.deepl.com/write" target="_blank">DeepL Write</a> gebruiken. Hiermee kun je teksten grammaticaal corrigeren en zelfs naar een andere schrijfstijl omzetten.
+
 ##### <a href="https://huggingface.co/" target="_blank">Hugging Face</a> | <mark>Website</mark>
 <a href="https://huggingface.co/" target="_blank">![](images/huggingface.png)</a>
 Hugging Face is dé plek waar je AI-modellen kunt vinden. In sommige gevallen wordt de trainingsdata meegeleverd.
@@ -562,7 +575,7 @@ Met de Woo-generator van de VVOJ (Vereniging van Onderzoeksjournalisten) kun je 
 <a id="einde"></a>
 Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Of misschien ontbreekt er wel een tool? 
 
-Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw suggestie voor een nuttige tool. Belangrijk daarbij is:
+Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw suggestie. Belangrijk daarbij is:
 * dat deze tool (of een variant daarop) nog niet op deze site staat;
 * dat je die tool recent nog hebt gebruikt;
 * dat je daar tijd, moeite of geld mee bespaart;
