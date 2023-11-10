@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **96** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **99** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -151,43 +151,43 @@ Op Whoxy kun je zoeken op welke naam een website staat geregistreerd. Ook kun je
 <hr>
 
 ### <a id="social"></a><i class="fa fa-share" aria-hidden="true"></i> Sociale Media
-Grote kans dat elk online onderzoek op een gegeven moment uitkomt bij een sociaal medium. Hieronder vind je de grootste, meest bekende of opkomende platforms.
+Grote kans dat elk online onderzoek op een gegeven moment uitkomt bij een sociaal medium. Hieronder vind je de grootste, bekendste of opkomende platforms.
 
 #### <a id="fb"></a>Facebook
 Facebook doet al jarenlang zijn best om allerlei ontwikkelde tools voor onderzoekers en journalisten onbruikbaar te maken. Ondanks dat zijn er genoeg mogelijkheden om de stroom aan mis- en desinformatie op deze site te onderzoeken.
 
-##### <a href="" target="_blank">CrowdTangle</a> | <mark>Website</mark>
-<a href="" target="_blank">![](images/crowdtangle.png)</a>
+##### <a href="https://www.crowdtangle.com/" target="_blank">CrowdTangle</a> | <mark>Website</mark>
+<a href="https://www.crowdtangle.com/" target="_blank">![](images/crowdtangle.png)</a>
 Met CrowdTangle (een dienst die door Facebook zelf wordt beheerd) kun je meerdere openbare Facebook-berichten analyseren. Wat is trending? En zit daar mogelijk misinformatie tussen?
 
-##### <a href="" target="_blank">Facebook Friend List Scraper</a> | <mark>Scraper</mark>
-<a href="" target="_blank">![](images/fbfriendlistscraper.png)</a>
+##### <a href="https://github.com/n0kovo/fb_friend_list_scraper" target="_blank">Facebook Friend List Scraper</a> | <mark>Scraper</mark>
+<a href="https://github.com/n0kovo/fb_friend_list_scraper" target="_blank">![](images/fbfriendlistscraper.png)</a>
 Met de FB Friend List Scraper kun je de vrienden van openbare Facebookprofielen scrapen.
 
-##### <a href="" target="_blank">FDown</a> | <mark>Website</mark>
-<a href="" target="_blank">![](images/fdown.png)</a>
+##### <a href="https://fdown.net/" target="_blank">FDown</a> | <mark>Website</mark>
+<a href="https://fdown.net/" target="_blank">![](images/fdown.png)</a>
 Met FDown kun je snel openbare Facebook-video’s downloaden.
 
-##### <a href="" target="_blank">Lookup ID</a> | <mark>Website</mark>
-<a href="" target="_blank">![](images/lookupid.png)</a>
+##### <a href="https://lookup-id.com/" target="_blank">Lookup ID</a> | <mark>Website</mark>
+<a href="https://lookup-id.com/" target="_blank">![](images/lookupid.png)</a>
 Met Lookup.id kun je de ID-code van een Facebook-profiel vinden. Voor sommige andere zoekdiensten kan die ID-code handig zijn.
 
-##### <a href="" target="_blank">SowSearch</a> | <mark>Website</mark>
-<a href="" target="_blank">![](images/sowsearch.png)</a>
+##### <a href="https://www.sowsearch.info/" target="_blank">SowSearch</a> | <mark>Website</mark>
+<a href="https://www.sowsearch.info/" target="_blank">![](images/sowsearch.png)</a>
 Met SowSearch kun je grotendeels zoeken zoals je dat eerder kon met Graph Search. Vooral handig als je complexe zoekopdrachten wil formuleren.
 
-##### <a href="" target="_blank">Who Posted What</a> | <mark>Website</mark>
-<a href="" target="_blank">![](images/whopostedwhat.png)</a>
+##### <a href="https://whopostedwhat.com/" target="_blank">Who Posted What</a> | <mark>Website</mark>
+<a href="https://whopostedwhat.com/" target="_blank">![](images/whopostedwhat.png)</a>
 Met WhoPostedWhat kun je uitgebreid zoeken in openbare posts op Facebook. Hiervoor heb je vaak een ID-code nodig (zie hierboven bij Lookup ID).
 
 **[terug naar overzicht ⬆](#)**
 
 #### <a id="insta"></a>Instagram
-Zelfs mensen met een bloedhekel aan Facebook zitten vaak met veel plezier op Instagram. Alles is hier leuk, gezellig en vriendelijk. Zelfs met alle spambots, scammers en dubieuze reclamecampagnes die je hier kunt aantreffen.
+Zelfs mensen met een bloedhekel aan Facebook zitten met veel plezier op Instagram. Alles op deze site is leuk, gezellig en vriendelijk. Zelfs met alle spambots, scammers en dubieuze reclamecampagnes die je hier kunt aantreffen.
 
 ##### <a href="https://imginn.io/" target="_blank">IMGinn</a> | <mark>Website</mark>
 <a href="https://imginn.io/" target="_blank">![](images/imginn.png)</a>
-Op IMGinn kun je de profielnaam van een openbaar profiel opgeven, en direct de afbeeldingen en video’s downloaden.
+Op IMGinn kun je de profielnaam van een openbaar profiel opgeven en direct de afbeeldingen en video’s downloaden.
 
 ##### <a href="https://github.com/sc1341/InstagramOSINT" target="_blank">InstagramOSINT</a> | <mark>Scraper</mark>
 <a href="https://github.com/sc1341/InstagramOSINT" target="_blank">![](images/instagramosint.png)</a>
@@ -212,11 +212,11 @@ Ook wel het 'Whatsapp van Oost-Europa' genoemd. De afgelopen jaren duiken steeds
 
 ##### <a href="https://github.com/bellingcat/telegram-phone-number-checker" target="_blank">Bellingcat Phonenumber Check</a> | <mark>Script</mark>
 <a href="https://github.com/bellingcat/telegram-phone-number-checker" target="_blank">![](images/bellingcatphonenumberchecker.png)</a>
-Met dit script (geschreven door Bellingcat) kun je checken of een telefoonnummer is gekoppeld aan een Telegram-account.
+Met dit script (geschreven door <a href="https://www.bellingcat.com/" target="_blank">Bellingcat</a>) kun je checken of een telefoonnummer is gekoppeld aan een Telegram-account.
 
 ##### <a href="https://github.com/danog/MadelineProto/" target="_blank">MadelineProto</a> | <mark>Scraper</mark>
 <a href="https://github.com/danog/MadelineProto/" target="_blank">![](images/madelineproto.png)</a>
-Script om de Telegram-API mee aan te spreken. Handig om scrapers mee te maken, maar je moet dus nog wel zelf flink wat programmeren.
+Script om de Telegram-API mee aan te spreken. Handig om scrapers mee te maken, maar je moet nog wel zelf flink wat programmeren.
 
 ##### <a href="https://github.com/pigpagnet/save-telegram-chat-history" target="_blank">Save Telegram Chat History</a> | <mark>Plugin</mark>
 <a href="https://github.com/pigpagnet/save-telegram-chat-history" target="_blank">![](images/telegramchathistory.png)</a>
@@ -243,7 +243,7 @@ Ooit, lang geleden, was YouTube nog een site waar korte vlogs en kattenfilmpjes 
 
 ##### <a href="http://amnestyusa.org/sites/default/custom-scripts/citizenevidence" target="_blank">Amnesty YouTube Dataviewer</a> | <mark>Website</mark>
 <a href="http://amnestyusa.org/sites/default/custom-scripts/citizenevidence" target="_blank">![](images/amnestydataviewer.png)</a>
-Met de Amnesty YouTube Dataviewer kun je reversed Image Search uitvoeren op YouTube-video's om foto's, video's en audio te vinden. Het is niet 100% accuraat, maar kan verrassend veel resultaten opleveren.
+Met de Amnesty YouTube Dataviewer kun je reversed Image Search uitvoeren op YouTube-video's om foto's, video's en audio te vinden. Het is niet 100% accuraat, maar kan verrassende resultaten opleveren.
 
 ##### <a href="http://www.watchframebyframe.com/" target="_blank">Watch Frame By Frame</a> | <mark>Website</mark>
 <a href="http://www.watchframebyframe.com/" target="_blank">![](images/watchframebyframe.png)</a>
@@ -259,7 +259,7 @@ Met dit script kun je de transcripten (inclusief vertalingen) van YouTube-video�
 
 ##### <a href="https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related" target="_blank">YouTube Word Searcher</a> | <mark>Plugin</mark>
 <a href="https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related" target="_blank">![](images/youtubewordsearcher.png)</a>
-Met deze Chrome plugin kun je zoeken naar specifieke woorden in een YouTube-video. Je kunt gelijk naar de tijdcode scrollen waarop dat woord wordt gezegd.
+Met deze Chrome plugin kun je zoeken naar specifieke woorden in een YouTube-video. Je kunt gelijk naar de tijdcode scrollen waarop dat woord wordt gezegd. Werkt alleen zodra er een ondertitelbestand is toegevoegd aan de video.
 
 ##### <a href="https://github.com/ytdl-org/youtube-dl" target="_blank">YouTube-dl</a> | <mark>Scraper</mark>
 <a href="https://github.com/ytdl-org/youtube-dl" target="_blank">![](images/youtubedl.png)</a>
@@ -346,11 +346,11 @@ Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinf
 <hr>
 
 ### <a id="verificatie"></a><i class="fa fa-check" aria-hidden="true"></i> Verificatie
-Spoiler: niet alles wat je online vindt, is waar. Alle foto’s, video’s en andere informatie moet je dubbelchecken en verifiëren. Bestaat deze persoon wel echt? En is deze video wel op deze locatie gemaakt? Onderstaande tools kunnen je daarbij helpen.
+Spoiler: niet alles wat je online vindt, is waar. Wil je weten of een video wel authentiek is of een persoon wel echt bestaat? Onderstaande tools kunnen je daarbij helpen.
 
 ##### <a href="https://seintpl.github.io/AmIReal/" target="_blank">Am I Real</a> | <mark>Website</mark>
 <a href="https://seintpl.github.io/AmIReal/" target="_blank">![](images/amireal.png)</a>
-Met dit script kun je foto’s analyseren of ze door ThisPersonDoesNotExist.com.zijn gegenereerd.
+Door de website <a href="https://thispersondoesnotexist.com/" target="_blank">ThisPersonDoesNotExist</a> zwermen er talloze nepfoto's van personen over het internet. Met deze site kun je checken of ze van die site afkomstig zijn.
 
 ##### <a href="https://aws.amazon.com/getting-started/hands-on/detect-analyze-compare-faces-rekognition/" target="_blank">Amazon Rekognition</a> | <mark>Website</mark>
 <a href="https://aws.amazon.com/getting-started/hands-on/detect-analyze-compare-faces-rekognition/" target="_blank">![](images/amazonrekognition.png)</a>
@@ -583,10 +583,11 @@ Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw sug
 
 Op dit moment ontbreken nog een aantal nuttige tools, zoals:
 <ul class="fa-ul">
-  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Bluesky</li>
-  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor LinkedIn</li>
-  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Telegram</li>
-  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper voor Tiktok</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper en zoektools voor Bluesky</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper en zoektools voor Mastodon</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper en zoektools voor LinkedIn</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een goede scraper voor Telegram</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een profielscraper voor Tiktok</li>
 </ul>
 
 Dus heb je nog een toevoeging of correctie? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.
