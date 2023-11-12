@@ -17,7 +17,7 @@ layout: default
 *Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Check onderaan deze pagina hoe je met mij in contact kunt komen ⬇](#einde)*
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
-Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals Google, Bing en Yandex. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
+Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals <a href="https://www.google.com/" target="_blank">Google</a>, <a href="https://www.bing.com/" target="_blank">Bing</a>, <a href="https://yandex.com/" target="_blank">Yandex</a> en <a href="https://duckduckgo.com/" target="_blank">DuckDuckGo</a>. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
 
 ##### <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">E-justice Business Register</a> | <mark>Website</mark>
 <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">![](/images/ejustice.png)</a>
@@ -380,7 +380,7 @@ Op Metadata2Go kun je snel de metadata van je afbeeldingen analyseren.
 <a href="https://overpass-turbo.eu/" target="_blank">![](images/overpassturbo.png)</a>
 Met Overpass Turbo kun je een zoekopdracht maken om specifieke landmarks op kaarten te ontdekken. Voorbeeld: vind alle onbewaakte spoorwegovergangen in een straal van 500 meter van een windmolen. Erg handig als je OSINT doet: zodra je specifieke aanwijzingen op een afbeelding ziet staan, dan kun je het aantal locaties snel beperken. Overpass Turbo vraagt wel om een zoekopdracht in een hele specifieke taal, maar ChatGPT kan je daar goed mee helpen. Je kunt al je gevonden landmarks exporteren om verder te analyseren in andere software.
 
-Met Overpass Turbo kun je snel een query maken van specifieke landmarks op kaarten. Handig als je OSINT moet doen en specifieke dingen ziet waar je op kunt zoeken. Werkt erg handig als je je query in ChatGPT formuleert. Vervolgens kun je op de kaart zoeken of de locatie overeenkomt met wat je op de foto ziet. Een andere mogelijkheid is het exporteren van de objecten die je via de query hebt gevonden. Kan handig zijn als je in QGIS of R een analyse wil doen.
+Met Overpass Turbo kun je snel een query maken van specifieke landmarks op kaarten. Handig als je OSINT moet doen en specifieke dingen ziet waar je op kunt zoeken. Werkt erg handig als je je query in <a href="https://chat.openai.com/" target="_blank">ChatGPT</a> formuleert. Vervolgens kun je op de kaart zoeken of de locatie overeenkomt met wat je op de foto ziet. Een andere mogelijkheid is het exporteren van de objecten die je via de query hebt gevonden. Kan handig zijn als je in QGIS of R een analyse wil doen.
 
 ##### <a href="https://www.peakfinder.com/" target="_blank">Peakfinder</a> | <mark>Website</mark>
 <a href="https://www.peakfinder.com/" target="_blank">![](images/peakfinder.png)</a>
@@ -436,7 +436,7 @@ Verreweg de beste software om data mee te analyseren. Je kunt in R werken, maar 
 
 ##### Regular Expressions | <mark>Script</mark>
 <a href="https://ihateregex.io/" target="_blank">![](images/ihateregex.png)</a>
-Soms zoek je hele specifieke gegevens (telefoonnummers, amiladressen, Bitcoin wallets, etc.) in grote lappen tekst. Dan zijn Regular Expressions (ook wel Regex genoemd) erg handig. Het is toepasbaar in meerdere programmeertalen, maar wel erg lastig te begrijpen. Daarom vind je <a href="https://github.com/niklongstone/regular-expression-cheat-sheet" target="_blank"> in deze cheatsheet</a> wat hulp. Op <a href="https://ihateregex.io/" target="_blank">I Hate Regex</a> kun je werkende Regex vinden die je kunt aanpassen voor jouw specifieke zoekopdracht. En op <a href="https://regex101.com/" target="_blank">Regex101</a> kun je je RegEx testen
+Soms zoek je hele specifieke gegevens (telefoonnummers, mailadressen, Bitcoin wallets, etc.) in grote lappen tekst. Dan zijn Regular Expressions (ook wel Regex genoemd) erg handig. Het is toepasbaar in meerdere programmeertalen, maar wel erg lastig te begrijpen. Daarom vind je <a href="https://github.com/niklongstone/regular-expression-cheat-sheet" target="_blank"> in deze cheatsheet</a> wat hulp. Op <a href="https://ihateregex.io/" target="_blank">I Hate Regex</a> kun je werkende Regex vinden die je kunt aanpassen voor jouw specifieke zoekopdracht. En op <a href="https://regex101.com/" target="_blank">Regex101</a> kun je je RegEx testen
 
 #### <a id="visualiseren"></a>Visualiseren
 Ten slotte wil je je data mooi presenteren. Dit zijn een aantal websites die ik aanraad om visualisaties mee te maken.
@@ -471,11 +471,11 @@ ChatGPT is eigenlijk een chatbot die antwoorden genereert op basis van externe i
 
 ##### <a href="https://cleanup.pictures/" target="_blank">Cleanup Pictures</a> | <mark>Website</mark>
 <a href="https://cleanup.pictures/" target="_blank">![](images/cleanuppictures.png)</a>
-Met Cleanup Pictures kun je foto’s opschonen en objecten eenvoudig verwijderen. Kan handig zijn vlak voordat je een Reversed Image Search doet.
+Met Cleanup Pictures kun je foto’s opschonen en objecten verwijderen. Kan handig zijn vlak voordat je een Reversed Image Search doet.
 
 ##### <a href="https://www.deepl.com/translator" target="_blank">DeepL</a> | <mark>Website</mark>
 <a href="https://www.deepl.com/translator" target="_blank">![](images/deepl.png)</a>
-DeepL is de beste manier om snel en eenvoudig tekst te vertalen. Twijfel je over de kwaliteit van je vertaling? Dan kun je naast <a href="https://www.deepl.com/translator" target="_blank">DeepL Translator</a> de <a href="https://www.deepl.com/write" target="_blank">DeepL Write</a> gebruiken. Hiermee kun je teksten grammaticaal corrigeren en zelfs naar een andere schrijfstijl omzetten.
+DeepL is de beste manier om tekst te vertalen. Twijfel je over de kwaliteit van je vertaling? Dan kun je naast <a href="https://www.deepl.com/translator" target="_blank">DeepL Translator</a> de <a href="https://www.deepl.com/write" target="_blank">DeepL Write</a> gebruiken. Hiermee kun je teksten grammaticaal corrigeren en zelfs naar een andere schrijfstijl omzetten.
 
 ##### <a href="https://huggingface.co/" target="_blank">Hugging Face</a> | <mark>Website</mark>
 <a href="https://huggingface.co/" target="_blank">![](images/huggingface.png)</a>
@@ -483,7 +483,7 @@ Hugging Face is dé plek waar je AI-modellen kunt vinden. In sommige gevallen wo
 
 ##### <a href="https://github.com/lobe" target="_blank">Lobe.ai</a> | <mark>Script</mark>
 <a href="https://github.com/lobe" target="_blank">![](images/lobeai.png)</a>
-Met Lobe.ai kun je kunstmatige intelligentie trainen om beeldmateriaal te herkennen en te categoriseren. Had eerst een desktop-app, maar is nu alleen nog beschikbaar als script.
+Met Lobe.ai kun je kunstmatige intelligentie trainen om beeldmateriaal te herkennen en te categoriseren. Had eerst een desktop-app, maar is nu alleen nog beschikbaar als script. Voor Pointer heb ik Lobe.ai ooit gebruikt bij een <a href="https://pointer.kro-ncrv.nl/honderden-vrouwelijke-tinder-profielen-proberen-nederlanders-naar-nepdatingsites-te-lokken" target="_blank">onderzoek naar nepprofielen op Tinder</a> (<a href="https://pointer.kro-ncrv.nl/hoe-we-een-computer-hebben-leren-tinderen-om-nepprofielen-te-herkennen" target="_blank">hier lees je hoe ik dat heb gedaan</a>).
 
 ##### <a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">MacWhisper</a> | <mark>Software</mark>
 <a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">![](images/whisper.png)</a>
@@ -491,7 +491,7 @@ Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audi
 
 ##### <a href="https://www.midjourney.com" target="_blank">Midjourney</a> | <mark>Website</mark>
 <a href="https://www.midjourney.com" target="_blank">![](images/midjourney.png)</a>
-Simpelweg de beste methode om AI-gegenereerde afbeeldingen mee te maken. Via <a href="https://discord.com/invite/midjourney" target="_blank">de Discord-server van Midjourney</a> kun je (betaald en gratis) afbeeldingen maken via tekstprompts.
+Simpelweg de beste methode om AI-gegenereerde afbeeldingen mee te maken. Via <a href="https://discord.com/invite/midjourney" target="_blank">de Discord-server van Midjourney</a> kun je (betaald en gratis) afbeeldingen maken via tekstprompts. Alternatieven voor Midjourney zijn <a href="https://ideogram.ai" target=_blank">Ideogram</a> en <a href="https://firefly.adobe.com/inspire/images" target="_blank">Adobe Firefly</a>.
 
 ##### <a href="https://remini.ai/" target="_blank">Remini</a> | <mark>Website</mark>
 <a href="https://remini.ai/" target="_blank">![](images/remini.png)</a>
