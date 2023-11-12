@@ -1,4 +1,4 @@
-Dit is een website die ik met <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> heb gemaakt. De vormgeving is van het thema <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a>Good Clean Read</a> (<a href="https://adueck.github.io/good-clean-read" target="_blank">demo en documentatie</a>).
+Dit is een website die ik met <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> heb gemaakt. De vormgeving is van het thema <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a> (<a href="https://adueck.github.io/good-clean-read" target="_blank">demo en documentatie</a>).
 
 ### Contact
 
