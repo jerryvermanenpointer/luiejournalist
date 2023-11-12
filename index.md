@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **99** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **100** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -220,11 +220,12 @@ Script om de Telegram-API mee aan te spreken. Handig om scrapers mee te maken, m
 
 ##### <a href="https://github.com/pigpagnet/save-telegram-chat-history" target="_blank">Save Telegram Chat History</a> | <mark>Plugin</mark>
 <a href="https://github.com/pigpagnet/save-telegram-chat-history" target="_blank">![](images/telegramchathistory.png)</a>
-Met deze Chrome-plugin kun je de volledige geschiedenis van een kanaal of groep downloaden. Je moet echter wel de oude interface van Telegram gebruiken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
+Met deze Chrome-plugin kun je de volledige geschiedenis van een kanaal of groep downloaden. Je moet echter wel de oude interface van Telegram gebruiken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org. Het is niet ideaal (duurt lang, en veel moderne mediaberichten worden niet binnengehaald), maar voor tekstanalyse is het uitstekend.
 
-##### <a href="https://gist.github.com/fabledowl/8c8db5858e096866c42dfa114034f0f2/raw/getUsers.user.js" target="_blank">Tampermonkey + Download Users</a> | <mark>Plugin</mark>
+##### <a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey + Download Users</a> | <mark>Plugin</mark>
 <a href="https://gist.github.com/fabledowl/8c8db5858e096866c42dfa114034f0f2/raw/getUsers.user.js" target="_blank">![](images/tampermonkey.png)</a>
-Met dit <a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey-script</a> kun je de leden van de meeste Telegram-groepen en -kanalen downloaden. Ook zie je wie de oprichter van een groep is. Hiervoor moet je wel in de oude versie van Telegram werken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
+<a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey</a> is een browser-plugin waarin je zelf code kunt toevoegen nieuwe functionaliteit in je browser mogelijk te maken. <a href="https://gist.github.com/fabledowl/8c8db5858e096866c42dfa114034f0f2/raw/getUsers.user.js
+" target="_blank">En met dit script</a> krijg je voor de webversie van Telegram een downloadknop om de leden van Telegram-groepen en -kanalen te downloaden. Hiervoor moet je wel in de oude versie van Telegram werken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
 
 ##### Telegram zoekmachines | <mark>Website</mark>
 <a href="" target="_blank">![](images/tgstat.png)</a>
@@ -330,6 +331,8 @@ Zoek in 100 duizenden gelekte extremistische Discord-gesprekken.
 
 **[terug naar overzicht ⬆](#)**
 
+Voor de onderstaande sociale media zijn tools onbruikbaar geworden of nog niet ontwikkeld. Heb je toch data nodig van deze websites? Mogelijk vind je nog iets nuttigs in de sectie <a href="https://luiejournalist.nl/#verzamelen" target="_blank">Data Verzamelen</a>.
+
 #### <a id="twitter"></a>X (voorheen Twitter)
 Sinds  Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch houd ik deze sectie op de site. Waarschijnlijk tegen beter weten in.
 
@@ -423,6 +426,8 @@ Met Tesseract kun je tekst in afbeeldingen omzetten naar machine-leesbare tekst.
 <a href="https://github.com/digitalmethodsinitiative/zeeschuimer" target="_blank">![](images/zeeschuimer.png)</a>
 Zeeschuimer is een Firefox browser plugin waarmee je tijdens het scrollen op sociale media (Tiktok, Instagram, Twitter, LinkedIn, etc.) data verzamelt. Met de <a href="https://github.com/jorisheijkant/zeeschuimer-decoder" target="_blank">Zeeschuimer Decoder</a> kun je die data omzetten naar een csv-bestand.
 
+**[terug naar overzicht ⬆](#)**
+
 #### <a id="bewerken"></a>Bewerken
 Met een spreadsheet kom je een heel eind, maar soms heb je nét dat kleine beetje extra nodig om je analyse uit te voeren.
 
@@ -437,6 +442,8 @@ Verreweg de beste software om data mee te analyseren. Je kunt in R werken, maar 
 ##### Regular Expressions | <mark>Script</mark>
 <a href="https://ihateregex.io/" target="_blank">![](images/ihateregex.png)</a>
 Soms zoek je hele specifieke gegevens (telefoonnummers, mailadressen, Bitcoin wallets, etc.) in grote lappen tekst. Dan zijn Regular Expressions (ook wel Regex genoemd) erg handig. Het is toepasbaar in meerdere programmeertalen, maar wel erg lastig te begrijpen. Daarom vind je <a href="https://github.com/niklongstone/regular-expression-cheat-sheet" target="_blank"> in deze cheatsheet</a> wat hulp. Op <a href="https://ihateregex.io/" target="_blank">I Hate Regex</a> kun je werkende Regex vinden die je kunt aanpassen voor jouw specifieke zoekopdracht. En op <a href="https://regex101.com/" target="_blank">Regex101</a> kun je je RegEx testen
+
+**[terug naar overzicht ⬆](#)**
 
 #### <a id="visualiseren"></a>Visualiseren
 Ten slotte wil je je data mooi presenteren. Dit zijn een aantal websites die ik aanraad om visualisaties mee te maken.
@@ -487,7 +494,7 @@ Met Lobe.ai kun je kunstmatige intelligentie trainen om beeldmateriaal te herken
 
 ##### <a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">MacWhisper</a> | <mark>Software</mark>
 <a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">![](images/whisper.png)</a>
-Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audiobestanden, inclusief tijdcodes. Alle data blijft op je lokale machine staan. Helaas (nog) geen automatische sprekersherkenning.
+Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audiobestanden, inclusief tijdcodes. Alle data blijft op je lokale machine staan. Helaas (nog) geen automatische sprekersherkenning. Ik raad aan om de Pro-versie voor 29 euro te nemen: de taalmodellen die hierin worden gebruikt zijn nagenoeg foutloos. Op de site staat ook vermeld dat journalisten 50 procent korting kunnen krijgen als ze de ontwikkelaar een mailtje sturen.
 
 ##### <a href="https://www.midjourney.com" target="_blank">Midjourney</a> | <mark>Website</mark>
 <a href="https://www.midjourney.com" target="_blank">![](images/midjourney.png)</a>
@@ -545,6 +552,10 @@ Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hierond
 <a href="https://www.notion.so" target="_blank">![](images/notion.png)</a>
 Notion is mijn persoonlijke voorkeur voor een app om notities mee te maken. Het grote voordeel van Notion is dat je databases kunt maken in je notities.
 
+##### <a href="https://www.araelium.com/screenflick-mac-screen-recorder" target="_blank">Screenflick</a> | <mark>Software</mark>
+<a href="https://www.araelium.com/screenflick-mac-screen-recorder" target="_blank">![](images/screenflick.png)</a>
+Met Screenflick kun je schermopnamen maken op je Macbook, inclusief het geluid dat via je laptop wordt afgespeeld (geloof me, dit kan erg frustrerend zijn). Ook kun je na je opname de beelden nog bewerken en in verschillende formats exporteren. Screenflick kost eenmalig 35 dollar.
+
 ##### <a href="https://github.com/JustAnotherArchivist/snscrape" target="_blank">snscrape</a> | <mark>Scraper</mark>
 <a href="https://github.com/JustAnotherArchivist/snscrape" target="_blank">![](images/snscrape.png)</a>
 Dit script zegt data te kunnen scrapen van de volgende websites:
@@ -556,6 +567,8 @@ Dit script zegt data te kunnen scrapen van de volgende websites:
 * ~~Twitter: users, user profiles, hashtags, searches (live tweets, top tweets, and users), tweets (single or surrounding thread), list posts, communities, and trends~~
 * VKontakte: user profiles
 * Weibo (Sina Weibo): user profiles
+
+Omdat dit een tool is die meerdere sociale media zegt te kunnen scrapen, kan het ook eerder stukgaan.
 
 ##### <a href="https://github.com/smicallef/spiderfoot" target="_blank">Spiderfoot</a> | <mark>Script</mark>
 <a href="https://github.com/smicallef/spiderfoot" target="_blank">![](images/spiderfoot.png)</a>
