@@ -1,7 +1,7 @@
 # Change Log
 
-## 1.0 (2023-??-??)
+## 1.0 (2023-11-12)
 
 ### Toegevoegd
 
-- Luiejournalist.nl gepubliceerd
+- luiejournalist.nl staat online
