@@ -2,8 +2,8 @@
 title: Luie Journalist
 tag_text: Luie Journalist
 description: De beste tools voor luie journalisten
-url: "https://jerryvermanenpointer.github.io" # base URL for your site ie. "https://www.example.com"
-baseurl: "/luiejournalist" # subpath for base of site, leave blank if hosting at root
+url: "https://www.luiejournalist.nl" # base URL for your site ie. "https://www.example.com"
+baseurl: "" # subpath for base of site, leave blank if hosting at root
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
