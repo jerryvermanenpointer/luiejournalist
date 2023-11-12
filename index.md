@@ -414,6 +414,20 @@ Met CSVJSON kun je CSV naar JSON omzetten, en vice versa. Ook kun je JSON beauti
 <a href="https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah" target="_blank">![](images/instantdatascraper.png)</a>
 Met deze browser plugin voor Chrome kun je eenvoudig data scrapen. De plugin kan zelf inschatten welke gegevens kunnen worden verzameld. Met de autoscoll-functie kun je vervolgens de scraper oneindig laten draaien. Erg handige noodoplossing voor sociale media waar andere scrapers niet (meer) werken, zoals X/Twitter en Bluesky.
 
+##### <a href="https://github.com/JustAnotherArchivist/snscrape" target="_blank">snscrape</a> | <mark>Scraper</mark>
+<a href="https://github.com/JustAnotherArchivist/snscrape" target="_blank">![](images/snscrape.png)</a>
+Dit script zegt data te kunnen scrapen van de volgende websites:
+* Facebook: user profiles, groups, and communities (aka visitor posts)
+* Instagram: user profiles, hashtags, and locations
+* Mastodon: user profiles and toots (single or thread)
+* Reddit: users, subreddits, and searches (via Pushshift)
+* Telegram: Channels
+* ~~Twitter: users, user profiles, hashtags, searches (live tweets, top tweets, and users), tweets (single or surrounding thread), list posts, communities, and trends~~
+* VKontakte: user profiles
+* Weibo (Sina Weibo): user profiles
+
+Omdat dit een tool is die meerdere sociale media zegt te kunnen scrapen, kan het ook eerder stukgaan.
+
 ##### <a href="https://tabula.technology/" target="_blank">Tabula</a> | <mark>Software</mark>
 <a href="https://tabula.technology/" target="_blank">![](images/tabula.png)</a>
 Tabula is erg handig zodra je PDF’s met datatabellen erin krijgt. Je kunt visueel aangeven waar de tabel zit, en Tabula doet een goede poging om die gegevens netjes in een CSV te zetten.
@@ -556,27 +570,13 @@ Notion is mijn persoonlijke voorkeur voor een app om notities mee te maken. Het 
 <a href="https://www.araelium.com/screenflick-mac-screen-recorder" target="_blank">![](images/screenflick.png)</a>
 Met Screenflick kun je schermopnamen maken op je Macbook, inclusief het geluid dat via je laptop wordt afgespeeld (geloof me, dit kan erg frustrerend zijn). Ook kun je na je opname de beelden nog bewerken en in verschillende formats exporteren. Screenflick kost eenmalig 35 dollar.
 
-##### <a href="https://github.com/JustAnotherArchivist/snscrape" target="_blank">snscrape</a> | <mark>Scraper</mark>
-<a href="https://github.com/JustAnotherArchivist/snscrape" target="_blank">![](images/snscrape.png)</a>
-Dit script zegt data te kunnen scrapen van de volgende websites:
-* Facebook: user profiles, groups, and communities (aka visitor posts)
-* Instagram: user profiles, hashtags, and locations
-* Mastodon: user profiles and toots (single or thread)
-* Reddit: users, subreddits, and searches (via Pushshift)
-* Telegram: Channels
-* ~~Twitter: users, user profiles, hashtags, searches (live tweets, top tweets, and users), tweets (single or surrounding thread), list posts, communities, and trends~~
-* VKontakte: user profiles
-* Weibo (Sina Weibo): user profiles
-
-Omdat dit een tool is die meerdere sociale media zegt te kunnen scrapen, kan het ook eerder stukgaan.
-
 ##### <a href="https://github.com/smicallef/spiderfoot" target="_blank">Spiderfoot</a> | <mark>Script</mark>
 <a href="https://github.com/smicallef/spiderfoot" target="_blank">![](images/spiderfoot.png)</a>
 Spiderfoot is een opensource casemanager voor OSINT-onderzoeken. Je kunt meerdere scripts aanzetten om automatische searches uit te voeren.
 
 ##### <a href="https://tinywow.com/" target="_blank">TinyWow</a> | <mark>Website</mark>
 <a href="https://tinywow.com/" target="_blank">![](images/tinywow.png)</a>
-Op TinyWow vind je meerdere kleine tools waarmee je bewerkingen kunt uitvoeren p documenten of bestanden. PDF’s samenvoegen, afbeeldingen converteren, video’s downloaden: je vindt het allemaal op deze site.
+Op TinyWow vind je meerdere kleine tools waarmee je bewerkingen kunt uitvoeren op documenten of bestanden. PDF’s samenvoegen, afbeeldingen converteren, video’s downloaden: je vindt het allemaal op deze site.
 
 ##### <a href="https://woo-generator.nl/" target="_blank">Woo-generator</a> | <mark>Website</mark>
 <a href="https://woo-generator.nl/" target="_blank">![](images/woogenerator.png)</a>
