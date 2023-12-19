@@ -5,7 +5,7 @@ layout: default
 ## Met deze **100** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
-**tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
+**Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
 <hr>
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
@@ -17,7 +17,7 @@ layout: default
 *Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Check onderaan deze pagina hoe je met mij in contact kunt komen ⬇](#einde)*
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
-Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals [Google](https://www.google.com/){:target="_blank"}, [Bing](https://www.bing.com/), <a href="https://yandex.com/" target="_blank">Yandex</a> en <a href="https://duckduckgo.com/" target="_blank">DuckDuckGo</a>. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
+Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals [Google](https://www.google.com/){:target="_blank"}, [Bing](https://www.bing.com/){:target="_blank"}, <a href="https://yandex.com/" target="_blank">Yandex</a> en <a href="https://duckduckgo.com/" target="_blank">DuckDuckGo</a>. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
 
 ##### <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">E-justice Business Register</a> | <mark>Website</mark>
 <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">![](/images/ejustice.png)</a>
