@@ -1,7 +1,8 @@
 # Site settings
 title: Luie Journalist
 tag_text: Luie Journalist
-description: De beste tools voor luie journalisten
+description: De 100 beste tools voor luie journalisten
+image: /images/fdown.png
 url: "https://www.luiejournalist.nl" # base URL for your site ie. "https://www.example.com"
 baseurl: "" # subpath for base of site, leave blank if hosting at root
 
