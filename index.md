@@ -21,7 +21,7 @@ Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals [Google](htt
 
 ##### <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">E-justice Business Register</a> | <mark>Website</mark>
 <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">![](/images/ejustice.png)</a>
-In dit register kun je internationaal zoeken in alle Kamers van Koophandel van EU-landen. Erg handig als je niet exact weet op welke site je in het buitenland moet zoeken.
+In dit register kun je internationaal zoeken in alle Kamers van Koophandel van EU-landen. Toegegeven, deze site is waanzinnig traag. Maar het is nog altijd beter dan je weg proberen te vinden op de Poolse KvK-site.
 
 ##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a> | <mark>Website</mark>
 <a href="https://haveibeenpwned.com/" target="_blank">![](/images/pownd.png)</a>
