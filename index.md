@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **100** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **102** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -564,6 +564,14 @@ Met WalletExplorer kun je snel overzicht krijgen in allerlei crypto-transacties.
 
 ### <a id="overig"></a><i class="fa fa-archive" aria-hidden="true"></i> Overig
 Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hieronder verzameld.
+
+##### <a href="https://archive.ph/" target="_blank">Archive.today</a> | <mark>Website</mark>
+<a href="https://archive.ph/" target="_blank">![](images/archivetoday.png)</a>
+Tijdens je onderzoek kom je online ongelooflijk vaak informatie tegen die op elk moment kan worden verwijderd. Daarom is het goed om die sites op te slaan in een archiveerdienst. [Archive.today](https://archive.ph/){:target="_blank"} is een van de beste diensten op dat gebied. Als alternatief kun je ook de [Wayback Machine](https://archive.org/web/){:target="_blank"} van Archive.org gebruiken. Tip: je kunt ook eerder opgeslagen versies van een website doorzoeken. En let op: deze diensten slaan geen video’s op.
+
+##### <a href="https://getfireshot.com/" target="_blank">Fireshot</a> | <mark>Plugin</mark>
+<a href="https://getfireshot.com/" target="_blank">![](images/fireshot.png)</a>
+Met de Fireshot plugin kun je screenshots maken van volledige webpagina’s. Handig als je een website wil archiveren of als beeldmateriaal wilt hebben. De website probeert je over te halen om de betaalde pro-versie te nemen, maar met de gratis plugin (voor praktisch elke browser beschikbaar) kom je ook al een heel eind.
 
 ##### <a href="https://www.notion.so" target="_blank">Notion</a> | <mark>Software</mark>
 <a href="https://www.notion.so" target="_blank">![](images/notion.png)</a>
