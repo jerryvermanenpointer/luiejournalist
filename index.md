@@ -10,7 +10,7 @@ layout: default
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
 
-*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je websites, scripts en apps die technisch ingewikkeld en tijdrovend werk voor je kunnen opknappen.*
+*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel iets leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je websites, scripts en apps die technisch ingewikkeld en tijdrovend werk voor je kunnen opknappen.*
 
 *Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt. En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
 
@@ -34,10 +34,6 @@ Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. <a 
 ##### <a href="https://www.social-searcher.com/" target="_blank">SocialSearcher</a> | <mark>Website</mark>
 <a href="https://www.social-searcher.com/" target="_blank">![](/images/socialsearcher.png)</a>
 SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Reddit, YouTube, Facebook en VKontakte kunt zoeken.
-
-##### <a href="https://search.0t.rocks/" target="_blank">ZeroTrust</a> | <mark>Website</mark>
-<a href="https://search.0t.rocks" target="_blank">![](/images/zerotrust.png)</a>
-Op Search.0t.rocks (spreek uit als ZeroTrust) kun je door meerdere datalekken zoeken en worden de zoekresultaten aan elkaar gekoppeld. Wachtwoorden zijn niet zichtbaar. De site is meerdere keren offline gehaald, maar <a href="https://github.com/MiyakoYakota/search.0t.rocks" target="_blank">hier staat de code</a> om je eigen versie te hosten.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
