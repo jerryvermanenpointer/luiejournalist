@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **102** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **101** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -10,18 +10,18 @@ layout: default
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
 
-*En nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel iets leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je websites, scripts en apps die technisch ingewikkeld en tijdrovend werk voor je kunnen opknappen.*
+*Nee, natuurlijk zijn journalisten niet lui. Maar we kunnen wel iets leren van luie mensen. Hoe kun je iemand – of in dit geval, iets – anders <mark>het zware werk laten doen</mark>? Deze site helpt je daarbij. Hieronder vind je websites, scripts en apps die technisch ingewikkeld en tijdrovend werk voor je kunnen opknappen.*
 
 *Reminder: tools zijn niets waard zonder te begrijpen hoe ze werken. Het is enkel een <mark>shortcut voor handmatig werk</mark>. Dus vertrouw de resultaten uit zo'n tool niet zonder te snappen wat er onder de motorkap plaatsvindt. En onthoud: <mark>don't be evil</mark>. Je kunt alle tools inzetten voor goede, maar ook voor kwade bedoelingen.*
 
-*Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Check onderaan deze pagina hoe je met mij in contact kunt komen ⬇](#einde)*
+*Luiejournalist.nl is gemaakt door data- en onderzoeksjournalist Jerry Vermanen. Heb je een goede toevoeging aan deze site? Of wil je een bedankje sturen? [Check onderaan deze pagina hoe je met mij in contact kunt komen ⬇](#einde)*
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals [Google](https://www.google.com/){:target="_blank"}, [Bing](https://www.bing.com/){:target="_blank"}, <a href="https://yandex.com/" target="_blank">Yandex</a> en <a href="https://duckduckgo.com/" target="_blank">DuckDuckGo</a>. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
 
 ##### <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">E-justice Business Register</a> | <mark>Website</mark>
 <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">![](/images/ejustice.png)</a>
-In dit register kun je internationaal zoeken in alle Kamers van Koophandel van EU-landen. Toegegeven, deze site is waanzinnig traag. Maar het is nog altijd beter dan je weg proberen te vinden op de Poolse KvK-site.
+In dit register kun je internationaal zoeken in de Kamers Van Koophandel van alle EU-landen. Toegegeven, deze site is waanzinnig traag. Maar het is nog altijd beter dan je weg proberen te vinden op de Poolse KVK-site.
 
 ##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPownd</a> | <mark>Website</mark>
 <a href="https://haveibeenpwned.com/" target="_blank">![](/images/pownd.png)</a>
@@ -29,7 +29,7 @@ Op deze site kun je checken of een emailadres in een datalek voorkomt. Handig om
 
 ##### <a href="https://www.shodan.io/" target="_blank">Shodan</a> | <mark>Website</mark>
 <a href="https://www.shodan.io/" target="_blank">![](/images/shodan.png)</a>
-Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden. <a href="https://github.com/lothos612/shodan" target="_blank">Check ook deze pagina</a> om slimme zoekopdrachten (dorks) te formuleren.
+Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden: het zogeheten Internet of Things (IoT). <a href="https://github.com/lothos612/shodan" target="_blank">Check ook deze pagina</a> om slimme zoekopdrachten (dorks) te formuleren.
 
 ##### <a href="https://www.social-searcher.com/" target="_blank">SocialSearcher</a> | <mark>Website</mark>
 <a href="https://www.social-searcher.com/" target="_blank">![](/images/socialsearcher.png)</a>
@@ -43,11 +43,11 @@ Het startpunt van veel online onderzoeken: een anoniem mailadres of telefoonnumm
 
 ##### <a href="https://epieos.com/" target="_blank">Epieos</a> | <mark>Website</mark>
 <a href="https://epieos.com/" target="_blank">![](images/epieos.png)</a>
-Op Epieos kun je checken waar specifieke telefoonnummers en mailadressen worden gebruikt. Vooral handig voor Google-accounts en Skype.
+Op Epieos kun je checken waar specifieke telefoonnummers en mailadressen worden gebruikt. Vooral handig als je een Google-accounts wil onderzoeken. Een groot deel van de tools zit verborgen achter een betaalde versie, maar via de gratis optie vind je ook veel aanknopingspunten.
 
 ##### <a href="https://github.com/megadose/holehe" target="_blank">Holehe</a> | <mark>Script</mark>
 <a href="https://github.com/megadose/holehe" target="_blank">![](images/holehe.png)</a>
-Met Holehe kun je checken of een emailadres is geregistreerd op >50 websites. Bij sommige sites krijg je ook info over het account zelf.
+Met Holehe kun je checken of een emailadres is geregistreerd op meer dan 50 websites. Bij sommige sites krijg je ook info over het account zelf.
 
 ##### <a href="https://github.com/AzizKpln/Moriarty-Project" target="_blank">Moriarty</a> | <mark>Script</mark>
 <a href="https://github.com/AzizKpln/Moriarty-Project" target="_blank">![](images/moriarty.png)</a>
@@ -73,7 +73,7 @@ Stel, je komt tijdens je onderzoek het anonieme account <code>droge_poepsteek</c
 
 ##### <a href="https://github.com/soxoj/maigret" target="_blank">Maigret</a> | <mark>Script</mark>
 <a href="https://github.com/soxoj/maigret" target="_blank">![](images/maigret.png)</a>
-Met Maigret kun je opzoeken welke username aan welke websites is gekoppeld. Het is een zeer uitgebreide versie van Sherlock (ook hieronder te vinden), maar daardoor ook een stuk trager. Je kunt Maigret ook gebruiken in Telegram via het account <a href="https://t.me/osint_maigret_bot" target="_blank">@osint_maigret_bot</a>.
+Met Maigret kun je opzoeken of een username op een websites is geregistreerd. Het is een zeer uitgebreide versie van Sherlock (hieronder te vinden), maar daardoor ook een stuk trager. Je kunt Maigret ook gebruiken in Telegram via het account <a href="https://t.me/osint_maigret_bot" target="_blank">@osint_maigret_bot</a>.
 
 ##### <a href="https://github.com/sherlock-project/sherlock" target="_blank">Sherlock</a> | <mark>Script</mark>
 <a href="https://github.com/sherlock-project/sherlock" target="_blank">![](images/sherlock.png)</a>
@@ -88,10 +88,6 @@ Op WhatsMyName.app kun je snel op bijna 600 websites zoeken of die username staa
 
 ### <a id="websites"></a><i class="fa fa-globe" aria-hidden="true"></i> Websites & Domeinen
 Online websites, de digitale snelweg, het wereldwijde web: je komt er nog eens wat tegen. Zodra je onderzoek moet doen naar een website of domeinnaam, dan kun je onderstaande tools goed gebruiken.
-
-##### <a href="https://adbeat.com/" target="_blank">Adbeat</a> | <mark>Website</mark>
-<a href="https://adbeat.com/" target="_blank">![](images/adbeat.png)</a>
-Met Adbeat kun je de affiliate links van websites analyseren. Waar leiden ze naartoe? Handig als je online advertenties gaat onderzoeken.
 
 ##### <a href="https://analyzeid.com/" target="_blank">Analyze ID</a> | <mark>Website</mark>
 <a href="https://analyzeid.com/" target="_blank">![](images/analyzeid.png)</a>
@@ -129,7 +125,7 @@ Als je wil weten wanneer een website verandert, dan kun je dat op Visualping in 
 
 ##### <a href="https://website.informer.com/" target="_blank">WebsiteInformer</a> | <mark>Website</mark>
 <a href="https://website.informer.com/" target="_blank">![](images/websiteinformer.png)</a>
-Op Website Informer kun je snel zien wie de eigenaar van een website is. Lijkt ook veel resultaten uit het verleden en veel verschillende domeinnamen te geven.
+Op Website Informer kun je snel zien wie de eigenaar van een website is. Deze dienst lijkt ook veel resultaten uit het verleden te geven.
 
 ##### <a href="https://well-known.dev/" target="_blank">Well-Known</a> | <mark>Website</mark>
 <a href="https://well-known.dev/" target="_blank">![](images/wellknown.png)</a>
@@ -141,7 +137,7 @@ Via deze site kun je in historische WHOIS-registraties zoeken naar de eigenaar v
 
 ##### <a href="https://www.whoxy.com/" target="_blank">Whoxy</a> | <mark>Website</mark>
 <a href="https://www.whoxy.com/" target="_blank">![](images/whoxy.png)</a>
-Op Whoxy kun je zoeken op welke naam een website staat geregistreerd. Ook kun je zoeken of op een mailadres een website staat geregistreerd.
+Op Whoxy kun je zoeken op welke naam of mailadres een website staat geregistreerd.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
@@ -154,7 +150,7 @@ Facebook doet al jarenlang zijn best om allerlei ontwikkelde tools voor onderzoe
 
 ##### <a href="https://www.crowdtangle.com/" target="_blank">CrowdTangle</a> | <mark>Website</mark>
 <a href="https://www.crowdtangle.com/" target="_blank">![](images/crowdtangle.png)</a>
-Met CrowdTangle (een dienst die door Facebook zelf wordt beheerd) kun je meerdere openbare Facebook-berichten analyseren. Wat is trending? En zit daar mogelijk misinformatie tussen?
+Met CrowdTangle (een dienst die door Facebook zelf wordt beheerd) kun je naar openbare Facebook-berichten zoeken. Wat is trending? En zit daar mogelijk misinformatie tussen?
 
 ##### <a href="https://github.com/n0kovo/fb_friend_list_scraper" target="_blank">Facebook Friend List Scraper</a> | <mark>Scraper</mark>
 <a href="https://github.com/n0kovo/fb_friend_list_scraper" target="_blank">![](images/fbfriendlistscraper.png)</a>
@@ -166,7 +162,7 @@ Met FDown kun je snel openbare Facebook-video’s downloaden.
 
 ##### <a href="https://lookup-id.com/" target="_blank">Lookup ID</a> | <mark>Website</mark>
 <a href="https://lookup-id.com/" target="_blank">![](images/lookupid.png)</a>
-Met Lookup.id kun je de ID-code van een Facebook-profiel vinden. Voor sommige andere zoekdiensten kan die ID-code handig zijn.
+Met Lookup.id kun je de ID-code van een Facebook-profiel vinden. Voor sommige andere zoekdiensten (die staan hieronder vermeld) kan die ID-code handig zijn.
 
 ##### <a href="https://www.sowsearch.info/" target="_blank">SowSearch</a> | <mark>Website</mark>
 <a href="https://www.sowsearch.info/" target="_blank">![](images/sowsearch.png)</a>
@@ -179,7 +175,7 @@ Met WhoPostedWhat kun je uitgebreid zoeken in openbare posts op Facebook. Hiervo
 **[terug naar overzicht ⬆](#)**
 
 #### <a id="insta"></a>Instagram
-Zelfs mensen met een bloedhekel aan Facebook zitten met veel plezier op Instagram. Alles op deze site is leuk, gezellig en vriendelijk. Zelfs met alle spambots, scammers en dubieuze reclamecampagnes die je hier kunt aantreffen.
+Heb je een bloedhekel aan Facebook, maar wil je wel dat ome Zuckerberg jouw privacy schendt? Dan kun je altijd nog een Instagram-account aanmaken.
 
 ##### <a href="https://imginn.io/" target="_blank">IMGinn</a> | <mark>Website</mark>
 <a href="https://imginn.io/" target="_blank">![](images/imginn.png)</a>
@@ -273,7 +269,7 @@ Eigenlijk is het TikTok Creative Center voor adverteerders bedoeld om te zien wa
 
 ##### <a href="https://tiktokdownloader.com/" target="_blank">TikTok Downloader</a> | <mark>Website</mark>
 <a href="https://tiktokdownloader.com/" target="_blank">![](images/tiktokdownloader.png)</a>
-Met de TikTok Downloader kun je snel en zonder watermerk TikTok-video’s downloaden. Ze hebben zelfs <a href="https://chromewebstore.google.com/detail/tiktok-downloader/ghhcamahihkbgfioeimocdmmiiejjnfe" target="_blank">een handige Chrome plugin</a> als je nog eenvoudiger video’s wil binnenhalen.
+Met de TikTok Downloader kun je TikTok-video’s snel en zonder watermerk downloaden. Ze hebben zelfs <a href="https://chromewebstore.google.com/detail/tiktok-downloader/ghhcamahihkbgfioeimocdmmiiejjnfe" target="_blank">een handige Chrome plugin</a> als je nog eenvoudiger video’s wil binnenhalen.
 
 **[terug naar overzicht ⬆](#)**
 
@@ -282,7 +278,7 @@ Een van de weinige online forums waar je intelligente en doordachte gesprekken k
 
 ##### <a href="https://f5bot.com/" target="_blank">F5Bot</a> | <mark>Website</mark>
 <a href="https://f5bot.com/" target="_blank">![](images/f5bot.png)</a>
-Met F5Bot kun je custom alerts opzetten voor Reddit. Laat jezelf mailen zodra een specifiek steekwoord wordt gezegd.
+Met F5Bot kun je custom alerts opzetten voor Reddit. Laat jezelf mailen zodra een specifiek steekwoord wordt gepost.
 
 ##### <a href="http://karmadecay.com/" target="_blank">Karma Decay</a> | <mark>Website</mark>
 <a href="" target="_blank">![](images/karmadecay.png)</a>
@@ -307,11 +303,11 @@ Universal Reddit Scraper (URS) heeft een uitgebreide interface waarin je kunt aa
 **[terug naar overzicht ⬆](#)**
 
 #### <a id="discord"></a>Discord
-Discord begon als exclusief platform voor jongeren om te voicechatten tijdens games. Maar je kunt nu talloze communities vinden op dit platform. De voiceberichten maken het misschien wat lastig om te onderzoeken, maar op Discord kun je ook veel geschreven berichten vinden.
+Discord begon als dienst om te voicechatten tijdens games. Tegenwoordig kun je hier veel verschillende communities vinden. De voiceberichten maken het misschien wat lastig om te onderzoeken, maar op Discord kun je ook veel geschreven berichten vinden.
 
 ##### <a href="https://disboard.org/servers" target="_blank">Disboard</a> | <mark>Website</mark>
 <a href="https://disboard.org/servers" target="_blank">![](images/disboard.png)</a>
-Via deze site kun je zoeken naar openbare Discord-servers.
+Via deze site kun je zoeken naar openbare Discord-servers. Een handig beginpunt als je nog nooit eerder op Discord bent geweest.
 
 ##### <a href="https://dht.chylex.com/" target="_blank">Discord History Checker</a> | <mark>Software</mark>
 <a href="https://dht.chylex.com/" target="_blank">![](images/discordhistorychecker.png)</a>
@@ -336,10 +332,10 @@ Sinds  Elon Musk de baas werd, zijn bijna alle tools onbruikbaar geworden. Toch 
 Ooit begonnen als online CV-site, momenteel een slappe feed vol 'inspirerende' ervaringen van saaie mensen. Alsnog een goede bron van informatie, maar ik ken geen nuttige websites of tools voor LinkedIn.
 
 #### <a id="mastodon"></a>Mastodon
-Een Mastodon-account maken is een intens twijfelachtig proces: begrijp maar eens op welke server je je moet aanmelden. En vervolgens kom je op een platform waar - voor zover ik weet - nog geen nuttige tools voor zijn ontwikkeld.
+Een Mastodon-account maken is een intens twijfelachtig proces: begrijp maar eens op welke server je je moet aanmelden. Vervolgens kom je op een platform waar - voor zover ik weet - nog geen nuttige tools voor zijn ontwikkeld.
 
 #### <a id="bluesky"></a>Bluesky
-Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd. Op dit moment zijn berichten op Bluesky alleen te zien zodra je bent ingelogd, en heb je een invite nodig om een account te maken. Voor zover ik weet, zijn er nog geen tools voor Bluesky ontwikkeld.
+Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd. Voor zover ik weet, zijn er nog geen tools voor Bluesky ontwikkeld.
 
 #### <a id="threads"></a>Threads
 Mark Zuckerberg heeft een nieuwe manier gevonden waarmee hij democratieën wil ondermijnen: Threads. Op dit moment is het nog gezellig en vriendelijk op deze Twitter-kloon, maar zoals alle sociale media is het slechts een kwestie van tijd voordat het he-le-maal misgaat. Op dit moment ken ik nog geen goede tools om Threads te onderzoeken.
@@ -348,7 +344,7 @@ Mark Zuckerberg heeft een nieuwe manier gevonden waarmee hij democratieën wil o
 <hr>
 
 ### <a id="verificatie"></a><i class="fa fa-check" aria-hidden="true"></i> Verificatie
-Spoiler: niet alles wat je online vindt, is waar. Wil je weten of een video wel authentiek is of een persoon wel echt bestaat? Onderstaande tools kunnen je daarbij helpen.
+Spoiler: niet alles wat je online vindt, is waar. Wil je weten of een video authentiek is of een persoon wel echt bestaat? Onderstaande tools kunnen je daarbij helpen.
 
 ##### <a href="https://seintpl.github.io/AmIReal/" target="_blank">Am I Real</a> | <mark>Website</mark>
 <a href="https://seintpl.github.io/AmIReal/" target="_blank">![](images/amireal.png)</a>
@@ -390,7 +386,7 @@ Met Peakfinder kun je foto’s geolocaten als daar een heuvel of berg in staat. 
 
 ##### <a href="https://pimeyes.com/" target="_blank">PimEyes</a> | <mark>Website</mark>
 <a href="https://pimeyes.com/" target="_blank">![](images/pimeyes.png)</a>
-Met PimEyes kun je zoeken op dezelfde persoon d.m.v. biometrische gelijkenissen. Let op, is een betaalde service.
+Met PimEyes kun je zoeken op dezelfde persoon d.m.v. biometrische gelijkenissen. Let op: dit is een betaalde service.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
@@ -399,7 +395,7 @@ Met PimEyes kun je zoeken op dezelfde persoon d.m.v. biometrische gelijkenissen.
 Datajournalistiek: het allermooiste beroep ter wereld (is mijn geheel objectieve, neutrale en ongekleurde mening). Hier vind je een aantal tools die je kunt gebruiken om next level te gaan.
 
 #### <a id="verzamelen"></a>Verzamelen
-Geen datajournalistiek zonder data (duh), dus hieronder een aantal websites en plugins waarmee je moeilijk te verkrijgen gegevens alsnog kunt verzamelen.
+Zonder data geen datajournalistiek (duh), dus hieronder een aantal websites en plugins waarmee je moeilijk te verkrijgen gegevens alsnog kunt verzamelen.
 
 ##### <a href="https://www.cometdocs.com/" target="_blank">Cometdocs</a> | <mark>Website</mark>
 <a href="https://www.cometdocs.com/" target="_blank">![](images/cometdocs.png)</a>
@@ -442,7 +438,7 @@ Zeeschuimer is een Firefox browser plugin waarmee je tijdens het scrollen op soc
 **[terug naar overzicht ⬆](#)**
 
 #### <a id="bewerken"></a>Bewerken
-Met een spreadsheet kom je een heel eind, maar soms heb je nét dat kleine beetje extra nodig om je analyse uit te voeren.
+Met een spreadsheet kom je een heel eind, maar soms heb je nét een beetje extra nodig om je analyse uit te voeren.
 
 ##### <a href="https://openrefine.org/" target="_blank">Open Refine</a> | <mark>Software</mark>
 <a href="https://openrefine.org/" target="_blank">![](images/openrefine.png)</a>
@@ -495,7 +491,7 @@ Met Cleanup Pictures kun je foto’s opschonen en objecten verwijderen. Kan hand
 
 ##### <a href="https://www.deepl.com/translator" target="_blank">DeepL</a> | <mark>Website</mark>
 <a href="https://www.deepl.com/translator" target="_blank">![](images/deepl.png)</a>
-DeepL is de beste manier om tekst te vertalen. Twijfel je over de kwaliteit van je vertaling? Dan kun je naast <a href="https://www.deepl.com/translator" target="_blank">DeepL Translator</a> de <a href="https://www.deepl.com/write" target="_blank">DeepL Write</a> gebruiken. Hiermee kun je teksten grammaticaal corrigeren en zelfs naar een andere schrijfstijl omzetten.
+DeepL is de beste manier om tekst te vertalen. Zeker in deze volgorde: eerst tekst vertalen via [DeepL Translator](https://www.deepl.com/translator){:target="_blank"} en daarna de tekst grammaticaal verbeteren (of zelfs naar een andere schrijfstijl omzetten) met [DeepL Write](https://www.deepl.com/write){:target="_blank"}.
 
 ##### <a href="https://huggingface.co/" target="_blank">Hugging Face</a> | <mark>Website</mark>
 <a href="https://huggingface.co/" target="_blank">![](images/huggingface.png)</a>
@@ -507,15 +503,15 @@ Met Lobe.ai kun je kunstmatige intelligentie trainen om beeldmateriaal te herken
 
 ##### <a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">MacWhisper</a> | <mark>Software</mark>
 <a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">![](images/whisper.png)</a>
-Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audiobestanden, inclusief tijdcodes. Alle data blijft op je lokale machine staan. Helaas (nog) geen automatische sprekersherkenning. Ik raad aan om de Pro-versie voor 29 euro te nemen: de taalmodellen die hierin worden gebruikt zijn nagenoeg foutloos. Op de site staat ook vermeld dat journalisten 50 procent korting kunnen krijgen als ze de ontwikkelaar een mailtje sturen.
+Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audiobestanden, inclusief tijdcodes. Alle data blijft op je lokale machine staan. Helaas (nog) geen automatische sprekersherkenning. Ik raad aan om de Pro-versie voor 29 euro te nemen: de taalmodellen die hierin worden gebruikt zijn nagenoeg foutloos. [Op de site](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"} staat ook vermeld dat journalisten 50 procent korting kunnen krijgen.
 
 ##### <a href="https://www.midjourney.com" target="_blank">Midjourney</a> | <mark>Website</mark>
 <a href="https://www.midjourney.com" target="_blank">![](images/midjourney.png)</a>
-Simpelweg de beste methode om AI-gegenereerde afbeeldingen mee te maken. Via <a href="https://discord.com/invite/midjourney" target="_blank">de Discord-server van Midjourney</a> kun je (betaald en gratis) afbeeldingen maken via tekstprompts. Alternatieven voor Midjourney zijn <a href="https://ideogram.ai" target=_blank">Ideogram</a> en <a href="https://firefly.adobe.com/inspire/images" target="_blank">Adobe Firefly</a>.
+Simpelweg de beste methode om AI-gegenereerde afbeeldingen mee te maken. Via [de Discord-server van Midjourney](https://discord.com/invite/midjourney){:target="_blank"} kun je (zowel betaald als gratis) afbeeldingen maken via tekstprompts. Alternatieven voor Midjourney zijn [Ideogram](https://ideogram.ai){:target="_blank"} en [Adobe Firefly](https://firefly.adobe.com/inspire/images){:target="_blank"}.
 
 ##### <a href="https://remini.ai/" target="_blank">Remini</a> | <mark>Website</mark>
 <a href="https://remini.ai/" target="_blank">![](images/remini.png)</a>
-Met Remini kun je foto’s van slechte kwaliteit met AI verbeteren. Let op: als je dit wil gebruiken om beeldmateriaal vervolgens te Reversed Image Searchen of verifiëren, dan is het resultaat dus iets onbetrouwbaarder.
+Met Remini kun je foto’s van slechte kwaliteit met AI verbeteren. Let op: als je dit wil gebruiken om beeldmateriaal via te Reversed Image Searchen of verifiëren, dan is het resultaat dus iets onbetrouwbaarder.
 
 ##### <a href="https://www.remove.bg/" target="_blank">RemoveBG</a> | <mark>Website</mark>
 <a href="https://www.remove.bg/" target="_blank">![](images/removebg.png)</a>
@@ -523,13 +519,13 @@ Met RemoveBG (lees: Remove Background) kun je snel en eenvoudig de achtergrond v
 
 ##### <a href="https://www.simonsaysai.com" target="_blank">Simon Says</a> | <mark>Website</mark>
 <a href="https://www.simonsaysai.com" target="_blank">![](images/simonsays.png)</a>
-Een van de beste manieren om beeldmateriaal mee te transcriberen. Je transcript wordt ook nog eens met het beeld gesynchroniseerd. Door het editten van tekst kun je ruwe montages maken. Je krijgt gratis credits om beeldmateriaal te transcriberen, maar die zijn snel op.
+Een van de beste manieren om beeldmateriaal mee te transcriberen. Je transcript wordt ook nog eens met het beeld gesynchroniseerd. Je kunt zelfs ruwe montages maken als je de getranscribeerde tekst gaat editten. Je krijgt gratis credits om beeldmateriaal te transcriberen, maar die zijn snel op.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="crypto"></a><i class="fa fa-btc" aria-hidden="true"></i> Crypto
-Ah, de toekomst van ons betalingsverkeer: gedecentraliseerd, gepseudonimiseerd en encrypted. En vooral gebruikt door crypto-bro’s en georganiseerde misdaad. Dan is het handig om wat tools te hebben om zulke transacties inzichtelijk te maken.
+Ah, de toekomst van ons betalingsverkeer: gedecentraliseerd, gepseudonimiseerd en encrypted. En vooral gebruikt door crypto-bro’s en georganiseerde misdaad. Daarom zijn onderstaande tools handig om zulke dubieuze transacties inzichtelijk te maken.
 
 ##### <a href="https://live.blockcypher.com/" target="_blank">Blockcypher</a> | <mark>Website</mark>
 <a href="https://live.blockcypher.com/" target="_blank">![](images/blockcypher.png)</a>
@@ -563,11 +559,11 @@ Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hierond
 
 ##### <a href="https://archive.ph/" target="_blank">Archive.today</a> | <mark>Website</mark>
 <a href="https://archive.ph/" target="_blank">![](images/archivetoday.png)</a>
-Tijdens je onderzoek kom je online ongelooflijk vaak informatie tegen die op elk moment kan worden verwijderd. Daarom is het goed om die sites op te slaan in een archiveerdienst. [Archive.today](https://archive.ph/){:target="_blank"} is een van de beste diensten op dat gebied. Als alternatief kun je ook de [Wayback Machine](https://archive.org/web/){:target="_blank"} van Archive.org gebruiken. Tip: je kunt ook eerder opgeslagen versies van een website doorzoeken. En let op: deze diensten slaan geen video’s op.
+Tijdens je onderzoek kom je online ongelooflijk vaak informatie tegen die op elk moment kan worden verwijderd. Daarom is het een goede gewoonte om die sites op te slaan met een archiveerdienst. [Archive.today](https://archive.ph/){:target="_blank"} is een van de beste diensten op dat gebied. Als alternatief kun je ook de [Wayback Machine](https://archive.org/web/){:target="_blank"} van Archive.org gebruiken. Tip: je kunt ook eerder opgeslagen versies van een website doorzoeken. En let op: deze diensten slaan geen video’s op.
 
 ##### <a href="https://getfireshot.com/" target="_blank">Fireshot</a> | <mark>Plugin</mark>
 <a href="https://getfireshot.com/" target="_blank">![](images/fireshot.png)</a>
-Met de Fireshot plugin kun je screenshots maken van volledige webpagina’s. Handig als je een website wil archiveren of als beeldmateriaal wilt hebben. De website probeert je over te halen om de betaalde pro-versie te nemen, maar met de gratis plugin (voor praktisch elke browser beschikbaar) kom je ook al een heel eind.
+Met de Fireshot plugin kun je screenshots maken van volledige webpagina’s. Handig als je een website wil archiveren of als beeldmateriaal nodig hebt. De website probeert je over te halen om de betaalde pro-versie te nemen, maar met de gratis plugin (voor praktisch elke browser beschikbaar) kom je ook al een heel eind.
 
 ##### <a href="https://www.notion.so" target="_blank">Notion</a> | <mark>Software</mark>
 <a href="https://www.notion.so" target="_blank">![](images/notion.png)</a>
@@ -609,6 +605,7 @@ Op dit moment ontbreken nog een aantal nuttige tools, zoals:
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper en zoektools voor Threads</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een goede scraper voor Telegram</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een profielscraper voor Tiktok</li>
+  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een lijst met nuttige prompts in ChatGPT voor journalisten</li>
 </ul>
 
 Dus heb je nog een toevoeging of correctie? <a href="mailto:jerryvermanen@gmail.com" target="_blank">Mail me dan</a>.
