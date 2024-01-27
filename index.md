@@ -501,9 +501,9 @@ Hugging Face is dé plek waar je AI-modellen kunt vinden. In sommige gevallen wo
 <a href="https://github.com/lobe" target="_blank">![](images/lobeai.png)</a>
 Met Lobe.ai kun je kunstmatige intelligentie trainen om beeldmateriaal te herkennen en te categoriseren. Had eerst een desktop-app, maar is nu alleen nog beschikbaar als script. Voor Pointer heb ik Lobe.ai ooit gebruikt bij een <a href="https://pointer.kro-ncrv.nl/honderden-vrouwelijke-tinder-profielen-proberen-nederlanders-naar-nepdatingsites-te-lokken" target="_blank">onderzoek naar nepprofielen op Tinder</a> (<a href="https://pointer.kro-ncrv.nl/hoe-we-een-computer-hebben-leren-tinderen-om-nepprofielen-te-herkennen" target="_blank">hier lees je hoe ik dat heb gedaan</a>).
 
-##### <a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">MacWhisper</a> | <mark>Software</mark>
-<a href="https://goodsnooze.gumroad.com/l/macwhisper" target="_blank">![](images/whisper.png)</a>
-Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audiobestanden, inclusief tijdcodes. Alle data blijft op je lokale machine staan. Helaas (nog) geen automatische sprekersherkenning. Ik raad aan om de Pro-versie voor 29 euro te nemen: de taalmodellen die hierin worden gebruikt zijn nagenoeg foutloos. [Op de site](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"} staat ook vermeld dat journalisten 50 procent korting kunnen krijgen.
+##### <a href="http://www.macwhisper.com/" target="_blank">MacWhisper</a> | <mark>Software</mark>
+<a href="http://www.macwhisper.com/" target="_blank">![](images/whisper.png)</a>
+Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audiobestanden, inclusief tijdcodes. Alle data blijft op je lokale machine staan. Helaas (nog) geen automatische sprekersherkenning. Ik raad aan om de Pro-versie voor 29 euro te nemen: de taalmodellen die hierin worden gebruikt zijn nagenoeg foutloos. Journalisten kunnen 50 procent korting krijgen. [Ga naar de site](http://www.macwhisper.com/){:target="_blank"} en vermeld kortingscode <code>LUIEJOURNALIST</code> bij het afrekenen.
 
 ##### <a href="https://www.midjourney.com" target="_blank">Midjourney</a> | <mark>Website</mark>
 <a href="https://www.midjourney.com" target="_blank">![](images/midjourney.png)</a>
