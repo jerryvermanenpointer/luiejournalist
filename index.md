@@ -595,6 +595,7 @@ Ik doe mijn best om deze website regelmatig te updaten. Dat kan ook met jouw sug
 * dat deze tool (of een variant daarop) nog niet op deze site staat;
 * dat je die tool recent nog hebt gebruikt;
 * dat je daar tijd, moeite of geld mee bespaart;
+* dat die tool gratis of goedkoop is;
 * en dat het specifiek voor journalisten nuttig is.
 
 Op dit moment ontbreken nog een aantal nuttige tools, zoals:
