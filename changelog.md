@@ -15,3 +15,4 @@
 ### Toegevoegd
 
 - Kortingscode LUIEJOURNALIST voor MacWhisper
+- Extra voorwaarde om tool aan Luiejournalist.nl toe te voegen: gratis of goedkoop
