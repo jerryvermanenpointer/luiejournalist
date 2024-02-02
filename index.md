@@ -286,7 +286,7 @@ Reversed Image Search om gelijksoortige of identieke afbeeldingen op Reddit te v
 
 ##### <a href="https://kerrick.github.io/Mostly-Harmless" target="_blank">Mostly Harmless</a> | <mark>Plugin</mark>
 <a href="https://kerrick.github.io/Mostly-Harmless" target="_blank">![](images/mostlyharmless.png)</a>
-Mostly Harmless is een browser plugin waarmee je kunt zien of een url al op Reddit is gedeeld. Zo ja, dan kun je direct het gesprek rondom dat artikel bekijken.
+Mostly Harmless is een browser plugin waarmee je kunt zien of een url al op Reddit is gedeeld. Zo ja, dan kun je direct het gesprek rondom dat artikel bekijken. Via de site moet je de instructies op [de download-pagina volgen](https://kerrick.github.io/Mostly-Harmless/#download){:target="_blank"}, omdat de plugin uit de Chrome Store is verwijderd.
 
 ##### <a href="https://reddit-user-analyser.netlify.app/" target="_blank">Reddit User Analyser</a> | <mark>Website</mark>
 <a href="https://reddit-user-analyser.netlify.app/" target="_blank">![](images/reddituseranalyser.png)</a>
