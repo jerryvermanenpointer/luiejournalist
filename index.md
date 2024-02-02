@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **101** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **106** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -549,7 +549,7 @@ Een cryptowallet die door experts wordt aangeraden, omdat het eenvoudig en veili
 
 ##### <a href="https://www.walletexplorer.com/" target="_blank">WalletExplorer</a> | <mark>Website</mark>
 <a href="https://www.walletexplorer.com/" target="_blank">![](images/walletexplorer.png)</a>
-Met WalletExplorer kun je snel overzicht krijgen in allerlei crypto-transacties. Deze site doet ook clustering van transacties: het samenvoegen van transacties die uit dezelfde wallets komen.
+Met WalletExplorer kun je snel overzicht krijgen in allerlei crypto-transacties. Deze site doet ook clustering van transacties: het samenvoegen van transacties die uit dezelfde wallets komen. Let op: in het verleden heeft de politie [de ip-adressen verzameld](https://www.coindesk.com/business/2021/09/21/leaked-slides-show-how-chainalysis-flags-crypto-suspects-for-cops/){:target="_blank"} van personen die op WalletExplorer naar dubieuze transacties hebben gezocht. Gebruik dus altijd een VPN als je dit soort onderzoeken doet.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
@@ -561,6 +561,14 @@ Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hierond
 <a href="https://archive.ph/" target="_blank">![](images/archivetoday.png)</a>
 Tijdens je onderzoek kom je online ongelooflijk vaak informatie tegen die op elk moment kan worden verwijderd. Daarom is het een goede gewoonte om die sites op te slaan met een archiveerdienst. [Archive.today](https://archive.ph/){:target="_blank"} is een van de beste diensten op dat gebied. Als alternatief kun je ook de [Wayback Machine](https://archive.org/web/){:target="_blank"} van Archive.org gebruiken. Tip: je kunt ook eerder opgeslagen versies van een website doorzoeken. En let op: deze diensten slaan geen video’s op.
 
+##### <a href="https://www.diffchecker.com/" target="_blank">ChachedView</a> | <mark>Website</mark>
+<a href="https://www.diffchecker.com/" target="_blank">![](images/cachedview.png)</a>
+Via archiefdiensten kun je niet alleen websites opslaan, maar ook zoeken naar eerder opgeslagen versies van websites. Op Cachedview kun je via 6 verschillende diensten tegelijk zoeken en een screenshot van die website opvragen. Kan enorm veel tijd schelen.
+
+##### <a href="https://cachedview.nl/" target="_blank">Diffchecker</a> | <mark>Website</mark>
+<a href="https://cachedview.nl/" target="_blank">![](images/diffchecker.png)</a>
+Zoek je de verschillen tussen twee teksten? Op Diffchecker kun je die teksten invoeren en zie je met handige kleuren waar de verschillen zijn. Voortaan weet je dus exact zien wat je eindredacteur heeft gewijzigd, of wat een ministerie heeft veranderd in de concept- en definitieve versie van een rapport. Werkt ook voor afbeeldingen en documenten.
+
 ##### <a href="https://getfireshot.com/" target="_blank">Fireshot</a> | <mark>Plugin</mark>
 <a href="https://getfireshot.com/" target="_blank">![](images/fireshot.png)</a>
 Met de Fireshot plugin kun je screenshots maken van volledige webpagina’s. Handig als je een website wil archiveren of als beeldmateriaal nodig hebt. De website probeert je over te halen om de betaalde pro-versie te nemen, maar met de gratis plugin (voor praktisch elke browser beschikbaar) kom je ook al een heel eind.
@@ -568,6 +576,10 @@ Met de Fireshot plugin kun je screenshots maken van volledige webpagina’s. Han
 ##### <a href="https://www.notion.so" target="_blank">Notion</a> | <mark>Software</mark>
 <a href="https://www.notion.so" target="_blank">![](images/notion.png)</a>
 Notion is mijn persoonlijke voorkeur voor een app om notities mee te maken. Het grote voordeel van Notion is dat je databases kunt maken in je notities.
+
+##### <a href="https://otranscribe.com/" target="_blank">oTranscribe</a> | <mark>Website</mark>
+<a href="https://otranscribe.com/" target="_blank">![](images/otranscribe.png)</a>
+Geen behoefte aan geautomatiseerde transcriptie? Dan is oTranscribe misschien wel iets voor je. In deze interface kun je je audiobestand langzaam afspelen en alle tekst meeschrijven. Ook handig als je wijzigingen in je bestaande transcripten wil doorvoeren.
 
 ##### <a href="https://www.araelium.com/screenflick-mac-screen-recorder" target="_blank">Screenflick</a> | <mark>Software</mark>
 <a href="https://www.araelium.com/screenflick-mac-screen-recorder" target="_blank">![](images/screenflick.png)</a>
@@ -581,9 +593,17 @@ Spiderfoot is een opensource casemanager voor OSINT-onderzoeken. Je kunt meerder
 <a href="https://tinywow.com/" target="_blank">![](images/tinywow.png)</a>
 Op TinyWow vind je meerdere kleine tools waarmee je bewerkingen kunt uitvoeren op documenten of bestanden. PDF’s samenvoegen, afbeeldingen converteren, video’s downloaden: je vindt het allemaal op deze site.
 
+##### <a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">Video Screenshot</a> | <mark>Plugin</mark>
+<a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">![](images/videoscreenshot.png)</a>
+Op veel streamingsdiensten kun je geen screenshot maken. Superirritant als je dat beeld nodig hebt voor je onderzoek. Met deze plugin (alleen voor Chrome) krijg je op NPO Start, YouTube, Netflix, etc. een extra icoontje te zien waarmee je alsnog een screenshot kunt maken.
+
 ##### <a href="https://woo-generator.nl/" target="_blank">Woo-generator</a> | <mark>Website</mark>
 <a href="https://woo-generator.nl/" target="_blank">![](images/woogenerator.png)</a>
 Met de Woo-generator van de VVOJ (Vereniging van Onderzoeksjournalisten) kun je snel een blauwdruk (altijd even dubbelchecken) voor je Woo-verzoek genereren.
+
+##### <a href="https://www.woo-knop.nl/" target="_blank">De Woo-knop</a> | <mark>Website</mark>
+<a href="https://www.woo-knop.nl/" target="_blank">![](images/wooknop.png)</a>
+Met de Woo-generator kun je een Woo-verzoek opstellen, maar waar dien je die vervolgens in? En hoe houd je bij of een ministerie zich aan de wettelijke termijnen houdt? De Woo-knop helpt je daarbij. Alle Woo-verzoeken worden direct [op de site gepubliceerd](https://www.woo-knop.nl/list/successful){:target="_blank"}, dus je kunt hier ook terecht voor inspiratie voor jouw volgende verzoek.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
