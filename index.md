@@ -561,12 +561,12 @@ Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hierond
 <a href="https://archive.ph/" target="_blank">![](images/archivetoday.png)</a>
 Tijdens je onderzoek kom je online ongelooflijk vaak informatie tegen die op elk moment kan worden verwijderd. Daarom is het een goede gewoonte om die sites op te slaan met een archiveerdienst. [Archive.today](https://archive.ph/){:target="_blank"} is een van de beste diensten op dat gebied. Als alternatief kun je ook de [Wayback Machine](https://archive.org/web/){:target="_blank"} van Archive.org gebruiken. Tip: je kunt ook eerder opgeslagen versies van een website doorzoeken. En let op: deze diensten slaan geen video’s op.
 
-##### <a href="https://www.diffchecker.com/" target="_blank">CachedView</a> | <mark>Website</mark>
-<a href="https://www.diffchecker.com/" target="_blank">![](images/cachedview.png)</a>
+##### <a href="https://cachedview.nl/" target="_blank">CachedView</a> | <mark>Website</mark>
+<a href="https://cachedview.nl/" target="_blank">![](images/cachedview.png)</a>
 Via archiefdiensten kun je niet alleen websites opslaan, maar ook zoeken naar eerder opgeslagen versies van websites. Op Cachedview kun je via 6 verschillende diensten tegelijk zoeken en een screenshot van die website opvragen. Kan enorm veel tijd schelen.
 
-##### <a href="https://cachedview.nl/" target="_blank">Diffchecker</a> | <mark>Website</mark>
-<a href="https://cachedview.nl/" target="_blank">![](images/diffchecker.png)</a>
+##### <a href="https://www.diffchecker.com/" target="_blank">Diffchecker</a> | <mark>Website</mark>
+<a href="https://www.diffchecker.com/" target="_blank">![](images/diffchecker.png)</a>
 Zoek je de verschillen tussen twee teksten? Op Diffchecker kun je die teksten invoeren en zie je met handige kleuren waar de verschillen zijn. Voortaan weet je dus exact zien wat je eindredacteur heeft gewijzigd, of wat een ministerie heeft veranderd in de concept- en definitieve versie van een rapport. Werkt ook voor afbeeldingen en documenten.
 
 ##### <a href="https://getfireshot.com/" target="_blank">Fireshot</a> | <mark>Plugin</mark>
