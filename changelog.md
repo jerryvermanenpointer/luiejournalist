@@ -31,3 +31,10 @@
 
 - Bij WalletExplorer aangevuld dat politie in het verleden de ip-adressen heeft bijgehouden van personen die dubieuze transacties hebben gezocht.
 - Bij Mostly Harmless toegevoegd dat de plugin niet meer in de Chrome Store te downloaden is.
+
+## 1.2.0 (2024-03-01)
+
+### Toegevoegd
+
+- Nieuwe sectie genaamd Archiveren
+- Forensic OSINT
