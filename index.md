@@ -391,7 +391,7 @@ Met PimEyes kun je zoeken op dezelfde persoon d.m.v. biometrische gelijkenissen.
 **[terug naar overzicht ⬆](#)**
 <hr>
 
-### <a id="archiveren"></a><i class="fa fa-hdd-o" aria-hidden="true"></i></i> Archiveren
+### <a id="archiveren"></a><i class="fa fa-hdd-o" aria-hidden="true"></i> Archiveren
 Ze zeggen dat als iets eenmaal online staat, je het nooit meer verwijderd krijgt. Zul je net zien dat wat jij gisteren hebt gevonden tijdens je onderzoek wèl is verdwenen. Daarom is het belangrijk om al je materiaal te archiveren. Hieronder vind je een aantal tools om dat voor elkaar te krijgen.
 
 ##### <a href="https://archive.ph/" target="_blank">Archive.today</a> | <mark>Website</mark>
