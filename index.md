@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Met deze **106** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **107** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
-**Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
+**Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Archiveren](#archiveren)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
 <hr>
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
@@ -391,6 +391,33 @@ Met PimEyes kun je zoeken op dezelfde persoon d.m.v. biometrische gelijkenissen.
 **[terug naar overzicht ⬆](#)**
 <hr>
 
+### <a id="archiveren"></a><i class="fa fa-check" aria-hidden="true"></i> Archiveren
+Ze zeggen dat als iets eenmaal online staat, je het nooit meer verwijderd krijgt. Zul je net zien dat wat jij gisteren hebt gevonden tijdens je onderzoek wèl is verdwenen. Daarom is het belangrijk om al je materiaal te archiveren. Hieronder vind je een aantal tools om dat voor elkaar te krijgen.
+
+##### <a href="https://archive.ph/" target="_blank">Archive.today</a> | <mark>Website</mark>
+<a href="https://archive.ph/" target="_blank">![](images/archivetoday.png)</a>
+Tijdens je onderzoek kom je online ongelooflijk vaak informatie tegen die op elk moment kan worden verwijderd. Daarom is het een goede gewoonte om die sites op te slaan met een archiveerdienst. [Archive.today](https://archive.ph/){:target="_blank"} is een van de beste diensten op dat gebied. Als alternatief kun je ook de [Wayback Machine](https://archive.org/web/){:target="_blank"} van Archive.org gebruiken. Tip: je kunt ook eerder opgeslagen versies van een website doorzoeken. En let op: deze diensten slaan geen video’s op.
+
+##### <a href="https://cachedview.nl/" target="_blank">CachedView</a> | <mark>Website</mark>
+<a href="https://cachedview.nl/" target="_blank">![](images/cachedview.png)</a>
+Via archiefdiensten kun je niet alleen websites opslaan, maar ook zoeken naar eerder opgeslagen versies van websites. Op Cachedview kun je via 6 verschillende diensten tegelijk zoeken en een screenshot van die website opvragen. Kan enorm veel tijd schelen.
+
+##### <a href="https://www.forensicosint.com/" target="_blank">Forensic OSINT</a> | <mark>Plugin</mark>
+<a href="https://www.forensicosint.com/" target="_blank">![](images/forensicosint.png)</a>
+Archiveren betekent ook heel veel screenshots maken. Dan wordt het al snel een onoverzichtelijke bende op je computer. Met deze Chrome-pluging Forensic OSINT kun je screenshots overzichtelijk in allerlei mappen verzamelen. Je bestanden worden ook nog eens automatisch aangevuld met datums, webadressen, etc. Het enige nadeel is dat je moet betalen voor sommige functies.
+
+
+##### <a href="https://getfireshot.com/" target="_blank">Fireshot</a> | <mark>Plugin</mark>
+<a href="https://getfireshot.com/" target="_blank">![](images/fireshot.png)</a>
+Een goed alternatief voor Forensic OSINT is de Fireshot plugin. Hiermee kun je screenshots maken van volledige webpagina’s. Handig als je een website wil archiveren of als beeldmateriaal nodig hebt. De website probeert je over te halen om de betaalde pro-versie te nemen, maar met de gratis plugin (voor praktisch elke browser beschikbaar) kom je ook al een heel eind.
+
+##### <a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">Video Screenshot</a> | <mark>Plugin</mark>
+<a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">![](images/videoscreenshot.png)</a>
+Op veel streamingsdiensten kun je geen screenshot maken. Superirritant als je dat beeld nodig hebt voor je onderzoek. Met deze plugin (alleen voor Chrome) krijg je op NPO Start, YouTube, Netflix, etc. een extra icoontje te zien waarmee je alsnog een screenshot kunt maken.
+
+**[terug naar overzicht ⬆](#)**
+<hr>
+
 ### <a id="data"></a><i class="fa fa-table" aria-hidden="true"></i> Data
 Datajournalistiek: het allermooiste beroep ter wereld (is mijn geheel objectieve, neutrale en ongekleurde mening). Hier vind je een aantal tools die je kunt gebruiken om next level te gaan.
 
@@ -557,21 +584,9 @@ Met WalletExplorer kun je snel overzicht krijgen in allerlei crypto-transacties.
 ### <a id="overig"></a><i class="fa fa-archive" aria-hidden="true"></i> Overig
 Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hieronder verzameld.
 
-##### <a href="https://archive.ph/" target="_blank">Archive.today</a> | <mark>Website</mark>
-<a href="https://archive.ph/" target="_blank">![](images/archivetoday.png)</a>
-Tijdens je onderzoek kom je online ongelooflijk vaak informatie tegen die op elk moment kan worden verwijderd. Daarom is het een goede gewoonte om die sites op te slaan met een archiveerdienst. [Archive.today](https://archive.ph/){:target="_blank"} is een van de beste diensten op dat gebied. Als alternatief kun je ook de [Wayback Machine](https://archive.org/web/){:target="_blank"} van Archive.org gebruiken. Tip: je kunt ook eerder opgeslagen versies van een website doorzoeken. En let op: deze diensten slaan geen video’s op.
-
-##### <a href="https://cachedview.nl/" target="_blank">CachedView</a> | <mark>Website</mark>
-<a href="https://cachedview.nl/" target="_blank">![](images/cachedview.png)</a>
-Via archiefdiensten kun je niet alleen websites opslaan, maar ook zoeken naar eerder opgeslagen versies van websites. Op Cachedview kun je via 6 verschillende diensten tegelijk zoeken en een screenshot van die website opvragen. Kan enorm veel tijd schelen.
-
 ##### <a href="https://www.diffchecker.com/" target="_blank">Diffchecker</a> | <mark>Website</mark>
 <a href="https://www.diffchecker.com/" target="_blank">![](images/diffchecker.png)</a>
 Zoek je de verschillen tussen twee teksten? Op Diffchecker kun je die teksten invoeren en zie je met handige kleuren waar de verschillen zijn. Voortaan weet je dus exact zien wat je eindredacteur heeft gewijzigd, of wat een ministerie heeft veranderd in de concept- en definitieve versie van een rapport. Werkt ook voor afbeeldingen en documenten.
-
-##### <a href="https://getfireshot.com/" target="_blank">Fireshot</a> | <mark>Plugin</mark>
-<a href="https://getfireshot.com/" target="_blank">![](images/fireshot.png)</a>
-Met de Fireshot plugin kun je screenshots maken van volledige webpagina’s. Handig als je een website wil archiveren of als beeldmateriaal nodig hebt. De website probeert je over te halen om de betaalde pro-versie te nemen, maar met de gratis plugin (voor praktisch elke browser beschikbaar) kom je ook al een heel eind.
 
 ##### <a href="https://www.notion.so" target="_blank">Notion</a> | <mark>Software</mark>
 <a href="https://www.notion.so" target="_blank">![](images/notion.png)</a>
@@ -592,10 +607,6 @@ Spiderfoot is een opensource casemanager voor OSINT-onderzoeken. Je kunt meerder
 ##### <a href="https://tinywow.com/" target="_blank">TinyWow</a> | <mark>Website</mark>
 <a href="https://tinywow.com/" target="_blank">![](images/tinywow.png)</a>
 Op TinyWow vind je meerdere kleine tools waarmee je bewerkingen kunt uitvoeren op documenten of bestanden. PDF’s samenvoegen, afbeeldingen converteren, video’s downloaden: je vindt het allemaal op deze site.
-
-##### <a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">Video Screenshot</a> | <mark>Plugin</mark>
-<a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">![](images/videoscreenshot.png)</a>
-Op veel streamingsdiensten kun je geen screenshot maken. Superirritant als je dat beeld nodig hebt voor je onderzoek. Met deze plugin (alleen voor Chrome) krijg je op NPO Start, YouTube, Netflix, etc. een extra icoontje te zien waarmee je alsnog een screenshot kunt maken.
 
 ##### <a href="https://woo-generator.nl/" target="_blank">Woo-generator</a> | <mark>Website</mark>
 <a href="https://woo-generator.nl/" target="_blank">![](images/woogenerator.png)</a>
