@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **107** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **108** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Archiveren](#archiveren)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -150,7 +150,7 @@ Facebook doet al jarenlang zijn best om allerlei ontwikkelde tools voor onderzoe
 
 ##### <a href="https://www.crowdtangle.com/" target="_blank">CrowdTangle</a> | <mark>Website</mark>
 <a href="https://www.crowdtangle.com/" target="_blank">![](images/crowdtangle.png)</a>
-Met CrowdTangle (een dienst die door Facebook zelf wordt beheerd) kun je naar openbare Facebook-berichten zoeken. Wat is trending? En zit daar mogelijk misinformatie tussen?
+Met CrowdTangle (een dienst die door Facebook zelf wordt beheerd) kun je naar openbare Facebook-berichten zoeken. Wat is trending? En zit daar mogelijk misinformatie tussen? Helaas sluit Meta deze service [op 14 augustus 2024](https://www.niemanlab.org/2024/03/a-window-into-facebook-closes-as-meta-sets-a-date-to-shut-down-crowdtangle/){:target="_blank"}.
 
 ##### <a href="https://github.com/n0kovo/fb_friend_list_scraper" target="_blank">Facebook Friend List Scraper</a> | <mark>Scraper</mark>
 <a href="https://github.com/n0kovo/fb_friend_list_scraper" target="_blank">![](images/fbfriendlistscraper.png)</a>
@@ -356,7 +356,11 @@ Hoeveel lijken twee gezichten op elkaar? Handig als je een persoon zoekt en twee
 
 ##### <a href="https://facecheck.id/" target="_blank">Facecheck.id</a> | <mark>Website</mark>
 <a href="https://facecheck.id/" target="_blank">![](images/facecheckid.png)</a>
-Facecheck.id zoekt met gezichtherkenning waar een persoon nog meer voorkomt.
+Facecheck.id zoekt met gezichtherkenning waar een persoon nog meer voorkomt. Helaas moet je sinds 1 maart 2024 betalen voor deze service (maar je krijgt wel 5 gratis searches).
+
+##### <a href="https://geospy.web.app/" target="_blank">Geospy</a> | <mark>Website</mark>
+<a href="https://geospy.web.app/" target="_blank">![](images/geospy.png)</a>
+Voordat je urenlang op Google Maps gaat rondspeuren om de exacte locatie van een foto te verifiëren, kun je een snelle zoektocht doen met Geospy. Deze site kijkt naar de unieke contouren en gebouwen op je afbeelding en zoekt door talloze services om je (inclusief een onzekerheidsmarge) de coördinaten te geven.
 
 ##### <a href="https://toolbox.google.com/factcheck/explorer" target="_blank">Google Factcheck Explorer</a> | <mark>Website</mark>
 <a href="https://toolbox.google.com/factcheck/explorer" target="_blank">![](images/factcheckexplorer.png)</a>
