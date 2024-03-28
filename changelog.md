@@ -38,3 +38,14 @@
 
 - Nieuwe sectie genaamd Archiveren
 - Forensic OSINT
+
+## 1.2.1 (2024-03-28)
+
+### Gewijzigd
+
+- Facecheck.ID is nu een betaalde service
+- Crowdtangle sluit op 14 augustus 2024
+
+### Toegevoegd
+
+- Geospy
