@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **108** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **110** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Archiveren](#archiveren)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -588,6 +588,10 @@ Met WalletExplorer kun je snel overzicht krijgen in allerlei crypto-transacties.
 ### <a id="overig"></a><i class="fa fa-archive" aria-hidden="true"></i> Overig
 Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hieronder verzameld.
 
+##### <a href="https://bron.live/" target="_blank">Bron.live</a> | <mark>Website</mark>
+<a href="https://bron.live/" target="_blank">![](images/bron.live.png)</a>
+De Nederlandse overheid en toegankelijke informatie: het zou vanzelfsprekend moeten zijn, maar dat is het helaas niet. Zodra je documenten zoekt over een specifiek onderwerp, dan bgaat het je never nooit lukken met de officiële websites (of het zit ergens verstopt, zoals je iets verderop leest). Gelukkig worden er wel diensten zoals Bron.live aangeboden. Hier kun je zoeken op verschillende plekken en mailalerts aanmaken.
+
 ##### <a href="https://www.diffchecker.com/" target="_blank">Diffchecker</a> | <mark>Website</mark>
 <a href="https://www.diffchecker.com/" target="_blank">![](images/diffchecker.png)</a>
 Zoek je de verschillen tussen twee teksten? Op Diffchecker kun je die teksten invoeren en zie je met handige kleuren waar de verschillen zijn. Voortaan weet je dus exact zien wat je eindredacteur heeft gewijzigd, of wat een ministerie heeft veranderd in de concept- en definitieve versie van een rapport. Werkt ook voor afbeeldingen en documenten.
@@ -611,6 +615,10 @@ Spiderfoot is een opensource casemanager voor OSINT-onderzoeken. Je kunt meerder
 ##### <a href="https://tinywow.com/" target="_blank">TinyWow</a> | <mark>Website</mark>
 <a href="https://tinywow.com/" target="_blank">![](images/tinywow.png)</a>
 Op TinyWow vind je meerdere kleine tools waarmee je bewerkingen kunt uitvoeren op documenten of bestanden. PDF’s samenvoegen, afbeeldingen converteren, video’s downloaden: je vindt het allemaal op deze site.
+
+##### <a href="https://www.tweedekamer.nl/zoeken" target="_blank">Tweedekamer.nl mailalerts</a> | <mark>Website</mark>
+<a href="https://www.tweedekamer.nl/zoeken" target="_blank">![](images/tweedekamermail.png)</a>
+Wanneer wordt jouw onderwerp, redactie of andere zoekterm genoemd in de Tweede Kamer? Ik heb hier echt superlang naar zitten zoeken. En wat blijkt: het is gewoon al beschikbaar (maar enorm verstopt) op de website van de Tweede Kamer. Zodra je een zoekterm hebt ingevoerd in het zoekveld, kun je op het tweede icoontje klikken naast Delen. Et voilà, een pop-up verschijnt en je kunt een mailalert instellen.
 
 ##### <a href="https://woo-generator.nl/" target="_blank">Woo-generator</a> | <mark>Website</mark>
 <a href="https://woo-generator.nl/" target="_blank">![](images/woogenerator.png)</a>

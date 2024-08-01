@@ -49,3 +49,10 @@
 ### Toegevoegd
 
 - Geospy
+
+## 1.2.2 (2024-08-01)
+
+## Toegevoegd
+
+- Bron.live (tip van Charlotte Kroese)
+- Tweedekamer.nl mailalerts (tip van Marlies van de Meent)
