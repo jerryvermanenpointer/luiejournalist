@@ -56,3 +56,9 @@
 
 - Bron.live (tip van Charlotte Kroese)
 - Tweedekamer.nl mailalerts (tip van Marlies van de Meent)
+
+## 1.2.3 (2024-08-16)
+
+## Verwijderd
+
+- CrowdTangle (niet meer actief)
