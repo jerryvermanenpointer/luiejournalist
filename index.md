@@ -148,10 +148,6 @@ Grote kans dat elk online onderzoek op een gegeven moment uitkomt bij een sociaa
 #### <a id="fb"></a>Facebook
 Facebook doet al jarenlang zijn best om allerlei ontwikkelde tools voor onderzoekers en journalisten onbruikbaar te maken. Ondanks dat zijn er genoeg mogelijkheden om de stroom aan mis- en desinformatie op deze site te onderzoeken.
 
-##### <a href="https://www.crowdtangle.com/" target="_blank">CrowdTangle</a> | <mark>Website</mark>
-<a href="https://www.crowdtangle.com/" target="_blank">![](images/crowdtangle.png)</a>
-Met CrowdTangle (een dienst die door Facebook zelf wordt beheerd) kun je naar openbare Facebook-berichten zoeken. Wat is trending? En zit daar mogelijk misinformatie tussen? Helaas sluit Meta deze service [op 14 augustus 2024](https://www.niemanlab.org/2024/03/a-window-into-facebook-closes-as-meta-sets-a-date-to-shut-down-crowdtangle/){:target="_blank"}.
-
 ##### <a href="https://github.com/n0kovo/fb_friend_list_scraper" target="_blank">Facebook Friend List Scraper</a> | <mark>Scraper</mark>
 <a href="https://github.com/n0kovo/fb_friend_list_scraper" target="_blank">![](images/fbfriendlistscraper.png)</a>
 Met de FB Friend List Scraper kun je de vrienden van openbare Facebookprofielen scrapen.
