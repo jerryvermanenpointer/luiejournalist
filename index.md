@@ -65,6 +65,10 @@ Met PhoneInfoga kun je opzoeken of een telefoonnummer bestaat en welke basisgege
 <a href="https://github.com/jakecreps/poastal" target="_blank">![](images/poastal.png)</a>
 Met Poastal lanceer je een zoekmachine in je browser waarmee je kunt uitzoeken of een mailadres geregistreerd staat bij specifieke sociale media. Daarnaast kun je uitzoeken of een mailadres überhaupt bestaat, mail kan ontvangen en bekendstaat als spam.
 
+##### <a href="https://temp-mail.org/" target="_blank">Temp Mail</a> | <mark>Website</mark>
+<a href="https://temp-mail.org/" target="_blank">![](images/tempmail.png)</a>
+Voor sommige researchklussen wil je niet je echte mailadres gebruiken. Je moet een verificatiecode krijgen voor een dubieuze site of moet snel een anonieme mail sturen. Kijk dan zeker even naar Temp Mail. Op deze site kun je tijdelijke mailadressen genereren. Ze bieden ook een service aan genaamd Temp Number voor een telefoonnummer, maar die kost geld.
+
 **[terug naar overzicht ⬆](#)**
 <hr>
 
@@ -588,6 +592,10 @@ Alle tools die niet netjes in een van bovenstaande hokjes passen, heb ik hierond
 <a href="https://bron.live/" target="_blank">![](images/bron.live.png)</a>
 De Nederlandse overheid en toegankelijke informatie: het zou vanzelfsprekend moeten zijn, maar dat is het helaas niet. Zodra je documenten zoekt over een specifiek onderwerp, dan bgaat het je never nooit lukken met de officiële websites (of het zit ergens verstopt, zoals je iets verderop leest). Gelukkig worden er wel diensten zoals Bron.live aangeboden. Hier kun je zoeken op verschillende plekken en mailalerts aanmaken.
 
+##### <a href="https://convertio.co/" target="_blank">Convertio</a> | <mark>Website</mark>
+<a href="https://convertio.co/" target="_blank">![](images/convertio.png)</a>
+Je hebt een XLS-bestand nodig, maar ontvangt een ODS: het tragische leven van een datajournalist in een notendop. Met Convertio kun je gelukkig veel bestanden van het ene naar het andere type overzetten. En de bestandslimiet is 100MB. Dat scheelt toch weer een berg stress.
+
 ##### <a href="https://www.diffchecker.com/" target="_blank">Diffchecker</a> | <mark>Website</mark>
 <a href="https://www.diffchecker.com/" target="_blank">![](images/diffchecker.png)</a>
 Zoek je de verschillen tussen twee teksten? Op Diffchecker kun je die teksten invoeren en zie je met handige kleuren waar de verschillen zijn. Voortaan weet je dus exact zien wat je eindredacteur heeft gewijzigd, of wat een ministerie heeft veranderd in de concept- en definitieve versie van een rapport. Werkt ook voor afbeeldingen en documenten.
@@ -611,10 +619,6 @@ Spiderfoot is een opensource casemanager voor OSINT-onderzoeken. Je kunt meerder
 ##### <a href="https://tinywow.com/" target="_blank">TinyWow</a> | <mark>Website</mark>
 <a href="https://tinywow.com/" target="_blank">![](images/tinywow.png)</a>
 Op TinyWow vind je meerdere kleine tools waarmee je bewerkingen kunt uitvoeren op documenten of bestanden. PDF’s samenvoegen, afbeeldingen converteren, video’s downloaden: je vindt het allemaal op deze site.
-
-##### <a href="https://www.tweedekamer.nl/zoeken" target="_blank">Tweedekamer.nl mailalerts</a> | <mark>Website</mark>
-<a href="https://www.tweedekamer.nl/zoeken" target="_blank">![](images/tweedekamermail.png)</a>
-Wanneer wordt jouw onderwerp, redactie of andere zoekterm genoemd in de Tweede Kamer? Ik heb hier echt superlang naar zitten zoeken. En wat blijkt: het is gewoon al beschikbaar (maar enorm verstopt) op de website van de Tweede Kamer. Zodra je een zoekterm hebt ingevoerd in het zoekveld, kun je op het tweede icoontje klikken naast Delen. Et voilà, een pop-up verschijnt en je kunt een mailalert instellen.
 
 ##### <a href="https://woo-generator.nl/" target="_blank">Woo-generator</a> | <mark>Website</mark>
 <a href="https://woo-generator.nl/" target="_blank">![](images/woogenerator.png)</a>

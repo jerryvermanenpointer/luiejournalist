@@ -62,3 +62,12 @@
 ## Verwijderd
 
 - CrowdTangle (niet meer actief)
+
+## 1.2.4 (2024-11-22)
+
+### Toegevoegd
+- Convertio
+- Temp Mail
+
+### Verwijderd
+- Mailalerts Tweedekamer.nl (werkt niet meer)
