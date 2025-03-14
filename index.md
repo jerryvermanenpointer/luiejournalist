@@ -320,7 +320,7 @@ Zoek in 100 duizenden gelekte extremistische Discord-gesprekken.
 **[terug naar overzicht ⬆](#)**
 
 #### <a id="bluesky"></a>Bluesky
-Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd. Er zijn nog niet enorm veel nuttige en gratis tools ontwikkeld voor dit platform.
+Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd.
 
 ##### <a href="https://bsvdl.fly.dev/" target="_blank">Bluesky Video Downloader</a> | <mark>Website</mark>
 <a href="https://bsvdl.fly.dev/" target="_blank">![](images/blueskyvideodownloader.png)</a>
