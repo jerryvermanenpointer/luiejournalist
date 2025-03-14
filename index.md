@@ -368,6 +368,10 @@ Hoeveel lijken twee gezichten op elkaar? Handig als je een persoon zoekt en twee
 <a href="https://facecheck.id/" target="_blank">![](images/facecheckid.png)</a>
 Facecheck.id zoekt met gezichtherkenning waar een persoon nog meer voorkomt. Helaas moet je sinds 1 maart 2024 betalen voor deze service (maar je krijgt wel 5 gratis searches).
 
+##### <a href="https://www.findthatspot.io/" target="_blank">Find That Spot</a> | <mark>Website</mark>
+<a href="https://www.findthatspot.io/" target="_blank">![](images/findthatspot.png)</a>
+Moet je een exacte locatie vinden, maar voel je je ook een beetje lui? Gebruik dan Find That Spot. Omschrijf welke locatie je probeert te zoeken via de chatbot, en Find That Spot gaat vervolgens voor je zoeken naar locaties die aan deze beschrijving voldoen
+
 ##### <a href="https://geospy.web.app/" target="_blank">Geospy</a> | <mark>Website</mark>
 <a href="https://geospy.web.app/" target="_blank">![](images/geospy.png)</a>
 Voordat je urenlang op Google Maps gaat rondspeuren om de exacte locatie van een foto te verifiëren, kun je een snelle zoektocht doen met Geospy. Deze site kijkt naar de unieke contouren en gebouwen op je afbeelding en zoekt door talloze services om je (inclusief een onzekerheidsmarge) de coördinaten te geven.
@@ -375,10 +379,6 @@ Voordat je urenlang op Google Maps gaat rondspeuren om de exacte locatie van een
 ##### <a href="https://toolbox.google.com/factcheck/explorer" target="_blank">Google Factcheck Explorer</a> | <mark>Website</mark>
 <a href="https://toolbox.google.com/factcheck/explorer" target="_blank">![](images/factcheckexplorer.png)</a>
 Dagelijks zijn duizenden factcheckers bezig om afbeeldingen en artikelen te controleren. Dus zodra je iets moet verifiëren, dan kun je het beste eerst even in de Google Factcheck Explorer rondzoeken. Grote kans dat iemand je al is voorgeweest. <a href="https://blog.google/products/search/google-search-new-fact-checking-features/" target="_blank">Op deze pagina van Google</a> vind je overigens nog meer manieren waarop je kunt checken of een foto is gemanipuleerd.
-
-##### <a href="https://www.findthatspot.io/" target="_blank">Find That Spot</a> | <mark>Website</mark>
-<a href="https://www.findthatspot.io/" target="_blank">![](images/findthatspot.png)</a>
-Moet je een exacte locatie vinden, maar voel je je ook een beetje lui? Gebruik dan Find That Spot. Omschrijf welke locatie je probeert te zoeken via de chatbot, en Find That Spot gaat vervolgens voor je zoeken naar locaties die aan deze beschrijving voldoen
 
 ##### <a href="https://mever.iti.gr/forensics/" target="_blank">Image Verification Assistant</a> | <mark>Website</mark>
 <a href="https://mever.iti.gr/forensics/" target="_blank">![](images/imageverificationassistant.png)</a>
