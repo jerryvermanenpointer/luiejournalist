@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Met deze **110** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **113** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
-**Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Bluesky](#bluesky)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Archiveren](#archiveren)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
+**Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[Bluesky](#bluesky)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Archiveren](#archiveren)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
 <hr>
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
@@ -18,6 +18,10 @@ layout: default
 
 ### <a id="zoekmachines"></a><i class="fa fa-search" aria-hidden="true"></i> Zoekmachines
 Je bent natuurlijk allang bekend met alle grote zoekmachines, zoals [Google](https://www.google.com/){:target="_blank"}, [Bing](https://www.bing.com/){:target="_blank"}, <a href="https://yandex.com/" target="_blank">Yandex</a> en <a href="https://duckduckgo.com/" target="_blank">DuckDuckGo</a>. Met onderstaande gespecialiseerde zoekmachines kun je nog dieper in het web duiken.
+
+##### <a href="https://www.delpher.nl/" target="_blank">Delpher</a> | <mark>Website</mark>
+<a href="https://www.delpher.nl/" target="_blank">![](/images/delpher.png)</a>
+Ruim twee miljoen kranten van 1618 tot 1995, en honderdduizenden boeken en tijdschriften: eigenlijk moet zoeken in Delpher in de meeste onderzoeken je allereerste stap zijn. Ik heb al zo vaak toffe vondsten gedaan in dit archief.
 
 ##### <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">E-justice Business Register</a> | <mark>Website</mark>
 <a href="https://e-justice.europa.eu/content_find_a_company-489-en.do" target="_blank">![](/images/ejustice.png)</a>
@@ -105,17 +109,9 @@ Met Blacklight van <a href="https://themarkup.org/" target="_blank">The Markup</
 <a href="https://builtwith.com/" target="_blank">![](images/buildwith.png)</a>
 Met BuildWith kun je snel checken wat de onderliggende techniek van een website is.
 
-##### <a href="https://carbondate.cs.odu.edu/" target="_blank">Carbon Dating The Web</a> | <mark>Website</mark>
-<a href="https://carbondate.cs.odu.edu/" target="_blank">![](images/carbondatingtheweb.png)</a>
-Carbon Dating The Web is een website waarmee je een redelijke schatting kunt maken wanneer een website is gemaakt.
-
 ##### <a href="https://dnslytics.com/" target="_blank">DNSlytics</a> | <mark>Website</mark>
 <a href="https://dnslytics.com/" target="_blank">![](images/dnslytics.png)</a>
 Met DNSlytics kun je snel een overzicht krijgen van alle kenmerken van een website: IP, servers, mailservers, redirects, etc.
-
-##### <a href="http://spyonweb.com/" target="_blank">SpyOnWeb</a> | <mark>Website</mark>
-<a href="http://spyonweb.com/" target="_blank">![](images/spyonweb.png)</a>
-Met SpyOnWeb kun je zien welke tracking codes (advertenties bijvoorbeeld) een website gebruikt, en welke sites je daarmee aan elkaar kunt linken.
 
 ##### <a href="https://viewdns.info/" target="_blank">ViewDNS</a> | <mark>Website</mark>
 <a href="https://viewdns.info/" target="_blank">![](images/viewdns.png)</a>
@@ -254,9 +250,9 @@ Met dit script kun je de transcripten (inclusief vertalingen) van YouTube-video�
 <a href="https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj/related" target="_blank">![](images/youtubewordsearcher.png)</a>
 Met deze Chrome plugin kun je zoeken naar specifieke woorden in een YouTube-video. Je kunt gelijk naar de tijdcode scrollen waarop dat woord wordt gezegd. Werkt alleen zodra er een ondertitelbestand is toegevoegd aan de video.
 
-##### <a href="https://github.com/ytdl-org/youtube-dl" target="_blank">YouTube-dl</a> | <mark>Scraper</mark>
-<a href="https://github.com/ytdl-org/youtube-dl" target="_blank">![](images/youtubedl.png)</a>
-Met YouTube-dl kun je binnen no-time via de terminal YouTube-video’s downloaden.
+##### <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">YouTube-dlp</a> | <mark>Scraper</mark>
+<a href="https://github.com/yt-dlp/yt-dlp" target="_blank">![](images/ytdlp.png)</a>
+Met YouTube-dlp kun je binnen no-time via de terminal YouTube-video’s (en beeldmateriaal van talloze andere websites) downloaden.
 
 **[terug naar overzicht ⬆](#)**
 
@@ -323,6 +319,23 @@ Zoek in 100 duizenden gelekte extremistische Discord-gesprekken.
 
 **[terug naar overzicht ⬆](#)**
 
+#### <a id="bluesky"></a>Bluesky
+Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd. Er zijn nog niet enorm veel nuttige en gratis tools ontwikkeld voor dit platform.
+
+##### <a href="https://bsvdl.fly.dev/" target="_blank">Bluesky Video Downloader</a> | <mark>Website</mark>
+<a href="https://bsvdl.fly.dev/" target="_blank">![](images/blueskyvideodownloader.png)</a>
+Download video's die je op Bluesky bent tegengekomen.
+
+##### <a href="https://deck.blue/" target="_blank">Deck Blue</a> | <mark>Website</mark>
+<a href="https://deck.blue/" target="_blank">![](images/deckblue.png)</a>
+Met Deck Blue kun je al je mentions, lijsten en zoektermen in meerdere kolommen volgen.
+
+##### <a href="https://twexit.nl/profile/" target="_blank">Twexit for Bluesky</a> | <mark>Website</mark>
+<a href="https://twexit.nl/profile/" target="_blank">![](images/twexit.png)</a>
+Beetje verwarrende naam, maar op deze site kun je snel wat statistieken voor Bluesky-profielen bekijken.
+
+**[terug naar overzicht ⬆](#)**
+
 Voor de onderstaande sociale media zijn tools onbruikbaar geworden of nog niet ontwikkeld. Heb je toch data nodig van deze websites? Mogelijk vind je nog iets nuttigs in de sectie <a href="https://luiejournalist.nl/#verzamelen" target="_blank">Data Verzamelen</a>.
 
 #### <a id="twitter"></a>X (voorheen Twitter)
@@ -333,9 +346,6 @@ Ooit begonnen als online CV-site, momenteel een slappe feed vol 'inspirerende' e
 
 #### <a id="mastodon"></a>Mastodon
 Een Mastodon-account maken is een intens twijfelachtig proces: begrijp maar eens op welke server je je moet aanmelden. Vervolgens kom je op een platform waar - voor zover ik weet - nog geen nuttige tools voor zijn ontwikkeld.
-
-#### <a id="bluesky"></a>Bluesky
-Op Bluesky ervaar je het Twitter-gevoel voordat Twitter een platform voor misinformatie, extremisten en blaaskaken werd. Voor zover ik weet, zijn er nog geen tools voor Bluesky ontwikkeld.
 
 #### <a id="threads"></a>Threads
 Mark Zuckerberg heeft een nieuwe manier gevonden waarmee hij democratieën wil ondermijnen: Threads. Op dit moment is het nog gezellig en vriendelijk op deze Twitter-kloon, maar zoals alle sociale media is het slechts een kwestie van tijd voordat het he-le-maal misgaat. Op dit moment ken ik nog geen goede tools om Threads te onderzoeken.
@@ -365,6 +375,10 @@ Voordat je urenlang op Google Maps gaat rondspeuren om de exacte locatie van een
 ##### <a href="https://toolbox.google.com/factcheck/explorer" target="_blank">Google Factcheck Explorer</a> | <mark>Website</mark>
 <a href="https://toolbox.google.com/factcheck/explorer" target="_blank">![](images/factcheckexplorer.png)</a>
 Dagelijks zijn duizenden factcheckers bezig om afbeeldingen en artikelen te controleren. Dus zodra je iets moet verifiëren, dan kun je het beste eerst even in de Google Factcheck Explorer rondzoeken. Grote kans dat iemand je al is voorgeweest. <a href="https://blog.google/products/search/google-search-new-fact-checking-features/" target="_blank">Op deze pagina van Google</a> vind je overigens nog meer manieren waarop je kunt checken of een foto is gemanipuleerd.
+
+##### <a href="https://www.findthatspot.io/" target="_blank">Find That Spot</a> | <mark>Website</mark>
+<a href="https://www.findthatspot.io/" target="_blank">![](images/findthatspot.png)</a>
+Moet je een exacte locatie vinden, maar voel je je ook een beetje lui? Gebruik dan Find That Spot. Omschrijf welke locatie je probeert te zoeken via de chatbot, en Find That Spot gaat vervolgens voor je zoeken naar locaties die aan deze beschrijving voldoen
 
 ##### <a href="https://mever.iti.gr/forensics/" target="_blank">Image Verification Assistant</a> | <mark>Website</mark>
 <a href="https://mever.iti.gr/forensics/" target="_blank">![](images/imageverificationassistant.png)</a>
@@ -410,7 +424,6 @@ Via archiefdiensten kun je niet alleen websites opslaan, maar ook zoeken naar ee
 <a href="https://www.forensicosint.com/" target="_blank">![](images/forensicosint.png)</a>
 Archiveren betekent ook heel veel screenshots maken. Dan wordt het al snel een onoverzichtelijke bende op je computer. Met deze Chrome-pluging Forensic OSINT kun je screenshots overzichtelijk in allerlei mappen verzamelen. Je bestanden worden ook nog eens automatisch aangevuld met datums, webadressen, etc. Het enige nadeel is dat je moet betalen voor sommige functies.
 
-
 ##### <a href="https://getfireshot.com/" target="_blank">Fireshot</a> | <mark>Plugin</mark>
 <a href="https://getfireshot.com/" target="_blank">![](images/fireshot.png)</a>
 Een goed alternatief voor Forensic OSINT is de Fireshot plugin. Hiermee kun je screenshots maken van volledige webpagina’s. Handig als je een website wil archiveren of als beeldmateriaal nodig hebt. De website probeert je over te halen om de betaalde pro-versie te nemen, maar met de gratis plugin (voor praktisch elke browser beschikbaar) kom je ook al een heel eind.
@@ -418,6 +431,10 @@ Een goed alternatief voor Forensic OSINT is de Fireshot plugin. Hiermee kun je s
 ##### <a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">Video Screenshot</a> | <mark>Plugin</mark>
 <a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">![](images/videoscreenshot.png)</a>
 Op veel streamingsdiensten kun je geen screenshot maken. Superirritant als je dat beeld nodig hebt voor je onderzoek. Met deze plugin (alleen voor Chrome) krijg je op NPO Start, YouTube, Netflix, etc. een extra icoontje te zien waarmee je alsnog een screenshot kunt maken.
+
+##### <a href="https://archive.org/services/wayback-gsheets/" target="_blank">Wayback Machine + Google Sheets</a> | <mark>Website</mark>
+<a href="https://archive.org/services/wayback-gsheets/" target="_blank">![](images/waybacksheets.png)</a>
+Een van de meest tijdrovende klussen is wanneer je honderden (zo niet duizenden) url's in de Wayback Machine wil opslaan. Dat kun je stuk voor stuk doen, maar je kunt ook overwegen om Wayback Machine en Google Sheets te combineren. Via deze module kun je alle url's in je Google Sheets opslaan: je spreadsheet wordt gelijk uitgebreid met de archieflink en eventuele foutmeldingen. 
 
 **[terug naar overzicht ⬆](#)**
 <hr>

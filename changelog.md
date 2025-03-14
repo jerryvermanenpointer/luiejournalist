@@ -71,3 +71,20 @@
 
 ### Verwijderd
 - Mailalerts Tweedekamer.nl (werkt niet meer)
+
+##1.3 (2025-03-14)
+
+### Toegevoegd
+- Bluesky Video Downloader
+- Deck Blue
+- Delpher
+- Find That Spot
+- Twexit for Bluesky
+- Wayback Machine + Google Sheets
+
+### Gewijzigd
+- yt-dl is inactief, dus vervangen door yt-dlp
+
+### Verwijderd
+- Carbon Date The Web zit nu achter een login
+- Spy On Web werkt niet meer
