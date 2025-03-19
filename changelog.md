@@ -72,7 +72,7 @@
 ### Verwijderd
 - Mailalerts Tweedekamer.nl (werkt niet meer)
 
-##1.3 (2025-03-14)
+## 1.3 (2025-03-14)
 
 ### Toegevoegd
 - Bluesky Video Downloader
@@ -88,3 +88,8 @@
 ### Verwijderd
 - Carbon Date The Web zit nu achter een login
 - Spy On Web werkt niet meer
+
+## 1.3.1 (2025-03-19)
+
+## Gewijzigd
+- MacWhisper heeft nu sprekersherkenning

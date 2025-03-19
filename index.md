@@ -551,7 +551,7 @@ Met Lobe.ai kun je kunstmatige intelligentie trainen om beeldmateriaal te herken
 
 ##### <a href="http://www.macwhisper.com/" target="_blank">MacWhisper</a> | <mark>Software</mark>
 <a href="http://www.macwhisper.com/" target="_blank">![](images/whisper.png)</a>
-Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audiobestanden, inclusief tijdcodes. Alle data blijft op je lokale machine staan. Helaas (nog) geen automatische sprekersherkenning. Ik raad aan om de Pro-versie voor 29 euro te nemen: de taalmodellen die hierin worden gebruikt zijn nagenoeg foutloos. Journalisten kunnen 50 procent korting krijgen. [Ga naar de site](http://www.macwhisper.com/){:target="_blank"} en vermeld kortingscode <code>LUIEJOURNALIST</code> bij het afrekenen.
+Met MacWhisper (voor Macbooks) kun je hele goede transcripties maken van je audiobestanden, inclusief tijdcodes. Alle data blijft op je lokale machine staan. En sinds kort kun je via de zogeheten Whisperkit-taalmodellen ook sprekersherkenning gebruiken. Ik raad aan om de Pro-versie voor 29 euro te nemen: de taalmodellen die hierin worden gebruikt zijn nagenoeg foutloos. Journalisten kunnen 50 procent korting krijgen. [Ga naar de site](http://www.macwhisper.com/){:target="_blank"} en vermeld kortingscode <code>LUIEJOURNALIST</code> bij het afrekenen.
 
 ##### <a href="https://www.midjourney.com" target="_blank">Midjourney</a> | <mark>Website</mark>
 <a href="https://www.midjourney.com" target="_blank">![](images/midjourney.png)</a>
