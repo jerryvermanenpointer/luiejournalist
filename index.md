@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **113** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **116** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[Bluesky](#bluesky)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Archiveren](#archiveren)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
@@ -214,6 +214,10 @@ Met deze Chrome-plugin kun je de volledige geschiedenis van een kanaal of groep 
 <a href="https://gist.github.com/fabledowl/8c8db5858e096866c42dfa114034f0f2/raw/getUsers.user.js" target="_blank">![](images/tampermonkey.png)</a>
 <a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey</a> is een browser-plugin waarin je zelf code kunt toevoegen nieuwe functionaliteit in je browser mogelijk te maken. <a href="https://gist.github.com/fabledowl/8c8db5858e096866c42dfa114034f0f2/raw/getUsers.user.js
 " target="_blank">En met dit script</a> krijg je voor de webversie van Telegram een downloadknop om de leden van Telegram-groepen en -kanalen te downloaden. Hiervoor moet je wel in de oude versie van Telegram werken. Om dat te doen, voeg je <code>?legacy=1</code> achter de url web.telegram.org.
+
+##### <a href="https://github.com/unnohwn/telegram-scraper" target="_blank">Telegram Group Scraper</a> | <mark>Scraper</mark>
+<a href="https://github.com/unnohwn/telegram-scraper" target="_blank">![](images/tgs.png)</a>
+Heeft aardig wat setup nodig (let er vooral op dat je het exacte ID-nummer invoert van de Telegram-groepen), maar het eenmaal werkt kun je alle groepen scrapen die je wil. Het mooiste is dat je een continue scrape kunt aanzetten:  elk nieuwe bericht wordt dan direct binnengehaald.
 
 ##### Telegram zoekmachines | <mark>Website</mark>
 <a href="" target="_blank">![](images/tgstat.png)</a>
@@ -569,11 +573,19 @@ Met RemoveBG (lees: Remove Background) kun je snel en eenvoudig de achtergrond v
 <a href="https://www.simonsaysai.com" target="_blank">![](images/simonsays.png)</a>
 Een van de beste manieren om beeldmateriaal mee te transcriberen. Je transcript wordt ook nog eens met het beeld gesynchroniseerd. Je kunt zelfs ruwe montages maken als je de getranscribeerde tekst gaat editten. Je krijgt gratis credits om beeldmateriaal te transcriberen, maar die zijn snel op.
 
+##### <a href="https://teachablemachine.withgoogle.com/" target="_blank">Teachable Machine</a> | <mark>Website</mark>
+<a href="https://teachablemachine.withgoogle.com/" target="_blank">![](images/teachablemachine.png)</a>
+Als je geen zin hebt om in code te gaan rondklooien (zoals bij Lobe.ai), dan is Teachable Machine wellicht iets voor je. Hiermee kun je relatief snel via een web-interface een model trainen om afbeeldingen te herkennen. Werkt verrassend goed, alleen wordt het ingewikkeld en traag zodra je duizenden afbeeldingen wil gaan classificeren.
+
 **[terug naar overzicht ⬆](#)**
 <hr>
 
 ### <a id="crypto"></a><i class="fa fa-btc" aria-hidden="true"></i> Crypto
 Ah, de toekomst van ons betalingsverkeer: gedecentraliseerd, gepseudonimiseerd en encrypted. En vooral gebruikt door crypto-bro’s en georganiseerde misdaad. Daarom zijn onderstaande tools handig om zulke dubieuze transacties inzichtelijk te maken.
+
+##### <a href="https://www.bitcoinwhoswho.com/" target="_blank">BitcoinWhosWho</a> | <mark>Website</mark>
+<a href="https://www.bitcoinwhoswho.com/" target="_blank">![](images/bitcoinwhoswho.png)</a>
+Op BitcoinWhoswho kun je checken of een wallet of transactie bekend staat als dubieus.
 
 ##### <a href="https://live.blockcypher.com/" target="_blank">Blockcypher</a> | <mark>Website</mark>
 <a href="https://live.blockcypher.com/" target="_blank">![](images/blockcypher.png)</a>
@@ -664,7 +676,6 @@ Op dit moment ontbreken nog een aantal nuttige tools, zoals:
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper en zoektools voor Mastodon</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper en zoektools voor LinkedIn</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een scraper en zoektools voor Threads</li>
-  <li><i class="fa fa-square-o" aria-hidden="true"></i> Een goede scraper voor Telegram</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een profielscraper voor Tiktok</li>
   <li><i class="fa fa-square-o" aria-hidden="true"></i> Een lijst met nuttige prompts in ChatGPT voor journalisten</li>
 </ul>

@@ -91,5 +91,12 @@
 
 ## 1.3.1 (2025-03-19)
 
-## Gewijzigd
+### Gewijzigd
 - MacWhisper heeft nu sprekersherkenning
+
+## 1.3.2 (2025-07-29)
+
+### Toegevoegd
+- Telegram Group Scraper
+- BitcoinWhosWho
+- Teachable Machine
