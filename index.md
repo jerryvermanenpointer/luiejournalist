@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Met deze **116** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **121** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
-**Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[Bluesky](#bluesky)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Archiveren](#archiveren)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)**
+**Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[Bluesky](#bluesky)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Archiveren](#archiveren)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)** • **[Tutorials](#tutorials)**
 <hr>
 
 *"Ken je nog een tooltje voor...", is een van de meest gestelde vragen onder journalisten, onderzoekers en iedereen die nieuwsgierig is. Iedereen wil <mark>meer, beter en efficiënter</mark> onderzoek doen. Eigenlijk moet je jezelf de vraag stellen: "Hoe kan ik een luie journalist worden?"*
@@ -48,6 +48,10 @@ Het startpunt van veel online onderzoeken: een anoniem mailadres of telefoonnumm
 ##### <a href="https://epieos.com/" target="_blank">Epieos</a> | <mark>Website</mark>
 <a href="https://epieos.com/" target="_blank">![](images/epieos.png)</a>
 Op Epieos kun je checken waar specifieke telefoonnummers en mailadressen worden gebruikt. Vooral handig als je een Google-accounts wil onderzoeken. Een groot deel van de tools zit verborgen achter een betaalde versie, maar via de gratis optie vind je ook veel aanknopingspunten.
+
+##### <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPwned</a> | <mark>Website</mark>
+<a href="https://haveibeenpwned.com/" target="_blank">![](images/haveibeenpwned.png)</a>
+Mogelijk ken je HaveIBeenPwned al omdat je jouw eigen mailadres er wel eens in hebt gegooid: je krijgt dan gelijk te zien in welke datalekken jouw gegevens staan. Maar denk eens andersom: je kunt er dus ook mee checken of andere mailadressen erin staan. En als het mailadres van jouw target in een datalek van een paar jaar geleden staat, dan is het waarschijnlijk geen wegwerp-mailadres (en kun je er misschien veel andere leads uit halen).
 
 ##### <a href="https://github.com/megadose/holehe" target="_blank">Holehe</a> | <mark>Script</mark>
 <a href="https://github.com/megadose/holehe" target="_blank">![](images/holehe.png)</a>
@@ -234,9 +238,9 @@ Op deze sites kun je door gearchiveerde Telegram-groepen en -kanalen zoeken. Han
 #### <a id="youtube"></a>YouTube
 Ooit, lang geleden, was YouTube nog een site waar korte vlogs en kattenfilmpjes werden gepost. Nu kun je er urenlange podcasts, uitgebreide documentaires en de brainfarts van je geradicaliseerde buurjongen vinden.
 
-##### <a href="http://amnestyusa.org/sites/default/custom-scripts/citizenevidence" target="_blank">Amnesty YouTube Dataviewer</a> | <mark>Website</mark>
-<a href="http://amnestyusa.org/sites/default/custom-scripts/citizenevidence" target="_blank">![](images/amnestydataviewer.png)</a>
-Met de Amnesty YouTube Dataviewer kun je reversed Image Search uitvoeren op YouTube-video's om foto's, video's en audio te vinden. Het is niet 100% accuraat, maar kan verrassende resultaten opleveren.
+##### <a href="https://filmot.com/" target="_blank">Filmot</a> | <mark>Website</mark>
+<a href="https://filmot.com/" target="_blank">![](images/filmot.png)</a>
+Met Filmot kun je door de ondertitels van 1,5 miljard YouTube-video's zoeken. Enorm handig als je specifieke steekwoorden hebt om op te zoeken (en bizar dat YouTube zelf geen optie heeft om dit te doen).
 
 ##### <a href="http://www.watchframebyframe.com/" target="_blank">Watch Frame By Frame</a> | <mark>Website</mark>
 <a href="http://www.watchframebyframe.com/" target="_blank">![](images/watchframebyframe.png)</a>
@@ -368,6 +372,14 @@ Door de website <a href="https://thispersondoesnotexist.com/" target="_blank">Th
 <a href="https://aws.amazon.com/getting-started/hands-on/detect-analyze-compare-faces-rekognition/" target="_blank">![](images/amazonrekognition.png)</a>
 Hoeveel lijken twee gezichten op elkaar? Handig als je een persoon zoekt en twee foto’s met elkaar moet vergelijken.
 
+##### <a href="https://exif.tools/" target="_blank">EXIF.tools</a> | <mark>Website</mark>
+<a href="https://exif.tools/" target="_blank">![](images/exiftools.png)</a>
+Een foto is niet alleen een plaatje: in de zogeheten EXIF-file worden ook gegevens opgeslagen zoals resolutie, locatie en met welke camera een foto is gemaakt. Dat kan dus waardevolle informatie bevatten als je weet hoe je die informatie kunt inzien. <a href="https://exif.tools/" target="_blank">EXIF.tools</a> is de online variant van de tools die op <a href="https://exiftool.org/" target="_blank">exiftool.org</a> staan. 
+
+##### <a href="https://fotoforensics.com/" target="_blank">FotoForensics</a> | <mark>Website</mark>
+<a href="https://fotoforensics.com/" target="_blank">![](images/fotoforensics.png)</a>
+Een spuuglelijke site met dito logo, maar je kunt veel verborgen gegevens (waaronder de EXIF-file) van een afbeelding bekijken met <a href="https://fotoforensics.com/" target="_blank">FotoForensics</a>.
+
 ##### <a href="https://facecheck.id/" target="_blank">Facecheck.id</a> | <mark>Website</mark>
 <a href="https://facecheck.id/" target="_blank">![](images/facecheckid.png)</a>
 Facecheck.id zoekt met gezichtherkenning waar een persoon nog meer voorkomt. Helaas moet je sinds 1 maart 2024 betalen voor deze service (maar je krijgt wel 5 gratis searches).
@@ -420,6 +432,10 @@ Ze zeggen dat als iets eenmaal online staat, je het nooit meer verwijderd krijgt
 <a href="https://archive.ph/" target="_blank">![](images/archivetoday.png)</a>
 Tijdens je onderzoek kom je online ongelooflijk vaak informatie tegen die op elk moment kan worden verwijderd. Daarom is het een goede gewoonte om die sites op te slaan met een archiveerdienst. [Archive.today](https://archive.ph/){:target="_blank"} is een van de beste diensten op dat gebied. Als alternatief kun je ook de [Wayback Machine](https://archive.org/web/){:target="_blank"} van Archive.org gebruiken. Tip: je kunt ook eerder opgeslagen versies van een website doorzoeken. En let op: deze diensten slaan geen video’s op.
 
+##### <a href="https://github.com/bellingcat/auto-archiver" target="_blank">Bellingcat Auto Archiver</a> | <mark>Script</mark>
+<a href="https://github.com/bellingcat/auto-archiver" target="_blank">![](images/autoarchiver.png)</a>
+Websites, video, tweets: tijdens een doorwrocht onderzoek kom je meerdere soorten informatie tegen. En normaal gesproken heeft elk medium zijn eigen dienst nodig om gearchiveerd te worden. Maar de Bellingcat Auto Archiver belooft alles in één script bij elkaar te rapen. De installatie is enorm frustrerend, langdradig en foutgevoelig, want je hebt ongelooflijk veel extra libraries nodig. Maar als het eenmaal werkt, is het best awesome.
+
 ##### <a href="https://cachedview.nl/" target="_blank">CachedView</a> | <mark>Website</mark>
 <a href="https://cachedview.nl/" target="_blank">![](images/cachedview.png)</a>
 Via archiefdiensten kun je niet alleen websites opslaan, maar ook zoeken naar eerder opgeslagen versies van websites. Op Cachedview kun je via 6 verschillende diensten tegelijk zoeken en een screenshot van die website opvragen. Kan enorm veel tijd schelen.
@@ -431,6 +447,10 @@ Archiveren betekent ook heel veel screenshots maken. Dan wordt het al snel een o
 ##### <a href="https://getfireshot.com/" target="_blank">Fireshot</a> | <mark>Plugin</mark>
 <a href="https://getfireshot.com/" target="_blank">![](images/fireshot.png)</a>
 Een goed alternatief voor Forensic OSINT is de Fireshot plugin. Hiermee kun je screenshots maken van volledige webpagina’s. Handig als je een website wil archiveren of als beeldmateriaal nodig hebt. De website probeert je over te halen om de betaalde pro-versie te nemen, maar met de gratis plugin (voor praktisch elke browser beschikbaar) kom je ook al een heel eind.
+
+##### <a href="https://www.ubikron.com/" target="_blank">Ubikron</a> | <mark>Script</mark>
+<a href="hhttps://www.ubikron.com/" target="_blank">![](images/ubikron.png)</a>
+Met Ubikron kun je jouw online zoektocht naar dat ene cruciale bewijsstuk achteraf reconstrueren. Deze dienst slaat alles op wat in je browser gebeurt. Je kunt screenshots taggen, beschrijven en structureren. Het is vrij briljant dat dit gratis is, want voor vergelijkbare diensten zoals <a href="https://hunch.ly/" target="_blank">Hunchly</a> moet je je portemonnee trekken.
 
 ##### <a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">Video Screenshot</a> | <mark>Plugin</mark>
 <a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">![](images/videoscreenshot.png)</a>
@@ -448,10 +468,6 @@ Datajournalistiek: het allermooiste beroep ter wereld (is mijn geheel objectieve
 
 #### <a id="verzamelen"></a>Verzamelen
 Zonder data geen datajournalistiek (duh), dus hieronder een aantal websites en plugins waarmee je moeilijk te verkrijgen gegevens alsnog kunt verzamelen.
-
-##### <a href="https://www.cometdocs.com/" target="_blank">Cometdocs</a> | <mark>Website</mark>
-<a href="https://www.cometdocs.com/" target="_blank">![](images/cometdocs.png)</a>
-Met Cometdocs kun je een eenvoudige tabel uit een PDF-document snel omzetten naar Excel of CSV.
 
 ##### <a href="https://csvjson.com/" target="_blank">CSVJSON</a> | <mark>Website</mark>
 <a href="https://csvjson.com/" target="_blank">![](images/csvjson.png)</a>
@@ -629,6 +645,10 @@ Je hebt een XLS-bestand nodig, maar ontvangt een ODS: het tragische leven van ee
 <a href="https://www.diffchecker.com/" target="_blank">![](images/diffchecker.png)</a>
 Zoek je de verschillen tussen twee teksten? Op Diffchecker kun je die teksten invoeren en zie je met handige kleuren waar de verschillen zijn. Voortaan weet je dus exact zien wat je eindredacteur heeft gewijzigd, of wat een ministerie heeft veranderd in de concept- en definitieve versie van een rapport. Werkt ook voor afbeeldingen en documenten.
 
+##### <a href="https://miro.com/" target="_blank">Miro</a> | <mark>Website</mark>
+<a href="https://miro.com/" target="_blank">![](images/miro.png)</a>
+Met Miro kun je online brainstormen met andere personen. Je kunt memo's ophangen op een online prikbord en met je cursor lekker rondzwerven. Een vrolijke omgeving om snel ideeën te organiseren.
+
 ##### <a href="https://www.notion.so" target="_blank">Notion</a> | <mark>Software</mark>
 <a href="https://www.notion.so" target="_blank">![](images/notion.png)</a>
 Notion is mijn persoonlijke voorkeur voor een app om notities mee te maken. Het grote voordeel van Notion is dat je databases kunt maken in je notities.
@@ -659,6 +679,13 @@ Met de Woo-generator kun je een Woo-verzoek opstellen, maar waar dien je die ver
 
 **[terug naar overzicht ⬆](#)**
 <hr>
+
+### <a id="emailphone"></a><i class="fa fa-graduation-cap" aria-hidden="true"></i> Tutorials
+Geef een man een vis, etc. enz.: maar goed, aan een hengel heb je niets als je niet weet hoe je moet vissen. Daarom verzamel ik hier de nuttigste tutorials voor journalisten.
+<ul class="fa-ul">
+* <a href="https://docs.google.com/presentation/d/1Blr5vxnLy1i_2rGqO-iYZmZOGxlnSPhCi9eCpNu8OeY/edit?slide=id.g388dedacac4_0_9#slide=id.g388dedacac4_0_9" target="_blank">Survivalgids Voor Nepnieuws, AI-prut en Trollen</a>
+* Meer volgt binnenkort (tips altijd welkom)
+</ul>
 
 <a id="einde"></a>
 Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Of misschien ontbreekt er wel een tool? 

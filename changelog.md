@@ -100,3 +100,19 @@
 - Telegram Group Scraper
 - BitcoinWhosWho
 - Teachable Machine
+
+## 1.3.3 (2025-11-23)
+
+### Toegevoegd
+- Survivalgids Voor Nepnieuws, AI-prut en Trollen
+- Bellingcat Auto Archiver
+- Ubikron
+- HaveIBeenPwned
+- Miro
+- Filmot
+- EXIF.tools
+- FotoForensics
+
+### Verwijderd
+- Cometdocs bestaat niet meer
+- Amnesty Data Viewer bestaat niet meer
