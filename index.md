@@ -685,6 +685,8 @@ Geef een man een vis, etc. enz.: maar goed, aan een hengel heb je niets als je n
 * <a href="https://docs.google.com/presentation/d/1Blr5vxnLy1i_2rGqO-iYZmZOGxlnSPhCi9eCpNu8OeY/edit?slide=id.g388dedacac4_0_9#slide=id.g388dedacac4_0_9" target="_blank">Survivalgids Voor Nepnieuws, AI-prut en Trollen</a>
 * Meer volgt binnenkort (tips altijd welkom)
 
+<hr>
+
 <a id="einde"></a>
 Deze website is gemaakt door <a href="https://www.jerryvermanen.nl/" target="_blank">Jerry Vermanen</a>, data- en onderzoeksjournalist bij Pointer (KRO-NCRV). Uiteraard heb ik deze tools met veel liefde en aandacht op een rijtje gezet, maar een fout zit in een klein hoekje. Of misschien ontbreekt er wel een tool? 
 
