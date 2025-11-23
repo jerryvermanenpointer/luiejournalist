@@ -449,7 +449,7 @@ Archiveren betekent ook heel veel screenshots maken. Dan wordt het al snel een o
 Een goed alternatief voor Forensic OSINT is de Fireshot plugin. Hiermee kun je screenshots maken van volledige webpagina’s. Handig als je een website wil archiveren of als beeldmateriaal nodig hebt. De website probeert je over te halen om de betaalde pro-versie te nemen, maar met de gratis plugin (voor praktisch elke browser beschikbaar) kom je ook al een heel eind.
 
 ##### <a href="https://www.ubikron.com/" target="_blank">Ubikron</a> | <mark>Script</mark>
-<a href="hhttps://www.ubikron.com/" target="_blank">![](images/ubikron.png)</a>
+<a href="https://www.ubikron.com/" target="_blank">![](images/ubikron.png)</a>
 Met Ubikron kun je jouw online zoektocht naar dat ene cruciale bewijsstuk achteraf reconstrueren. Deze dienst slaat alles op wat in je browser gebeurt. Je kunt screenshots taggen, beschrijven en structureren. Het is vrij briljant dat dit gratis is, want voor vergelijkbare diensten zoals <a href="https://hunch.ly/" target="_blank">Hunchly</a> moet je je portemonnee trekken.
 
 ##### <a href="https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial" target="_blank">Video Screenshot</a> | <mark>Plugin</mark>
