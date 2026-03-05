@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Met deze **121** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
+## Met deze **124** tools kun jij een luie (lees: <mark>efficiënte</mark>, <mark>doelgerichte</mark> en <mark>innovatieve</mark>) journalist worden
 
 <hr>
 **Tools**: **[Zoekmachines](#zoekmachines)** • **[Email & Telefoon](#emailphone)** • **[Usernames](#usernames)** • **[Websites & Domeinen](#websites)** • **[Sociale Media](#social)**: *[Facebook](#fb)* • *[Instagram](#insta)* • *[Telegram](#telegram)* • *[YouTube](#youtube)* • *[TikTok](#tiktok)* • *[Reddit](#reddit)* • *[Discord](#discord)* • *[Bluesky](#bluesky)* • *[X (voorheen Twitter)](#twitter)* • *[LinkedIn](#linkedin)* • *[Mastodon](#mastodon)* • *[Threads](#threads)* • **[Verificatie](#verificatie)** • **[Archiveren](#archiveren)** • **[Data](#data)**: *[Verzamelen](#verzamelen)* • *[Bewerken](#bewerken)* • *[Visualiseren](#visualiseren)* • **[AI](#ai)** • **[Crypto](#crypto)** • **[Overig](#overig)** • **[Tutorials](#tutorials)**
@@ -31,6 +31,10 @@ In dit register kun je internationaal zoeken in de Kamers Van Koophandel van all
 <a href="https://haveibeenpwned.com/" target="_blank">![](/images/pownd.png)</a>
 Op deze site kun je checken of een emailadres in een datalek voorkomt. Handig om je eigen digitale veiligheid te checken, maar ook om te controleren of een mailadres daadwerkelijk gebruikt wordt. Voor telefoonnummers kun je checken of ze in de <a href="https://nos.nl/artikel/2375266-gegevens-van-honderden-miljoenen-facebookgebruikers-op-hackersforum-gedeeld" target="_blank">Facebook Data Breach</a> hebben gestaan.
 
+##### <a href="https://publicwww.com/" target="_blank">Publicwww</a> | <mark>Website</mark>
+<a href="https://publicwww.com/" target="_blank">![](/images/publicwww.png)</a>
+Dit is een interessante en afwijkende zoekmachine, want met Publicwww zoek je op de broncode van websites. Heb je in de code van een website een specifieke vingerafdruk gevonden van jouw verdachte? Dan kun je deze site gebruiken om mogelijk andere websites van die persoon te vinden.
+
 ##### <a href="https://www.shodan.io/" target="_blank">Shodan</a> | <mark>Website</mark>
 <a href="https://www.shodan.io/" target="_blank">![](/images/shodan.png)</a>
 Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden: het zogeheten Internet of Things (IoT). <a href="https://github.com/lothos612/shodan" target="_blank">Check ook deze pagina</a> om slimme zoekopdrachten (dorks) te formuleren.
@@ -38,6 +42,10 @@ Shodan is de zoekmachine voor apparaten die aan het internet zijn verbonden: het
 ##### <a href="https://www.social-searcher.com/" target="_blank">SocialSearcher</a> | <mark>Website</mark>
 <a href="https://www.social-searcher.com/" target="_blank">![](/images/socialsearcher.png)</a>
 SocialSearcher is een zoekmachine waarmee je o.a. in de openbare comments van Reddit, YouTube, Facebook en VKontakte kunt zoeken.
+
+##### <a href="https://waybien.com/" target="_blank">Waybien</a> | <mark>Website</mark>
+<a href="https://waybien.com/" target="_blank">![](/images/waybien.png)</a>
+Met Waybien kun je zoeken naar specifieke groepen op Telegram, Whatsapp, Discord en Facebook. Enorm handig als je het vermoeden hebt dat een deel van jouw onderzoek zich afspeelt in een besloten groep met een invitelink.
 
 **[terug naar overzicht ⬆](#)**
 <hr>
@@ -160,9 +168,9 @@ Met de FB Friend List Scraper kun je de vrienden van openbare Facebookprofielen 
 <a href="https://fdown.net/" target="_blank">![](images/fdown.png)</a>
 Met FDown kun je snel openbare Facebook-video’s downloaden.
 
-##### <a href="https://lookup-id.com/" target="_blank">Lookup ID</a> | <mark>Website</mark>
-<a href="https://lookup-id.com/" target="_blank">![](images/lookupid.png)</a>
-Met Lookup.id kun je de ID-code van een Facebook-profiel vinden. Voor sommige andere zoekdiensten (die staan hieronder vermeld) kan die ID-code handig zijn.
+##### <a href="https://findidfb.com/" target="_blank">Find FB ID</a> | <mark>Website</mark>
+<a href="https://findidfb.com/" target="_blank">![](images/findfbid.png)</a>
+Met Find FB ID kun je de ID-code van een Facebook-profiel vinden. Voor sommige andere zoekdiensten (die staan hieronder vermeld) kan die ID-code handig zijn.
 
 ##### <a href="https://www.sowsearch.info/" target="_blank">SowSearch</a> | <mark>Website</mark>
 <a href="https://www.sowsearch.info/" target="_blank">![](images/sowsearch.png)</a>
@@ -261,6 +269,10 @@ Met deze Chrome plugin kun je zoeken naar specifieke woorden in een YouTube-vide
 ##### <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">YouTube-dlp</a> | <mark>Scraper</mark>
 <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">![](images/ytdlp.png)</a>
 Met YouTube-dlp kun je binnen no-time via de terminal YouTube-video’s (en beeldmateriaal van talloze andere websites) downloaden.
+
+##### <a href="https://ytdlp.online/" target="_blank">ytdlp.online</a> | <mark>Scraper</mark>
+<a href="https://ytdlp.online/" target="_blank">![](images/ytdlponline.png)</a>
+Maar goed, bij YouTube zijn de ook niet gek (en niet iedereen is bedreven in het installeren van allerlei script in de Command Line). Dus ik raad ook <a href="https://ytdlp.online/" target="_blank">ytdlp.online</a> aan: iets beperkter, maar ook gebruiksvriendelijker.
 
 **[terug naar overzicht ⬆](#)**
 

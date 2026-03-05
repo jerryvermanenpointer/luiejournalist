@@ -116,3 +116,14 @@
 ### Verwijderd
 - Cometdocs bestaat niet meer
 - Amnesty Data Viewer bestaat niet meer
+
+## 1.3.4 (2026-03-05)
+
+### Toegevoegd
+- ytdlp.online
+- Find FB ID
+- Publicwww
+- Waybien
+
+### Verwijderd
+- Lookup-ID werkt niet meer
